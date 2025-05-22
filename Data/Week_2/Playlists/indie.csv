@@ -1,0 +1,855 @@
+#,Song,Artist,Popularity,BPM,Genres,Parent Genres,Album,Album Date,Time,Dance,Energy,Acoustic,Instrumental,Happy,Speech,Live,Loud (Db),Key,Time Signature,Added At,Spotify Track Id,Album Label,Camelot,ISRC
+1,"Kilby Girl","The Backseat Lovers",80,162,"","","When We Were Friends",2019-01-27,04:42,33,44,6,4,23,0,10,-10,C♯/D♭,4,2021-02-02,1170VohRSx6GwE6QDCHPPH,"The Backseat Lovers",3B,USCGH1936387
+2,"Hot Rod","Dayglow",6,140,"indie rock","Rock","Fuzzybrain",2019-11-14,03:24,71,77,3,0,83,0,10,-7,G,4,2021-02-02,0zePbRMJ9sd7wsZRlbPQua,"Very Nice Records",9B,TCADU1861897
+3,"Brazil","Declan McKenna",85,121,"","","What Do You Think About the Car?",2017-04-13,04:12,69,62,9,0,67,0,0,-5,E,4,2021-02-02,4sNG6zQBmtq7M8aeeKJRMQ,"Columbia",12B,GBARL1500856
+4,"Pleaser","Wallows",68,149,"indie","Pop, Rock","Pleaser",2017-04-12,03:07,50,91,13,0,39,0,20,-4,A,4,2021-02-02,11zf7m4vw9Ze7cer9Nyhk1,"Atlantic Records",11B,USAT21801170
+5,"Televised","HUNNY",62,108,"indie pop","Pop, Rock","Windows I",2017-05-26,03:14,59,75,0,0,43,0,10,-8,G#/A♭,4,2021-02-02,35Ki1lvKPC2sFBD3GmKdRG,"Epitaph",4B,QM24S1701430
+6,"didya think","Arlie",59,140,"","","Wait",2018-09-19,03:20,47,89,0,0,71,0,50,-3,E,4,2021-02-02,4HOg84QsolNLzNp08qZ3sX,"Atlantic Records",12B,USAT21704742
+7,"Buttercup","Hippo Campus",61,109,"","","Landmark",2017-02-24,03:46,62,76,20,0,20,0,10,-4,A,4,2021-02-02,6iCJCZqDJjmBxt07Oid6FI,"Grand Jury (RED)",11B,QM5BK1600122
+8,"Tongue Tied","GROUPLOVE",83,113,"indie","Pop, Rock","Never Trust a Happy Song",2011-09-02,03:38,56,94,1,0,37,0,10,-6,D#/E♭,4,2021-02-02,0GO8y8jQk1PkHzS31d699N,"Canvasback/ATL",5B,USAT21101334
+9,"Talk Too Much","COIN",70,104,"","","How Will You Know If You Never Try",2017-04-21,03:07,60,89,1,0,48,0,30,-5,E,4,2021-02-02,4djIFfof5TpbSGRZUpsTXq,"StarTime International/Columbia",12B,USSM11602662
+10,"Goodie Bag","Still Woozy",74,138,"bedroom pop","Pop","Goodie Bag",2017-11-05,02:26,74,52,82,0,62,10,20,-12,G minor,4,2021-02-02,4vHNeBWDQpVCmGbaccrRzi,"Still Woozy Productions Inc., under exclusive license to Interscope Records",6A,QZANL1712241
+11,"Cold Cold Man","Saint Motel",67,111,"","","My Type EP",2014-08-16,03:50,61,66,1,0,51,0,10,-5,A,4,2021-02-02,6RKGBcDtgzXx21zUjpeu6F,"Parlophone UK",11B,GBAYE1400934
+12,"Freakin' Out On the Interstate","Briston Maroney",71,144,"","","Freakin' Out On The Interstate (Acoustic Version [Live])",2020-07-10,04:11,45,79,39,0,36,0,30,-5,E,4,2021-02-02,0awZwmlC6pxH65KTZpadmX,"Canvasback/ATL",12B,QZBRF1882980
+13,"Seventeen","Peach Pit",55,92,"","","Sweet FA",2018-06-27,03:36,56,89,1,1,81,0,10,-5,B,4,2021-02-02,0SBariQWfKjoslW2XSIFOm,"Columbia",1B,USSM11805166
+14,"Dance, Baby!","boy pablo",64,122,"bedroom pop","Pop","Roy Pablo",2017-05-19,03:18,60,60,4,0,86,0,30,-9,A,4,2021-02-02,5EV4bGHxVN0kHpcAFvgnTt,"777 Music",11B,USQY51745799
+15,"Are You Bored Yet? (feat. Clairo)","Wallows,Clairo",82,120,"indie, bedroom pop","Pop, Rock","Nothing Happens",2019-03-22,02:58,68,68,16,0,64,0,20,-6,G#/A♭ minor,4,2021-02-02,57RA3JGafJm5zRtKJiKPIm,"Atlantic Records",1A,USAT21812258
+16,"The Less I Know The Better","Tame Impala",88,117,"indie, psychedelic pop","Pop, Rock","Currents",2015-07-17,03:36,64,74,1,1,79,0,10,-4,E,4,2021-02-02,6K4t31amVTZDgR3sKmwUJJ,"Universal Music Australia Pty. Ltd.",12B,AUUM71500303
+17,"New Flesh","Current Joys",0,166,"","","Wild Heart",2013-01-02,02:47,62,59,89,50,70,0,0,-16,A,4,2021-02-02,6TEiFwaiHERpdfG6WnGed1,"Current Joys",11B,TCACS1660968
+18,"Moving On","Sarah and the Sundays",3,125,"","","So You're Mad About the Cups",2019-05-19,02:39,73,70,16,0,79,0,30,-6,A,4,2021-02-02,2ndjM095ej5deq3nnhzVkU,"Sarah and the Sundays",11B,TCAEF1960088
+19,"Raspberry","GROUPLOVE",60,105,"indie","Pop, Rock","Spreading Rumours",2013-09-17,03:16,49,78,3,0,45,0,10,-5,D#/E♭,4,2021-02-02,1F5A4LpF8ylUVtPoMAvNvn,"Canvasback/ATL",5B,USAT21301610
+20,"Crash My Car","COIN",1,184,"","","Dreamland",2020-02-21,03:08,24,65,0,1,53,0,30,-6,F,5,2021-02-02,0X5mtNbqxbiTYkwj0CQc2f,"The Committee for Sound & Mind",7B,USSM11902799
+21,"Out of My League","Fitz and The Tantrums",80,170,"","","More Than Just a Dream (Deluxe Edition)",2013-05-07,03:29,55,97,4,0,53,0,30,-4,A minor,4,2021-02-02,2AYEOC02WLhUiOoaig2SEH,"Elektra (NEK)",8A,USAT21300149
+22,"Sweet Talk","Saint Motel",66,117,"","","saintmotelevision",2016-10-21,03:12,67,84,4,0,71,0,20,-4,C♯/D♭,4,2021-02-02,6kcHg7XL6SKyPNd78daRBL,"Elektra (NEK)",3B,USAT21602338
+23,"Daft Pretty Boys","Bad Suns",1,137,"","","Disappear Here",2016-09-16,03:07,66,84,6,0,61,0,0,-5,G#/A♭,4,2021-02-02,41d2Q6DHcM20OdzynkRtvf,"Vagrant Records",4B,QMRSZ1600419
+24,"Shampoo Bottles","Peach Pit",65,107,"","","You and Your Friends",2020-04-03,03:44,65,44,2,0,33,0,0,-10,G#/A♭,4,2021-02-02,2INUkDPCO1eQlOFmIN5VAC,"Columbia",4B,USSM11914411
+25,"Feeling Lonely","boy pablo",59,118,"bedroom pop","Pop","Soy Pablo",2018-10-05,03:17,63,54,1,0,89,0,10,-10,F#/G♭ minor,4,2021-02-02,5uIRujGRZv5t4fGKkUTv4n,"U OK?",11A,NOV7L1802030
+26,"British Bombs","Declan McKenna",59,132,"","","British Bombs",2019-08-19,04:57,67,87,5,0,69,0,30,-6,F#/G♭,4,2021-02-02,4ZdmTNaBTErD8n9AQE0YaX,"High Quality Popular Music",2B,GBARL1900810
+27,"Vowels (and the Importance of Being Me)","HUNNY",55,150,"indie pop","Pop, Rock","Vowels (and the Importance of Being Me)",2016-04-08,03:04,48,88,0,0,72,0,10,-5,E,4,2021-02-02,2yfu1w0yFYHAHnr4p5JS7V,"Epitaph",12B,TCACN1666155
+28,"Electric Love","BØRNS",82,120,"","","Dopamine",2015-10-16,03:38,61,80,1,0,52,0,20,-8,F#/G♭ minor,4,2021-02-02,2GiJYvgVaD2HtM8GqD9EgQ,"UMGRI Interscope",11A,USUM71416307
+29,"Cooks","Still Woozy",63,77,"bedroom pop","Pop","Cooks",2017-07-16,02:54,45,58,43,1,70,0,20,-10,E minor,4,2021-02-02,75TDPu9k7Yv3IovdYaNCwk,"Still Woozy Productions Inc., under exclusive license to Interscope Records",9A,UST8K1799101
+30,"I Love You So","The Walters",5,76,"","","Songs for Dads",2014-11-28,02:40,58,67,65,0,50,0,10,-5,A#/B♭,4,2021-02-02,1175r6ZmkUjX8dRJLz9Ohk,"The Walters",6B,TCACC1438995
+31,"Sunflower","Rex Orange County",2,130,"bedroom pop","Pop","Sunflower",2017-03-22,04:12,38,77,65,0,57,0,50,-4,F#/G♭,4,2021-02-02,4EpZ4eYuZOwPSSwyqpdHnJ,"Rex Orange County",2B,US23A1500468
+32,"Honeypie","JAWNY",79,115,"bedroom pop","Pop","For Abby",2020-10-27,02:15,74,69,6,0,94,0,10,-4,F minor,4,2021-02-02,6FfLg6FFqhCsrFOaHIGkg0,"Johnny Utah LLC",4A,GBKPL1946902
+33,"Trouble","Cage The Elephant",75,78,"modern rock","Rock","Tell Me I'm Pretty",2015-12-18,03:45,47,62,39,0,30,0,10,-6,C,4,2021-02-02,5n0CTysih20NYdT2S0Wpe8,"RCA Records Label",8B,USRC11502826
+34,"Sit Next to Me","Foster The People",77,97,"","","Sacred Hearts Club",2017-07-21,04:03,64,74,12,0,66,0,60,-5,F#/G♭ minor,4,2021-02-02,4BdGO1CaObRD4La9l5Zanz,"Columbia",11A,USSM11704909
+35,"Cough Syrup","Young the Giant",73,129,"","","Young The Giant (Special Edition)",2011-00-00,04:09,53,72,3,0,23,0,10,-7,B minor,3,2021-02-02,1UqhkbzB1kuFwt2iy4h29Q,"Roadrunner Records",10A,NLA321090389
+36,"Small Talk","Briston Maroney",62,130,"","","Indiana",2019-05-17,03:18,61,64,29,0,44,0,10,-8,C,4,2021-02-02,5kBYMymc2d3h164QqEHwRL,"Canvasback/ATL",8B,USAT21901843
+37,"Freaks","Surf Curse",3,180,"indie","Pop, Rock","Buds",2015-05-10,02:27,35,94,0,56,40,0,0,-10,A,4,2021-02-02,0HUTL8i4y4MiGCPId7M7wb,"Big Joy Records",11B,TCACA1429223
+38,"Stella Brown","Jelani Aryeh",54,125,"","","Stella Brown",2020-04-03,03:07,72,48,21,8,59,0,20,-8,D,4,2021-02-02,4gwltSjdrzKtKz9dlk2Wja,"No Matter",10B,USA2P2010684
+39,"Dope on a Rope","The Growlers",57,146,"surf rock","Rock","City Club",2016-09-30,04:10,42,90,0,0,74,10,30,-4,G,4,2021-02-02,76c1AuZodByXM3X2k48wju,"Cult Records",9B,QMKBG1600048
+40,"Silhouettes","Colony House",0,165,"","","When I Was Younger",2014-07-22,02:57,48,76,1,0,57,0,0,-7,G#/A♭,4,2021-02-02,612JlaWJl5l6VIrcBck5QB,"Descendant Records",4B,USA5W1400128
+41,"Loving Is Easy (feat. Benny Sings)","Rex Orange County,Benny Sings",5,117,"bedroom pop, ","Pop","Loving Is Easy (feat. Benny Sings)",2017-10-11,02:35,76,61,22,0,54,0,10,-8,D#/E♭,4,2021-02-02,5EYi2rH4LYs6M21ZLOyQTx,"Rex Orange County",5B,GBKPL1789493
+42,"Looking Out for You","Joy Again",4,101,"","","Looking Out for You",2015-11-06,02:59,68,90,9,6,94,0,0,-5,A,4,2021-02-02,1lpLrlyweOShEKXT1bpcDd,"Never Grow Up Records",11B,GBJET1500070
+43,"Kids","Current Joys",8,113,"","","Kids",2015-03-08,04:29,83,66,51,40,90,0,0,-10,F#/G♭,4,2021-02-02,6ixkZ2Q9gQeh52C6GxbETg,"Current Joys",2B,TCACS1677524
+44,"Boys Will Be Bugs","Cavetown",70,179,"bedroom pop","Pop","Animal Kingdom",2019-04-12,05:29,49,53,0,0,45,0,10,-12,C♯/D♭,4,2021-02-02,6suYoN4gFkanqOBn5yRnJC,"Oat Milk Industries and Many Hats Endeavors",3B,USL4Q1849675
+45,"505","Arctic Monkeys",85,140,"indie, garage rock","Rock, Pop","Favourite Worst Nightmare (Standard Version)",2007-04-24,04:13,52,85,0,0,23,0,0,-6,C,4,2021-02-02,58ge6dfP91o9oXMzq3XkIS,"Domino/Warner Records",8B,GBCEL0700074
+46,"Mind Over Matter","Young the Giant",75,155,"","","Mind Over Matter",2014-01-17,04:04,47,76,0,0,29,0,10,-4,C,4,2021-02-02,5Az8KU81g2aLBbJN67F2CI,"Fueled By Ramen",8B,USAT21304149
+47,"Disco","Surf Curse",0,173,"indie","Pop, Rock","Heaven Surrounds You",2019-09-13,02:32,48,62,3,0,78,0,10,-9,B minor,4,2021-02-02,644hazYIWNQq4URUn7CPnQ,"Danger Collective Records",10A,QM6MZ1965210
+48,"Sweater Weather","The Neighbourhood",93,124,"","","I Love You.",2013-04-22,04:00,61,81,5,2,40,0,10,-3,A#/B♭,4,2021-02-02,2QjOHCTQ1Jl3zawyYOpxh6,"Columbia",6B,USSM11300080
+49,"Take a Walk","Passion Pit",67,101,"indie","Pop, Rock","Gossamer",2012-07-23,04:24,57,76,3,0,45,0,30,-6,B,4,2021-02-02,4Sfa7hdVkqlM8UW5LsSY3F,"Columbia",1B,USSM11202617
+50,"Electric Feel","MGMT",83,103,"indie","Pop, Rock","Oracular Spectacular",2007-12-14,03:49,76,80,7,28,56,0,30,-4,C♯/D♭,3,2021-02-02,3FtYbEfBqAlGO46NUDQSAt,"Red Ink/Columbia",3B,USSM10702131
+51,"Feels Like We Only Go Backwards","Tame Impala",78,150,"indie, psychedelic pop","Pop, Rock","Lonerism",2012-01-01,03:12,30,90,3,64,49,0,10,-2,D minor,4,2021-02-02,0LtOwyZoSNZKJWHqjzADpW,"Modular",7A,AUUM71200493
+52,"Everybody Talks","Neon Trees",82,155,"","","Picture Show",2012-01-01,02:57,47,92,0,0,72,0,30,-4,G#/A♭,4,2021-02-02,2iUmqdfGZcHIhS3b9E9EWq,"Mercury Records",4B,USUM71119189
+53,"Chicken","Your Neighbors",59,93,"","","Chicken",2018-04-01,03:27,57,76,3,0,66,0,50,-8,A#/B♭ minor,4,2021-02-02,7fPUzdTdRD8xIJUOq0uX6n,"Your Neighbors",3A,uscgj1878454
+54,"affection","BETWEEN FRIENDS",2,180,"","","we just need some time together",2018-04-05,03:55,27,56,52,0,30,20,0,-7,D,4,2021-02-02,2lTtnKQgjbrBA1qnOFhBkP,"Artbeatz",10B,USQX91800782
+55,"Pretty Girl","Clairo",78,112,"bedroom pop","Pop","Pretty Girl",2017-08-04,02:58,93,61,59,0,70,0,0,-4,C,4,2021-02-02,0KyAGiNGUytG5JLxJu4F6l,"FADER Label",8B,TCADF1795049
+56,"Pumped Up Kicks","Foster The People",87,128,"","","Torches",2011-05-23,03:59,73,71,14,12,97,0,10,-6,F minor,4,2021-02-02,7w87IxuO7BDcJ3YUqCyMTT,"Columbia",4A,USSM11002931
+57,"Tungs","The Frights",52,106,"surf rock, garage rock","Rock","You Are Going to Hate This",2016-02-12,02:50,56,62,7,0,50,10,50,-11,C♯/D♭ minor,4,2021-02-02,4WYwP4V2SGCUXJGEha0ODM,"Dangerbird Records",12A,US3R21612405
+58,"Candy Wrappers","Summer Salt",45,95,"","","So Polite",2017-07-18,03:14,69,55,70,42,48,0,30,-7,F,4,2021-02-02,2WrzwxqDxBWcWYkk9DAJ9j,"Cherry Lime Records",7B,QZ8LD1739331
+59,"Swing Lynn","Harmless",1,165,"","","I'm Sure",2012-08-14,05:21,46,95,5,75,48,0,10,-2,D,4,2021-02-02,6hIOunhsLUT66KQgZV5dMD,"Harmless",10B,TCACS1610798
+60,"Breezeblocks","alt-J",73,150,"indie, indie rock","Pop, Rock","An Awesome Wave",2012-09-18,03:47,62,66,10,0,29,0,20,-7,F,4,2021-02-02,3n69hLUdIsSa1WlRmjMZlW,"Canvasback/ATL",7B,GBZUZ1200067
+61,"blind","ROLE MODEL",65,150,"bedroom pop","Pop","our little angel - EP",2020-10-21,02:33,77,66,14,0,69,0,0,-5,C,4,2021-02-02,0NuWgxEp51CutD2pJoF4OM,"Interscope Records",8B,USUM72010617
+62,"blackboard.edu","Arlie",38,129,"","","blackboard.edu",2018-03-06,03:39,58,71,2,0,68,0,50,-4,B minor,4,2021-02-02,4ksGtCNk3pETRk6NcvSkca,"Atlantic Records",10A,USAT21800854
+63,"Close To You","Dayglow",10,140,"indie rock","Rock","Close To You",2021-01-11,03:14,88,65,43,0,83,0,0,-6,F#/G♭,4,2021-02-02,4ReJJcpW8HtVnqzhf6DwNV,"Very Nice Records",2B,GBKPL2035998
+64,"we fell in love in october","girl in red",4,130,"bedroom pop","Pop","we fell in love in october / forget her",2018-11-21,03:04,57,37,11,18,24,0,10,-13,G,4,2021-02-02,1BYZxKSf0aTxp8ZFoeyM3d,"world in red",9B,GBKPL1828677
+65,"Babydoll","Dominic Fike",84,168,"","","Don't Forget About Me, Demos",2018-10-16,01:37,76,60,11,0,85,10,0,-5,G minor,4,2021-02-02,7yNf9YjeO5JXUE3JEBgnYc,"Columbia",6A,USQX91802457
+66,"Dontmakemefallinlove","Cuco",1,104,"bedroom pop","Pop","Chiquito",2018-05-04,03:27,39,90,37,43,84,0,0,-5,G#/A♭,4,2021-02-02,6zHyWsqTzT6Fympdy9KQDQ,"Cuco",4B,GBKPL1806792
+67,"Sunflower, Vol. 6","Harry Styles",70,160,"","","Fine Line",2019-12-13,03:41,57,85,0,0,86,0,10,-7,G minor,4,2021-02-02,6iYMfxznTBlcVOgRHab2W0,"Columbia",6A,USSM11912593
+68,"Was It Something I Said","MyKey",56,107,"bedroom pop","Pop","Was It Something I Said",2019-07-26,03:40,59,72,62,0,84,0,10,-7,F#/G♭,4,2021-02-02,65j65yDSE06CNKAPjsHoJt,"Warner Records",2B,TCAEI1908552
+69,"Lemon Boy","Cavetown",65,140,"bedroom pop","Pop","Lemon Boy",2018-01-01,04:32,51,48,19,0,32,0,0,-10,E,4,2021-02-02,3Yvk0ZLxMlt6ioasvdN6vB,"Oat Milk Industries and Many Hats Endeavors",12B,USCGH1805100
+70,"Dissolve","Absofacto,NITESHIFT",62,85,"","","Thousand Peaces",2017-11-03,03:44,69,58,23,0,87,0,0,-11,F#/G♭ minor,4,2021-02-02,7pBrj5rt4SSxXwFKOyZfHR,"2017 Absofacto",11A,USAT21704522
+71,"i wanna be your girlfriend","girl in red",1,156,"bedroom pop","Pop","i wanna be your girlfriend",2018-03-02,03:24,54,38,2,0,34,0,30,-14,G,4,2021-02-02,3h3pOvw6hjOvZxRUseB7h9,"world in red",9B,GBLFP1815318
+72,"Roddy","Djo",0,180,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:12,56,52,11,2,68,0,0,-9,C,4,2021-02-02,20WSCvv9qfQHzYzTaLyXHH,"Djo",8B,GBKPL1959394
+73,"Wish Me Luck","Wallows",41,142,"indie","Pop, Rock","Remote",2020-10-23,03:45,56,72,6,0,20,0,30,-5,G#/A♭,4,2021-02-02,0HH8q4b3CWuSeIzF4pF6vK,"Atlantic Records",4B,USAT22005323
+74,"Gorilla","Bruno Mars",67,140,"","","Unorthodox Jukebox",2012-12-07,04:04,72,54,45,0,64,0,10,-7,G,4,2021-02-02,2ih2U8ttFzCjnQ5njF3SrR,"Atlantic Records",9B,USAT21206908
+75,"Scrawny","Wallows",69,138,"indie","Pop, Rock","Nothing Happens",2019-03-22,02:46,64,82,0,6,80,0,10,-5,F#/G♭ minor,4,2021-02-02,1pNUmVxDiE8t6P1XxcZAv8,"Atlantic Records",11A,USAT21812259
+76,"These Days","Wallows",65,93,"indie","Pop, Rock","Spring EP",2018-04-06,03:22,66,67,4,3,87,0,0,-7,C,4,2021-02-02,4gZDCOFuLCxCRWNhSEcOtJ,"Atlantic Records",8B,USAT21800737
+77,"Remember When","Wallows",74,82,"indie","Pop, Rock","Nothing Happens",2019-03-22,02:35,50,71,0,0,51,0,70,-6,B minor,4,2021-02-02,5naar7XewEOAjOywIp6Jjq,"Atlantic Records",10A,USAT21812263
+78,"Why Do You Feel So Down","Declan McKenna",62,115,"","","What Do You Think About the Car?",2017-04-13,03:40,56,91,6,0,45,0,10,-6,G,4,2021-02-02,5Bge1Dsqjc14hhGguYML5w,"Columbia",9B,GBARL1601807
+79,"Can I Call You Tonight?","Dayglow",8,130,"indie rock","Rock","Fuzzybrain",2019-11-14,04:38,64,84,13,91,50,0,40,-7,A,4,2021-02-02,64lsIF5pw0sJY0gV5kz0RN,"Very Nice Records",11B,TCADL1825079
+80,"OK","Wallows",65,102,"indie","Pop, Rock","OK",2020-03-20,03:13,72,63,1,1,82,0,10,-6,G,4,2021-02-02,0APAKxMXB7jdDs4kw1l30y,"Atlantic Records",9B,USAT22000802
+81,"Maple Syrup","The Backseat Lovers",74,153,"","","When We Were Friends",2019-01-27,04:03,54,53,4,5,38,0,0,-10,D,3,2021-02-02,4MXE6VCvTsQitHWrAxj7Kg,"The Backseat Lovers",10B,USHM91827808
+82,"Drunk on Halloween","Wallows",54,101,"indie","Pop, Rock","Drunk on Halloween",2018-10-12,03:57,63,63,23,0,77,0,0,-4,F#/G♭,4,2021-02-02,0z9dPcBhJvqO06QMaKelUE,"Atlantic Records",2B,USAT21811471
+83,"Listerine","Dayglow",0,135,"indie rock","Rock","Fuzzybrain",2019-11-14,03:35,69,58,17,82,90,0,30,-12,B,4,2021-02-02,5LEVjmo2QweDHc7k19aFcp,"Very Nice Records",1B,GBKPL1971954
+84,"False Direction","Dayglow",0,150,"indie rock","Rock","Fuzzybrain",2019-11-14,04:37,68,58,3,0,77,0,10,-10,B,4,2021-02-02,3IxKc2OLHw5ltmUkQKoUkV,"Very Nice Records",1B,TCADQ1861725
+85,"Pictures of Girls","Wallows",62,155,"indie","Pop, Rock","Spring EP",2018-04-06,03:24,44,82,0,1,49,0,0,-6,F#/G♭,4,2021-02-02,415dK4glwDO7fXxYg3np8B,"Atlantic Records",2B,USAT21800731
+86,"You Know It","Colony House",60,158,"","","Only The Lonely",2017-01-13,03:02,40,96,4,0,57,10,10,-3,D#/E♭,4,2021-02-02,169pWCmfvVazzcL4EXFPgL,"Descendant Records/RCA Records",5B,QMTAA1600045
+87,"My Little","Ryan Leahan",44,139,"","","Platinum Green",2019-01-17,02:02,33,71,17,0,45,0,50,-6,B minor,4,2021-02-02,4E3U39bAmc61R0hZu2xciI,"Ryan Leahan",10A,QZ4JJ1939282
+88,"big fat mouth","Arlie",53,128,"","","Wait",2018-09-19,03:38,61,83,7,0,86,0,10,-5,D,4,2021-02-02,0ZiGRciYMWrDvCPNM0T21o,"Atlantic Records",10B,USAT21800744
+89,"Dræm Girl","No Vacation",1,173,"bedroom pop, dream pop","Pop, Rock","Summer Break Mixtape",2015-07-15,03:54,19,95,0,72,26,20,30,-6,D,4,2021-02-02,6lbLn5iL2NBJnbib7bTXMn,"No Vacation",10B,USHM81626735
+90,"Malibu 1992","COIN",58,147,"","","How Will You Know If You Never Try",2017-04-21,05:41,56,32,6,13,50,0,10,-8,F#/G♭,4,2021-02-02,0nMqu5vN44GNv8UOQxmBJK,"StarTime International/Columbia",2B,USSM11701133
+91,"1980s Horror Film II","Wallows",56,116,"indie","Pop, Rock","1980s Horror Film II",2018-10-11,03:55,59,66,0,1,27,0,0,-5,D,4,2021-02-02,3VzULnaqPKf1deQyZ5W4Ah,"Atlantic Records",10B,USAT21811470
+92,"Japanese Posters","Rebounder",0,95,"","","Japanese Posters",2018-03-02,02:36,67,63,1,0,80,0,20,-7,F#/G♭ minor,4,2021-02-02,6ztalf0qthMhvcqVxL7v6I,"Rebounder",11A,QM24S1802607
+93,"Slow Angel","Rebounder",0,172,"","","Slow Angel",2019-09-12,02:32,40,76,0,0,56,0,20,-7,C,4,2021-02-02,7CEvfOY6Sx35SGoareC0eV,"Rebounder",8B,QZ93L1960242
+94,"iloveyou","BETWEEN FRIENDS",0,92,"","","we just need some time together",2018-04-05,02:46,63,59,11,0,35,0,30,-7,A#/B♭,4,2021-02-02,0ygr1n1Xk1UvWrzJXjVVng,"Artbeatz",6B,USQX91800785
+95,"Fall for Her (Nobody Else)","Runner and Bobby",44,166,"","","Fall for Her (Nobody Else)",2019-12-29,03:48,56,82,11,4,21,0,0,-10,C,4,2021-02-02,7ygzSVrqKC2vfd3rNzZWEg,"Runner and Bobby",8B,QZK6M1901179
+96,"CAN YOU HEAR THE MOON","Grady",51,146,"","","The in Between",2019-10-25,03:02,34,50,2,0,50,0,40,-6,F#/G♭ minor,4,2021-02-02,7pcANiSH8mEKLUIPAxiSDr,"TMWRK Records, LLC",11A,QMBZ91919576
+97,"Sports","Beach Bunny",4,186,"","","Sports",2018-01-01,02:44,23,88,0,3,52,0,0,-5,A,4,2021-02-02,77G0k1La0c5Dw8bAFANcyp,"Mom+Pop",11B,QZAPG1780549
+98,"Television / So Far So Good","Rex Orange County",3,165,"bedroom pop","Pop","Apricot Princess",2017-04-26,04:22,41,51,59,0,32,0,10,-8,F,4,2021-02-02,5OUTFH5acycdnf8OVo21Gv,"Rex Orange County",7B,US23A1500497
+99,"Corduroy Dreams","Rex Orange County",1,114,"bedroom pop","Pop","Bcos U Will Never B Free",2016-11-07,03:26,61,31,65,0,22,0,10,-14,E,4,2021-02-02,02tvc9CFnTyHuSRlGeNv9w,"Rex Orange County",12B,US23A1500300
+100,"Make Me Your Queen","Declan McKenna",57,125,"","","What Do You Think About the Car?",2017-04-13,03:41,49,67,0,0,26,0,10,-6,D,4,2021-02-02,5QJuMhGWTUB4t9BqR7ndL3,"Columbia",10B,GBARL1601811
+101,"Song for Me","Greer",49,103,"","","Song for Me",2019-01-05,03:28,32,91,3,4,40,0,10,-5,A#/B♭,3,2021-02-02,0QtWg6I0Y6WM4uoX523SH3,"Epitaph",6B,QZ4JJ1912262
+102,"Nothing Has Changed","The Polar Boys",0,145,"","","Nothing Has Changed",2019-10-25,03:34,46,77,2,1,61,0,30,-6,C♯/D♭,4,2021-02-02,36jDABK9TQixIZOZylPy04,"The Polar Boys LLC",3B,GBKPL1972591
+103,"Black Licorice","Peach Pit",55,124,"","","You and Your Friends",2020-04-03,03:39,69,54,3,0,43,0,10,-9,A,4,2021-02-02,2wH52gGTG6rBVWSc6aEczN,"Columbia",11B,USSM11914404
+104,"It's Only Right","Wallows",53,154,"indie","Pop, Rock","Spring EP",2018-04-06,04:34,45,66,0,0,46,0,10,-7,B minor,4,2021-02-02,49shtsiVxakpVGxSltpgjX,"Atlantic Records",10A,USAT21800932
+105,"Clean Me Up","Thomas Headon",41,92,"","","Clean Me Up",2019-11-29,02:45,63,40,52,0,53,10,0,-10,C,4,2021-02-02,6zUw4QJytKkTBhwbRC6OiM,"Thomas Headon",8B,QZHNB1944227
+106,"Afterglow","THE DRIVER ERA",0,128,"","","X",2019-06-28,03:11,70,60,44,0,79,0,10,-7,F#/G♭,4,2021-02-02,2KKBlK4IZUdjlJ7F0WGzU6,"BMG Rights Management (US) LLC",2B,TCADU1827769
+107,"Beach Bummer","No Vacation",0,130,"bedroom pop, dream pop","Pop, Rock","Amo XO",2015-04-06,02:28,69,78,7,24,76,0,10,-5,A#/B♭,4,2021-02-02,4loxhrC7MqARWyHLofmhtW,"No Vacation",6B,USHM81626723
+108,"Summer","L. Martin",28,145,"","","Summer",2019-06-28,02:29,66,68,12,0,54,0,10,-8,A,4,2021-02-02,48lgpCEjN5p5rYxpNW6GSl,"Peggy Records",11B,QM24S1921803
+109,"hello!","ROLE MODEL",57,126,"bedroom pop","Pop","oh, how perfect",2019-11-13,03:08,79,46,51,0,56,0,10,-4,A#/B♭,4,2021-02-02,7a2IJHzw9WJjoknwdnCop0,"Interscope Records",6B,USUM71919494
+110,"Portland","Bowling Shoes",38,75,"","","Bowling Shoes",2018-06-25,02:32,66,58,12,0,73,20,30,-10,C,4,2021-02-02,110NFrhyUhxxRmMCTdzF2R,"Bowling Shoes",8B,TCADS1805049
+111,"A Kiss","THE DRIVER ERA",0,170,"","","A Kiss / Forever Always",2019-10-25,04:31,70,92,21,0,64,20,10,-5,F#/G♭,4,2021-02-02,69IosokH54HzpJZoFIIy74,"BMG Rights Management (US) LLC",2B,QMRSZ1902134
+112,"Ribs","Lorde",2,128,"","","Pure Heroine (Extended)",2013-01-01,04:18,51,47,53,61,4,0,10,-9,E,4,2021-02-02,0TEekvXTomKt3hdXDZxxeW,"Universal Music New Zealand Limited",12B,NZUM71300122
+113,"Bittersweet","Greer",43,150,"","","Bittersweet",2019-03-15,03:55,29,88,0,0,41,10,0,-8,F,4,2021-02-02,7uHPhUoT4YTPSoH4VkmdUt,"Epitaph",7B,QZES51909909
+114,"Darling","Christian Leave",47,129,"","","Milksop / Darling",2019-06-14,02:45,66,55,18,0,20,0,20,-8,C,4,2021-02-02,2Fw4gGClr8zVFZVwIRjyWK,"Warner Records",8B,QM38F1900012
+115,"It Gets Better","Rex Orange County",51,122,"bedroom pop","Pop","Pony",2019-10-25,03:32,70,38,48,0,52,0,0,-8,F,4,2021-02-02,6lxJDscGCALBzA0BdhGCiL,"Rex Orange County",7B,USRC11902535
+116,"Different","Aidan Bissett",43,160,"","","Different",2020-07-10,03:20,52,63,63,0,40,0,40,-6,B minor,4,2021-02-02,7kjhPDeXgKMawtdGeZl212,"Capitol Records",10A,QZHN92008505
+117,"Revvin' My Cj7","Summer Salt",50,120,"","","So Polite",2017-07-18,02:48,76,47,93,10,35,0,10,-8,A#/B♭,4,2021-02-02,6PVx8IYQJdeLa2AIJnnFrj,"Cherry Lime Records",6B,QZ8LD1739333
+118,"Sex, Drugs, Etc.","Beach Weather",0,144,"","","Chit Chat",2016-11-04,03:16,57,84,1,1,47,0,50,-5,E minor,4,2021-02-02,04wODYKrbLNe7LTOaOPX3i,"Beach Weather",9A,TCACS1642138
+119,"Nobody Gets Me (Like You)","Wallows",0,116,"indie","Pop, Rock","Nobody Gets Me (Like You)",2020-09-09,02:37,57,89,4,0,82,0,70,-1,D,4,2021-02-02,6n3hQsudILw9w3CqDwoO5M,"Atlantic Records",10B,USAT22005094
+120,"Virtual Aerobics","Wallows",0,110,"indie","Pop, Rock","Virtual Aerobics",2020-10-02,02:02,78,55,18,0,72,0,0,-4,A,4,2021-02-02,1fpGZJnHXFEbq8UIWIKmHH,"Atlantic Records",11B,USAT22005095
+121,"Hey Lover!","Wabie",73,117,"bedroom pop","Pop","Cyclones and Hey Lover",2019-06-19,02:42,59,74,1,0,52,0,30,-10,E,4,2021-02-02,7rC3P7tpWriaC4hYWKwGQd,"Wabie Records",12B,QZFYZ1923384
+122,"Personal Lies","Djo",0,110,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:59,62,55,1,0,58,0,20,-8,C,4,2021-02-02,3BjQX42wrf1Ie1AopSnUGV,"Djo",8B,GBKPL1963384
+123,"Why","Dominic Fike",72,117,"","","What Could Possibly Go Wrong",2020-07-31,02:19,68,86,34,1,34,0,10,-3,F#/G♭,4,2021-02-02,1xLs8Mu1QEVbGCpyHQ2r2U,"Columbia",2B,USQX92003248
+124,"Loverboy","A-Wall",0,120,"bedroom pop","Pop","Helios",2019-08-04,03:44,61,47,66,4,51,0,10,-10,C,4,2021-02-02,1FWoak0OgTq1jrYfRKfXsj,"Lord A-Wall Records",8B,QZFZ41979172
+125,"Big Sad","Mickey Darling",39,170,"bedroom pop","Pop","We'll Always Have Summer",2019-08-30,02:18,63,78,48,0,91,0,20,-5,F minor,4,2021-02-02,7epRhGT3VF7HCWBhGeJQLV,"sexiest boyband records",4A,QZFZ71947790
+126,"Parking Lots","Plums",61,156,"","","Jen",2015-07-14,03:26,49,76,2,37,72,0,30,-5,C♯/D♭ minor,4,2021-02-02,5PSplhA4PEZHqw0bOfelEp,"Forged Artifacts",12A,QM6MZ1553510
+127,"Falling for the Wrong One","Dreamer Boy",43,119,"bedroom pop","Pop","Love, Nostalgia",2018-11-13,04:11,67,67,3,2,46,0,30,-8,G,4,2021-02-02,5C4XCvAKImh0IGPCKbPPo6,"Dreamer Boy",9B,UST8K1888144
+128,"Reverse Cowgirl","Mickey Darling",48,169,"bedroom pop","Pop","Reverse Cowgirl",2019-11-29,03:39,55,69,24,0,46,10,10,-9,F#/G♭ minor,4,2021-02-02,1aBouZtfICZ1PRNCtPcdVL,"sexiest boyband records",11A,QZHNC1931703
+129,"hey girl","boy pablo",52,100,"bedroom pop","Pop","Wachito Rico",2020-10-23,03:07,59,49,0,6,89,0,0,-10,F#/G♭,4,2021-02-02,5x9r0HaFznxQ32J2JZFhub,"777 Music",2B,NO8WZ2002010
+130,"Slowly Spinning Room","OK Houston",37,82,"","","Slowly Spinning Room",2019-07-29,04:06,52,68,29,0,70,0,50,-9,F#/G♭,4,2021-02-02,53RjJYQDxvaFIu6Joyv8Cv,"Something Plush",2B,QZFZ41927117
+131,"Harvey","Her's",75,142,"indie","Pop, Rock","Invitation to Her's",2018-08-24,03:31,59,86,7,82,72,0,10,-6,A,4,2021-02-02,1zFbBrZmJr1Z49HYe84dBg,"Heist Or Hit Records",11B,GBYEJ1800003
+132,"Prune, You Talk Funny","Gus Dapperton",0,140,"bedroom pop","Pop","Prune, You Talk Funny",2017-12-05,03:32,57,75,2,0,58,0,20,-7,A#/B♭ minor,4,2021-02-02,6KKHXbJtnJPjla3V49YPac,"Gus Dapperton",3A,TCADM1839634
+133,"Bad Texter","Ryan Woods",0,95,"","","Bad Texter",2020-06-17,03:13,61,63,5,0,62,0,30,-7,B,4,2021-02-02,7rymj8PopRWOI2kBdjPG9q,"East West Records LLC",1B,US39N2000376
+134,"Lovers","Rebounder",0,124,"","","Lovers",2020-05-21,03:34,67,48,25,0,31,0,0,-7,A minor,4,2021-02-02,5QBuOkGDtuHDv4EJyunH6f,"Rebounder",8A,QMEZE1949250
+135,"Anything You Want","JAWNY",63,112,"bedroom pop","Pop","Anything You Want",2020-02-27,02:03,80,78,14,0,93,0,10,-5,F#/G♭ minor,4,2021-02-02,78LMazmfqncADjyJVae8dN,"Johnny Utah LLC",11A,USUG12000587
+136,"Pool House","The Backseat Lovers",75,134,"","","When We Were Friends",2019-01-27,04:29,59,36,5,0,33,0,0,-11,G,4,2021-02-02,74f0dpqHhTeTJzs4pmZ1yq,"The Backseat Lovers",9B,USL4R1800760
+137,"Just a Boy","The Backseat Lovers",63,93,"","","Just a Boy",2019-09-25,04:10,59,53,0,0,30,0,10,-7,E,4,2021-02-02,1jRUUth3iAmmlSFA174YxZ,"The Backseat Lovers",12B,USHM81955622
+138,"I'm Not Making out With You","Surf Curse",0,190,"indie","Pop, Rock","Sad Boys",2015-05-10,02:39,35,79,1,0,27,0,20,-10,C,4,2021-02-02,6E9ab6fNK5D18BDJT8ojDs,"Surf Curse",8B,TCACM1691247
+139,"supermarket","carwash",0,90,"","","supermarket",2020-02-13,02:25,45,84,39,86,91,0,20,-6,G#/A♭,4,2021-02-02,43SHJo9L4THsALZ3ZXhA4M,"playroom",4B,QZFZ22005650
+140,"Fairgrounds","Kevin Creel",27,160,"","","Fairgrounds",2020-06-20,02:32,54,53,34,0,61,20,10,-14,E,4,2021-02-02,2r6eMOm2G1GINOzGrFycL3,"Creel",12B,QZHN52055799
+141,"Watch Your Mouth","The Backseat Lovers",66,88,"","","When We Were Friends",2019-01-27,04:31,57,38,39,2,24,0,10,-11,D,4,2021-02-02,4DHLopEsKDwQBgucGKJuzj,"The Backseat Lovers",10B,USCGH1936385
+142,"Sun Tan","Wallows",50,109,"indie","Pop, Rock","Sun Tan",2017-05-22,03:46,47,91,3,0,55,0,30,-4,E,4,2021-02-02,3I7nvkvsaY9mVQeSOggOBb,"Atlantic Records",12B,USAT21801169
+143,"Adult","Christian Leave",42,139,"","","Adult",2020-07-24,02:37,76,42,55,0,57,20,0,-10,D#/E♭,4,2021-02-02,7aPVj4na1QheevNbrv5uwC,"Warner Records",5B,USWB12001228
+144,"INTRO","The Polar Boys",0,78,"","","INTRO",2019-09-27,02:49,56,85,6,0,39,0,10,-6,E minor,4,2021-02-02,3H6ex59p3iPeHSvu3RycGb,"The Polar Boys LLC",9A,GBKPL1967707
+145,"No Use","Christian Leave",35,94,"","","No Use",2020-05-29,03:16,82,67,3,0,96,10,0,-9,G#/A♭,4,2021-02-02,2m7AO4zLdkbd5SRmjNfnwz,"Warner Records",4B,USWB12001229
+146,"Nicotine Dream","Breakup Shoes",50,115,"","","Nicotine Dream EP",2016-04-18,02:55,53,61,30,0,72,0,30,-6,G#/A♭,4,2021-02-02,0bJs66Q7uwNby1vPt8HM2E,"Breakup Shoes",4B,SEYOK1619206
+147,"HEADY","Reaper",55,115,"","","heady",2018-06-20,03:31,65,58,2,0,54,0,20,-7,C♯/D♭,4,2021-02-02,7aNW0M1R6eUnoXKpN2HncV,"Reaper",3B,QM24S1818132
+148,"THE BOTTOM","MICHELLE",49,110,"bedroom pop","Pop","HEATWAVE",2018-09-04,03:39,75,61,0,56,84,0,10,-7,A minor,4,2021-02-02,5SG2BVsZr0W7cFAkjh60TT,"Canvasback/ATL",8A,CAHQJ1847631
+149,"Goodbye Bye Bye","Younger Hunger",15,136,"","","Goodbye Bye Bye",2020-05-01,02:35,65,69,23,0,61,0,10,-4,A#/B♭,4,2021-02-02,7f9sIbD8IQGixfrJW9J2nI,"Regnuoy Regnuh",6B,QMEZE1949152
+150,"Lava","Still Woozy",57,169,"bedroom pop","Pop","Lately EP",2019-05-03,02:37,62,62,30,1,67,10,20,-10,C♯/D♭,4,2021-02-02,2dIeraguJ8SoHDqXfSZelZ,"Still Woozy Productions Inc., under exclusive license to Interscope Records",3B,QZDA41968563
+151,"Lucy","Still Woozy,ODIE",61,84,"bedroom pop, ","Pop","Lucy",2018-03-22,02:22,65,54,43,0,85,20,10,-12,F#/G♭ minor,4,2021-02-02,5RxpYHVbGJPOvSEATQyg9P,"Still Woozy Productions Inc., under exclusive license to Interscope Records",11A,QZBRF1873892
+152,"Window","Still Woozy",58,91,"bedroom pop","Pop","Window",2020-04-17,02:19,71,48,44,0,67,20,20,-9,E minor,4,2021-02-02,3hARuUtzTdUuWH1KiLJlSf,"Still Woozy Productions Inc., under exclusive license to Interscope Records",9A,USUG12001158
+153,"Ground","Wallows",51,77,"indie","Pop, Rock","Spring EP",2018-04-06,03:34,42,67,0,0,54,0,0,-6,C♯/D♭,4,2021-02-02,2N977oXVcbzWqT4m3U698h,"Atlantic Records",3B,USAT21800931
+154,"Drop the Guillotine","Peach Pit",60,88,"","","Being So Normal",2018-06-28,03:39,51,88,4,0,58,0,10,-7,C,4,2021-02-02,1gpBDeONibvJyQYEv5HJh9,"Columbia",8B,USSM11805167
+155,"Never Had The Balls","Rex Orange County",51,150,"bedroom pop","Pop","Pony",2019-10-25,03:56,70,68,38,0,35,0,0,-8,F,4,2021-02-02,5h68UTytwmTJDwoGbqLwzV,"Rex Orange County",7B,USRC11902532
+156,"Channel Orange In Your Living Room","Charlie Burg",49,119,"","","Channel Orange In Your Living Room",2020-04-21,02:38,70,60,52,0,83,0,0,-6,B,4,2021-02-02,27AJf1VXuh3h6QsqQBOLxf,"FADER Label",1B,US4HB2000132
+157,"Never","Christian Leave",32,174,"","","Never",2018-12-07,03:46,38,41,3,0,26,0,10,-9,G,4,2021-02-02,6100SLWSTjdjaUC6IBqdEZ,"Warner Records",9B,QM38F1800019
+158,"4EVER","Clairo",79,102,"bedroom pop","Pop","4EVER",2018-04-27,02:39,75,59,5,1,58,0,10,-8,A minor,4,2021-02-02,5mIOsPuQdXchVY0jB5NO9Q,"FADER Label",8A,US4HB1800003
+159,"striptease","carwash",0,130,"","","striptease",2019-11-05,02:40,69,57,13,95,73,0,10,-9,G#/A♭,4,2021-02-02,17s9ohMleXceK8Qobgl8Zd,"playroom",4B,QZHN81952149
+160,"Get Yourself To Sleep","Oscar Welsh",0,84,"bedroom pop","Pop","Get Yourself To Sleep",2019-10-15,03:02,54,49,85,0,46,30,20,-7,G minor,4,2021-02-02,76XO15BjyqdsFCRHXZnwxG,"Oscar Welsh / Human Re Sources",6A,CAHQJ1960546
+161,"Habit","Still Woozy",65,125,"bedroom pop","Pop","Habit",2019-12-12,02:33,77,39,15,0,48,0,10,-12,C♯/D♭,4,2021-02-02,4BsLwvaJOTOHDNg7xMpvrL,"Still Woozy Productions Inc., under exclusive license to Interscope Records",3B,QZES81849699
+162,"dancefloor","marcos g",0,95,"","","dancefloor",2020-03-09,03:18,79,64,30,0,72,0,10,-7,C♯/D♭,4,2021-02-02,62NYMFMSmFy4hasKUenJyG,"marcos g",3B,QZ93L1967369
+163,"Deep Breath in the Sun","Grady",34,112,"","","The in Between",2019-10-25,02:35,75,66,26,1,86,0,40,-5,F minor,4,2021-02-02,5AoKo3XxXbdNG1oFjbJzKY,"TMWRK Records, LLC",4A,QMBZ91919383
+164,"Chateau (Feel Alright)","Djo",0,135,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:32,64,37,43,0,35,0,30,-12,G,4,2021-02-02,41mclLjggl2nmbYpRisKrh,"Djo",9B,GBKPL1959342
+165,"Cotton Candy Lemonade","Blu DeTiger",51,101,"","","Cotton Candy Lemonade",2020-09-23,02:26,71,44,51,0,45,0,20,-8,C♯/D♭ minor,4,2021-02-02,1RfPf0W4OlIWROTV5Afs3S,"ALT:Vision Records",12A,QM7282067932
+166,"Mom Jeans","Mickey Darling",35,150,"bedroom pop","Pop","We'll Always Have Summer",2019-08-30,02:44,68,59,42,0,87,0,40,-7,D,4,2021-02-02,53KffDSQ4LsdKl99h7Vd8x,"sexiest boyband records",10B,QZFZ71947789
+167,"Motocross","Huron John",0,177,"bedroom pop","Pop","Apocalypse Wow",2020-04-22,03:52,49,41,16,0,38,0,10,-8,B,3,2021-02-02,71PfgIUSVJEE9lsuDf4MsK,"Always Outside Creative Arts",1B,QZ93L2012697
+168,"I DONT WANT 2 B UR FRIEND","Devon",40,90,"","","I DONT WANT 2 B UR FRIEND",2019-08-23,02:10,39,96,1,0,54,10,0,-6,F minor,4,2021-02-02,6wNJDdIFnD9bMwkEXewKbq,"UMOD (Universal Music On Demand)",4A,NL1AP1923127
+169,"Winona","Miloe",0,106,"","","Winona",2020-09-30,02:25,65,62,7,17,76,0,10,-7,F,4,2021-02-02,50CrMqvVH178XRNNhhXfTy,"things we like",7B,GBKPL2022890
+170,"Bye Bye Baby","Greer",1,154,"","","Bye Bye Baby",2020-06-17,03:07,46,77,1,0,31,0,0,-6,D,4,2021-02-02,6lyaYDIHGPmXuDHJSZbCph,"Epitaph",10B,USEP42026002
+171,"Loving You","Thomas Headon",0,80,"","","Loving You",2020-06-19,03:27,51,71,51,0,66,0,0,-6,E minor,4,2021-02-02,1YhL0is8h9VlLcvNDmwmN4,"Thomas Headon",9A,US23A1515006
+172,"Lost in Translation","The Neighbourhood",58,105,"","","Chip Chrome & The Mono-Tones",2020-09-25,03:10,57,89,0,0,52,0,30,-6,C,4,2021-02-02,5TUZhrb8UaaA76NhzZax2Z,"Columbia",8B,USSM12003768
+173,"Maple Syrup Tears","Huron John",0,113,"bedroom pop","Pop","Apocalypse Wow",2020-04-22,03:13,70,65,38,0,59,0,20,-5,E,4,2021-02-02,1yfkJLkJuhVxZf7d4OqARc,"Always Outside Creative Arts",12B,QZ93L1975430
+174,"Bedache","Christian Leave",27,106,"","","Bedache",2020-11-20,02:33,53,74,0,0,30,0,10,-4,A,4,2021-02-02,6XSlSieQ9sCCDfZNxnJ7Zv,"GODMODE/Warner Records",11B,USWB12004423
+175,"Always Forever","Cults",83,163,"","","Static",2013-10-15,03:43,17,74,0,28,36,0,20,-6,G#/A♭,4,2021-02-02,2enPRFda84VE2wtI8c86Uf,"Columbia",4B,USSM11303912
+176,"for the people in the back","ROLE MODEL",47,156,"bedroom pop","Pop","our little angel - EP",2020-10-21,02:34,78,73,10,0,83,10,30,-4,D#/E♭ minor,4,2021-02-02,72gooyj5bJQNROC5Ptmjn7,"Interscope Records",2A,USUM72009185
+177,"Boredom (feat. Rex Orange County & Anna of the North)","Tyler, The Creator,Rex Orange County,Anna of the North",71,80,"bedroom pop, ","Pop","Flower Boy",2017-07-21,05:20,56,58,79,0,24,10,30,-10,G#/A♭,4,2021-02-02,5WNYg3usc6H8N3MBEp4zVk,"Columbia",4B,USQX91701279
+178,"What's the Use?","Mac Miller",69,105,"","","Swimming",2018-08-03,04:48,76,49,74,1,56,10,10,-10,C♯/D♭ minor,4,2021-02-02,2dgrYdgguVZKeCsrVb9XEs,"Warner Records",12A,USWB11801213
+179,"Midsummer Madness","88rising,Joji,Rich Brian",2,90,"","","Head In The Clouds",2018-07-20,04:40,41,68,36,0,17,0,10,-8,A,4,2021-02-02,6TodWdTSDfzwgYynTZSvJn,"88rising Music/Warner Records",11B,ZZOPM1800318
+180,"NO FUN","Joji",0,97,"","","BALLADS 1",2018-10-26,02:48,81,48,80,0,72,0,20,-7,F,4,2021-02-02,4sbtM9ORGwmxGkXfctXbJq,"88rising Music/Warner Records",7B,ZZOPM1800566
+181,"Lover Is a Day","Cuco",1,180,"bedroom pop","Pop","wannabewithu",2016-07-09,07:36,41,65,4,19,34,0,10,-10,D#/E♭,4,2021-02-02,76tGvMdmFKuiMew33ZNNA9,"Cuco",5B,USHM21643447
+182,"Everytime","boy pablo",60,204,"bedroom pop","Pop","Roy Pablo",2017-05-19,02:52,43,66,2,4,86,0,10,-10,D,4,2021-02-02,4zvHZWOGyL7WcmqHOgtGCW,"777 Music",10B,USQY51745798
+183,"Lo Que Siento","Cuco",1,87,"bedroom pop","Pop","Lo Que Siento",2017-05-25,05:12,33,69,50,0,41,10,40,-6,A#/B♭,5,2021-02-02,3oyf4dalm17kzTE8LJDbgR,"Cuco",6B,USDY41758677
+184,"Sunkissed","khai dreams",0,154,"","","Sunkissed",2019-08-09,02:06,77,35,59,0,79,0,40,-9,F#/G♭,4,2021-02-02,5uWDUe75h2FHLZyMX9r5sp,"Khai Dreams",2B,QZFZ21993822
+185,"Out of My League","Fitz and The Tantrums",67,170,"","","Out of My League",2013-02-08,03:29,55,97,4,0,53,0,30,-4,A minor,4,2021-02-02,5qEn8c0MBzyRKgQq91Vevi,"Elektra (NEK)",8A,USAT21300149
+186,"She Said","Sundara Karma",52,165,"indie","Pop, Rock","Youth is Only Ever Fun in Retrospect",2017-07-07,03:45,42,95,0,0,64,0,0,-4,G,4,2021-02-02,3ZJZjjKFxTqVGJ8QIYKMjp,"RCA Records Label",9B,GBARL1501863
+187,"It's Not The Same Anymore","Rex Orange County",63,118,"bedroom pop","Pop","Pony",2019-10-25,06:26,67,32,87,0,36,0,10,-11,F,4,2021-02-02,7vRia9rlEuTDQxkfXIKySi,"Rex Orange County",7B,USRC11902536
+188,"Painkiller","Ruel",56,129,"","","Painkiller",2019-04-30,03:33,68,41,11,0,44,0,10,-7,F,4,2021-02-02,1abFkY2jm6KDFMZ7RD9YJh,"RCA Records Label",7B,USRC11900839
+189,"Chamber Of Reflection","Mac DeMarco",2,131,"indie","Pop, Rock","Salad Days",2014-04-01,03:51,54,56,26,91,51,0,10,-9,B,4,2021-02-02,1MJ5f5EYBC92ADD6xcz7nb,"Captured Tracks",1B,QMMZN1300568
+190,"SUGAR","BROCKHAMPTON",71,123,"","","GINGER",2019-08-23,03:24,45,54,45,0,52,0,10,-8,C♯/D♭,4,2021-02-02,6U0FIYXCQ3TGrk4tFpLrEA,"Question Everything/RCA Records",3B,USRC11901564
+191,"Puppy Dog","Dreamer Boy",45,114,"bedroom pop","Pop","Puppy Dog",2019-12-10,03:30,69,55,17,0,51,0,30,-8,G,4,2021-02-02,13O36COxxWjcvc9r5Zsd1P,"slowplay/Harvest Records",9B,USUM71923893
+192,"I Dare You","The Regrettes",45,204,"","","How Do You Love?",2019-08-09,02:50,51,88,1,0,86,0,0,-3,C♯/D♭,4,2021-02-02,6N3aShaAM8V6valfHIFVOr,"Warner Records",3B,USWB11901117
+193,"blind","ROLE MODEL",0,150,"bedroom pop","Pop","blind",2020-07-22,02:33,77,66,15,0,68,0,0,-5,C,4,2021-02-02,6d1ffV5RisInvrDxkLgBxe,"Interscope Records",8B,USUM72010617
+194,"Do I Wanna Know?","Arctic Monkeys",89,85,"indie, garage rock","Rock, Pop","AM",2013-09-09,04:32,55,53,19,0,41,0,20,-8,F,4,2021-02-02,5FVd6KXrgO9B3JPmC8OPst,"Domino Recording Co",7B,GBCEL1300362
+195,"Mr Loverman","Ricky Montgomery",0,130,"","","Montgomery Ricky",2016-04-08,03:36,64,53,24,0,49,0,20,-7,C,3,2021-02-02,594dAKfWYKj53Usd6DTbUs,"Ricky Montgomery Records",8B,USA2P1624702
+196,"as long as you care","Ruel",52,79,"","","as long as you care",2020-09-10,03:13,55,59,1,0,31,0,10,-7,C♯/D♭,4,2021-02-02,0GQqQ7dA7B4mcEktSZaOUp,"RCA Records Label",3B,USRC12002400
+197,"Post Humorous","Gus Dapperton",0,120,"bedroom pop","Pop","Post Humorous",2020-07-01,04:39,64,85,1,0,82,0,0,-5,D,4,2021-02-02,59BJgnWKzFnh5TGkhHfmod,"Gus Dapperton",10B,GBKPL2003839
+198,"Gutter Girl","Hot Flash Heat Wave",0,112,"surf rock","Rock","Neapolitan",2015-09-11,03:44,52,81,18,51,28,0,10,-6,C♯/D♭,3,2021-02-02,1sEzuZNasuG8s1OOHwYfN2,"Hot Flash Heat Wave",3B,TCACI1545098
+199,"Sofia","Clairo",82,113,"bedroom pop","Pop","Immunity",2019-08-02,03:08,74,62,60,0,64,0,20,-10,C,4,2021-02-02,7B3z0ySL9Rr0XvZEAjWZzM,"FADER Label",8B,US4HB1900086
+200,"Space Song","Beach House",12,147,"dream pop","Pop, Rock","Depression Cherry",2015-08-28,05:20,51,79,23,13,59,0,10,-7,C minor,4,2021-02-02,0hNhlwnzMLzZSlKGDCuHOo,"Sub Pop Records",5A,USSUB1512203
+201,"The Love Club","Lorde",13,92,"","","Pure Heroine (Extended)",2013-01-01,03:21,79,49,21,1,63,0,10,-7,F,4,2021-02-02,2yrJ1jWo3HLksJFUqUsZE4,"Universal Music New Zealand Limited",7B,NZUM71200034
+202,"For A Minute","WizTheMc",0,160,"","","For A Minute",2020-06-18,01:48,71,78,3,0,83,0,10,-6,D,4,2021-02-02,2zAKwUD7TVTt8qTxa9bnQJ,"Homemade Projects, LLC / TenThousand Projects",10B,QZES52016808
+203,"supercuts","Jeremy Zucker",56,128,"","","supercuts",2020-07-24,03:26,81,54,8,0,76,10,0,-8,B,4,2021-02-02,4PyMK7JTcu6l30D8KogokR,"Republic Records",1B,USUM72013591
+204,"Beautiful Boy (Darling Boy) - 2010 Remastered","John Lennon",67,111,"christmas","Pop","Beautiful Boy (Original Motion Picture Soundtrack)",2018-10-12,04:02,57,50,74,0,44,0,90,-10,D,4,2021-02-02,5GMQdzgtI7vtpmtps2YiYx,"Warner Records",10B,USTO11000021
+205,"Why'd You Only Call Me When You're High?","Arctic Monkeys",87,92,"indie, garage rock","Rock, Pop","AM",2013-09-09,02:41,69,63,5,0,80,0,10,-6,D,4,2021-02-02,086myS9r57YsLbJpU0TgK9,"Domino Recording Co",10B,GBCEL1300370
+206,"Little Dark Age","MGMT",80,98,"indie","Pop, Rock","Little Dark Age",2018-02-09,04:59,71,71,1,0,62,0,10,-6,F#/G♭,4,2021-02-02,2Y0iGXY6m6immVb2ktbseM,"Columbia",2B,USSM11707035
+207,"Like or Like Like","Miniature Tigers",0,96,"","","Tell It to the Volcano",2009-09-22,02:38,75,53,3,0,84,0,10,-5,D,4,2021-02-02,2laAFvo3q3GIcXX7Ql8OeD,"Yebo Music",10B,US8JX0900002
+208,"For the First Time","Mac DeMarco",0,76,"indie","Pop, Rock","This Old Dog",2017-05-05,03:02,55,53,30,1,52,0,10,-10,F minor,4,2021-02-02,4LB5cNN7f18wIJA2RU4iIO,"Captured Tracks",4A,QMMZN1701301
+209,"Borderline","Tame Impala",85,98,"indie, psychedelic pop","Pop, Rock","The Slow Rush",2020-02-14,03:57,62,87,4,0,87,0,0,-3,F minor,4,2021-02-02,5hM5arv9KDbCHS0k9uqwjr,"Universal Music Australia Pty. Ltd.",4A,AUUM71900956
+210,"Little","Jany Green",0,110,"","","Little",2020-05-14,02:37,82,62,24,0,75,0,10,-8,C,4,2021-02-02,2fozfsVzd6kCYp5OA3sOUJ,"Jany Green",8B,QZ93L2019858
+211,"Suffocate","Jany Green",27,129,"","","Suffocate",2020-04-06,03:20,83,46,10,3,20,0,10,-9,A minor,4,2021-02-02,12k5xtS7WsOl7QXPiUAx3P,"Nice Guys",8A,FR9Z62000138
+212,"Nikes On","Healy",43,83,"","","Nikes On",2020-03-05,02:42,83,31,64,0,24,20,10,-10,A,4,2021-02-02,5z14e4rPImlgk40W33dt0U,"Braintrust Records/RCA Records",11B,USRC12000524
+213,"Judy You Hung the Moon","HARBOUR",0,140,"","","Heatwave",2017-08-04,03:30,65,65,51,0,63,0,0,-8,F#/G♭ minor,4,2021-02-02,2qdmM6JfK55YDUGMgRgJW2,"The Counter Rhythm Group",11A,TCADE1723407
+214,"Line Without a Hook","Ricky Montgomery",0,190,"","","Montgomery Ricky",2016-04-08,04:09,43,65,26,0,51,0,20,-5,G#/A♭,3,2021-02-02,5jvgec3P4jyoZUPTy2pWDR,"Ricky Montgomery Records",4B,USA2P1624696
+215,"Miracle Man","Oliver Tree",56,140,"","","Ugly is Beautiful",2020-07-17,02:05,67,48,9,0,66,0,40,-8,C,4,2021-02-02,2PFnwW05Wh0MYkfZxSwfuf,"Atlantic Records",8B,USAT21903365
+216,"Double Negative (Skeleton Milkshake)","Dominic Fike",60,154,"","","What Could Possibly Go Wrong",2020-07-31,02:06,69,86,0,0,64,10,10,-3,E,4,2021-02-02,7ACT6YaXbYvl7hRWEOOEHQ,"Columbia",12B,USQX92003244
+217,"Way It Goes","Hippo Campus",62,120,"","","Landmark",2017-02-24,04:05,54,91,2,0,52,0,30,-4,A,4,2021-02-02,6CES1554HcWMIVroJfmmBm,"Grand Jury (RED)",11B,QM5BK1600111
+218,"Perfect Places","Lorde",76,104,"","","Melodrama",2017-06-16,03:41,62,58,0,0,51,0,10,-5,C♯/D♭ minor,4,2021-02-02,7ARveOiD31w2Nq0n5FsSf8,"Universal Music New Zealand Limited",12A,NZUM71700074
+219,"My Body","Young the Giant",57,130,"","","Young The Giant (Special Edition)",2011-00-00,04:04,49,91,0,0,64,0,40,-7,A#/B♭,4,2021-02-02,1KDYN3odJHnj9pqGHN3FVs,"Roadrunner Records",6B,NLA321090396
+220,"Helena Beat","Foster The People",67,127,"","","Torches",2011-05-23,04:36,67,88,1,0,74,0,10,-5,F minor,4,2021-02-02,4VbDJMkAX3dWNBdn3KH6Wx,"Columbia",4A,USSM11005693
+221,"White Ferrari","Frank Ocean",88,109,"","","Blonde",2016-08-20,04:08,50,10,77,0,20,0,30,-16,C,4,2021-02-02,2LMkwUfqC6S6s6qDVlEuzV,"Boys Don't Cry",8B,QZ5C81600014
+222,"Trigger Of Love","JAWNY",61,75,"bedroom pop","Pop","For Abby",2020-10-27,02:50,66,62,37,0,52,10,10,-5,F#/G♭,4,2021-02-02,3soKdLpgZNCtYLRsnwxwfB,"Johnny Utah LLC",2B,USUG12003818
+223,"Waste My Time","Oliver Tree",42,144,"","","Ugly is Beautiful",2020-07-17,03:27,61,82,0,0,27,0,40,-7,G,4,2021-02-02,64mQsIB5PehdqjSRBNYLmD,"Atlantic Records",9B,USAT22003721
+224,"Jealous","Eyedress",0,93,"","","Jealous",2019-12-06,02:02,47,92,0,86,70,0,40,-10,A minor,4,2021-02-02,5s2zbxZI4Ym5LTKwjZHS2V,"Lex Records",8A,GBMYF1900115
+225,"suburban wonderland","BETWEEN FRIENDS",0,88,"","","suburban wonderland",2017-07-14,04:26,62,69,2,0,51,0,0,-8,D,4,2021-02-02,1dSp8A0PDSvRZXAsuuoge7,"Artbeatz",10B,USQX91700666
+226,"For Elise","Saint Motel",60,153,"","","saintmotelevision",2016-10-21,03:23,49,50,24,0,26,0,10,-6,A#/B♭,4,2021-02-02,6i40XRqEwHAnSxwZWasMRp,"Elektra (NEK)",6B,USAT21602340
+227,"Silvertongue","Young the Giant",59,100,"","","Home of the Strange",2016-08-12,03:17,67,79,1,0,84,0,70,-4,C,4,2021-02-02,0yTJtxZJ5VLfBEHhiNUNeY,"Fueled By Ramen",8B,USAT21601323
+228,"Orpheus Under the Influence","The Buttertones",55,152,"surf rock","Rock","Buttertones",2014-01-22,02:14,36,87,4,0,53,0,10,-7,D,4,2021-02-02,7KwJrAQMoJyUEBes3evMLv,"LOLIPOP RECORDS",10B,TCABT1458930
+229,"Cinematic Youth","peach tinted",44,125,"","","Cinematic Youth",2020-07-27,03:38,65,61,36,48,56,0,20,-10,G,4,2021-02-02,34mZZrTTdBG3AiMmhGPWpH,"peach tinted",9B,QZHNA2024403
+230,"SLOW DANCING IN THE DARK","Joji",12,89,"","","BALLADS 1",2018-10-26,03:29,52,48,54,1,28,0,10,-7,D#/E♭,4,2021-02-02,0rKtyWc8bvkriBthvHKY8d,"88rising Music/Warner Records",5B,ZZOPM1800452
+231,"BS","Still Woozy",54,80,"bedroom pop","Pop","BS",2020-09-10,02:13,62,46,50,0,53,0,10,-12,D#/E♭,3,2021-02-02,1qxZswAdBvM0JMUoV83J1b,"Still Woozy Productions Inc., under exclusive license to Interscope Records",5B,USUG12003263
+232,"Gimme Love","Joji",1,126,"","","Nectar",2020-09-24,03:34,48,63,70,2,7,10,20,-7,F,3,2021-02-02,5jSBnH9NyaNP5zdSB3pwgu,"88rising Music/Warner Records",7B,ZZOPM2002154
+233,"GONE, GONE / THANK YOU","Tyler, The Creator",79,79,"","","IGOR",2019-05-17,06:15,52,49,22,0,47,10,10,-8,A#/B♭ minor,4,2021-02-02,1hz7SRTGUNAtIQ46qiNv2p,"Columbia",3A,USQX91901118
+234,"Comfort Crowd","Conan Gray",64,91,"","","Kid Krow",2020-03-20,02:54,68,43,16,0,40,0,10,-7,C,4,2021-02-02,6uaBrivDHCaV0uBTiwHTUi,"Republic Records",8B,USUM71915466
+235,"Bloom Later","Jesse®",55,82,"","","&",2017-11-10,02:40,51,32,80,0,25,0,10,-10,C,3,2021-02-02,7DCQIOmpGV4nkHx7DQckJS,"Columbia",8B,USSM11708307
+236,"Pluto Projector","Rex Orange County",78,80,"bedroom pop","Pop","Pony",2019-10-25,04:27,38,22,71,0,19,0,10,-11,F,4,2021-02-02,4EWBhKf1fOFnyMtUzACXEc,"Rex Orange County",7B,USRC11902533
+237,"Fangs","Matt Champion",54,84,"bedroom pop","Pop","Fangs",2017-02-13,03:54,69,39,42,24,47,0,20,-9,B minor,4,2021-02-02,6T7xC3rDjOCkMkvcFVdu6Z,"Brockhampton",10A,USUYG1128426
+238,"I Can't Handle Change","Roar",6,186,"","","I Can't Handle Change",2010-03-14,03:18,25,44,4,0,39,0,10,-8,F,3,2021-02-02,0I1eFRytp4XRhLCjT6tZm7,"Felt Forest Records",7B,USHM81020595
+239,"Dark Red","Steve Lacy",7,172,"","","Dark Red",2017-02-20,02:53,60,78,45,0,78,0,10,-4,F#/G♭,4,2021-02-02,37y7iDayfwm3WXn5BiAoRk,"Three Quarter",2B,GBKPL1778015
+240,"Crush Culture","Conan Gray",64,180,"","","Sunset Season",2018-11-16,03:24,52,77,15,0,46,10,0,-5,C,4,2021-02-02,2sHwSBNDZN2yjCtgwStYt1,"Republic Records",8B,USUM71816673
+241,"Cool with You","Her's",60,107,"indie","Pop, Rock","Songs of Her's",2017-05-12,06:15,53,62,1,0,55,0,30,-7,C,4,2021-02-02,5wv2XK6ms7KBBVDD1cOwlx,"Heist Or Hit Records",8B,GBYEJ1100273
+242,"Best Friend","Rex Orange County",2,145,"bedroom pop","Pop","Best Friend",2017-01-25,04:22,57,71,40,0,32,0,10,-5,F#/G♭,4,2021-02-02,47Bg6IrMed1GPbxRgwH2aC,"Rex Orange County",2B,US23A1500387
+243,"Pretty Boy","The Neighbourhood",79,155,"","","Chip Chrome & The Mono-Tones",2020-09-25,03:54,58,39,21,5,57,0,30,-11,F#/G♭,4,2021-02-02,7IL8PSVwLOJxqYne6azxQv,"Columbia",2B,USSM12003780
+244,"Sweet Tooth","Cavetown",61,140,"bedroom pop","Pop","Sleepyhead",2020-03-27,04:06,57,31,26,0,24,0,10,-13,C,4,2021-02-02,6TCmU4U7Ooqep96bnYx5lH,"Sire",8B,USWB11903458
+245,"Out Like a Light","The Honeysticks,Ricky Montgomery",14,126,"","","Out Like a Light",2017-06-16,04:16,52,46,17,0,36,0,0,-8,B,3,2021-02-02,7yR5ZDif2glYMnFP73uRMm,"The Honeysticks",1B,USQY51754031
+246,"For You","Cavetown",38,130,"bedroom pop","Pop","Sleepyhead",2020-03-27,02:12,36,53,39,0,3,0,10,-12,C,4,2021-02-02,5HqyXuSH2Hi0t7KPWYmT38,"Sire",8B,USWB11903459
+247,"Self Care","Mac Miller",78,142,"","","Swimming",2018-08-03,05:45,52,54,37,0,18,20,10,-8,C♯/D♭,4,2021-02-02,5bJ1DrEM4hNCafcDd1oxHx,"Warner Records",3B,USWB11801215
+248,"Weekend (feat. Miguel)","Mac Miller,Miguel",79,120,"r&b","R&B","GO:OD AM",2015-09-18,03:28,84,44,47,0,19,10,10,-8,G#/A♭,4,2021-02-02,6GnhWMhgJb7uyiiPEiEkDA,"Warner Records",4B,USWB11508643
+249,"wish you were gay","Billie Eilish",0,118,"","","wish you were gay",2019-03-04,03:41,85,35,39,0,28,20,70,-10,G,4,2021-02-02,4txc3txsIt81diMzGhrVPS,"Darkroom",9B,USUM71900767
+250,"my strange addiction","Billie Eilish",78,100,"","","WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,02:59,94,31,35,0,56,30,10,-11,G#/A♭ minor,4,2021-02-02,3Tc57t9l2O8FwQZtQOvPXK,"Darkroom/Interscope Records",1A,USUM71900769
+251,"The King","Conan Gray",55,81,"","","The King",2019-03-08,02:54,64,72,6,0,85,0,10,-7,D,4,2021-02-02,54GASuUdLbhhdyECNUp3Pb,"Republic Records",10B,USUM71903297
+252,"Buttons","Mac Miller",59,75,"","","Buttons",2018-05-29,03:48,58,71,44,0,52,10,20,-5,G,4,2021-02-02,0ZBchpb4CLk5Qqu3895Etp,"Warner Records",9B,USWB11801054
+253,"xanny","Billie Eilish",73,112,"","","WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,04:03,52,13,75,0,5,20,20,-18,A,4,2021-02-02,4QIo4oxwzzafcBWkKjDpXY,"Darkroom/Interscope Records",11B,USUM71900765
+254,"Buttercup","Jack Stauber",70,120,"","","Pop Food",2017-03-25,03:28,71,37,72,81,55,0,20,-9,G,4,2021-02-02,2mlGPkAx4kwF8Df0GlScsC,"Plopscotch Records",9B,QMPKX1703669
+255,"Prom Queen","Beach Bunny",0,144,"","","Prom Queen",2018-08-10,02:16,53,80,0,1,75,0,10,-7,E,4,2021-02-02,3MtGstTnbaZaVOLcfpuiiE,"Beach Bunny Music",12B,QZDA71885746
+256,"Please Never Fall in Love Again","Ollie MN",54,109,"","","Songs from the Swamp",2017-09-24,02:34,65,8,84,0,29,0,0,-16,A#/B♭,4,2021-02-02,42H6GeQfrBkT3vTUTdpB1M,"667470 Records DK",6B,QZ9JZ1776191
+257,"Peach Scone","Hobo Johnson",56,75,"spoken word","Easy Listening","Peach Scone",2018-04-17,03:32,58,41,65,0,61,50,30,-9,G,3,2021-02-02,4Pj5nvdDibE3sgflD87J2i,"Reprise",9B,USDY41805670
+258,"Marlboro Nights","Lonely God",0,88,"","","Marlboro Nights",2018-01-01,01:08,50,83,0,0,81,20,30,-7,D,4,2021-02-02,7mX1juiy9zR3MM2K39Sa7r,"Lonely God",10B,GBSMU5360586
+259,"Star Shopping","Lil Peep",4,93,"emo rap, cloud rap","Hip Hop, Rock","Star Shopping",2015-00-00,02:22,59,47,10,2,32,0,10,-10,E minor,4,2021-02-02,30bqVoKjX479ab90a8Pafp,"Lil Peep",9A,UKELY1800203
+260,"Somebody That I Used To Know","Gotye,Kimbra",80,129,"","","Making Mirrors",2011-01-01,04:04,86,50,59,0,72,0,10,-7,C,4,2021-02-02,4wCmqSrbyCgxEXROQE6vtV,"Samples & Seconds / Republic",8B,AUZS21100040
+261,"Alien Boy","Oliver Tree",3,130,"","","Alien Boy EP",2018-02-16,02:43,80,60,11,0,48,10,20,-5,C♯/D♭,4,2021-02-02,1gGhqfs2pDTOI30AEXMXrn,"Atlantic Records",3B,USAT21800606
+262,"Nights","Frank Ocean",82,90,"","","Blonde",2016-08-20,05:07,46,55,43,0,43,10,10,-9,F minor,4,2021-02-02,7eqoqGkKwgOaWNNHx90uEZ,"Boys Don't Cry",4A,QZ5C81600009
+263,"watch","Billie Eilish",82,165,"","","dont smile at me",2017-12-22,02:57,44,60,33,0,35,20,10,-9,C,4,2021-02-02,7eB1V5LvAdxCc7brfGhRRo,"Darkroom",8B,USUM71706941
+264,"Honey Sweet","Blossoms",59,110,"indie","Pop, Rock","Blossoms",2016-08-05,03:35,57,71,3,0,61,0,30,-6,E minor,4,2021-02-02,4D2rEIyYw0meeh8AOXqfxK,"EMI",9A,GBUM71602336
+265,"Glitter","Tyler, The Creator",70,79,"","","Flower Boy",2017-07-21,03:44,45,43,31,0,37,20,60,-12,C♯/D♭,5,2021-02-02,0qtK3XwbuG153dmwB8iepL,"Columbia",3B,USQX91701285
+266,"Biking","Frank Ocean,JAY-Z,Tyler, The Creator",70,148,"hip hop, east coast hip hop, rap, ","Hip Hop","Biking",2017-04-10,04:37,67,46,68,0,27,10,0,-7,D,4,2021-02-02,2q0VexHJirnUPnEOhr2DxK,"Blonded",10B,QM24S1701050
+267,"Face to Face","Rex Orange County",56,124,"bedroom pop","Pop","Pony",2019-10-25,03:39,74,44,60,0,44,0,10,-8,A#/B♭ minor,4,2021-02-02,0YdIIMb2MHuxoUudkAY9gS,"Rex Orange County",3A,USRC11902238
+268,"Drunk","Dijon",47,124,"","","Drunk",2019-02-27,03:11,47,43,7,0,28,0,20,-7,A#/B♭,4,2021-02-02,2cUV93Y7FLGR42ycRRf0bL,"Dark Green, Dark Green",6B,USWB11900577
+269,"Take Me to Church","Hozier",83,129,"","","Hozier (Expanded Edition)",2014-09-19,04:01,57,66,63,0,44,0,10,-5,E minor,4,2021-02-02,1CS7Sd1u5tWkstBhpssyjP,"Columbia",9A,USSM11307291
+270,"Good News","Mac Miller",72,174,"","","Circles",2020-01-17,05:42,79,32,85,13,24,10,10,-13,C♯/D♭ minor,4,2021-02-02,1DWZUa5Mzf2BwzpHtgbHPY,"Warner Records",12A,USWB11801008
+271,"Sour Patch Kids","Bryce Vine",59,77,"","","Lazy Fair",2014-04-22,04:12,52,78,1,0,57,0,20,-5,A,4,2021-02-02,5DJNyvuMmZfsfvdTpMMmUq,"Sire",11B,USQY51460659
+272,"Run","Joji",3,158,"","","Run",2020-02-06,03:15,45,72,4,0,36,0,60,-4,G,3,2021-02-02,6p8eEdiZLKJH8tcjGZuNTK,"88rising Music/Warner Records",9B,ZZOPM1901777
+273,"bellyache","Billie Eilish",72,100,"","","dont smile at me",2017-12-22,02:59,70,57,46,7,41,10,40,-9,E minor,4,2021-02-02,1ni8ZTAY1GHXEFOGHl7fdg,"Darkroom",9A,USUM71615103
+274,"If You Know That I'm Lonely","FUR",58,146,"","","If You Know That I'm Lonely",2017-09-06,02:46,41,54,56,0,62,0,20,-6,G,4,2021-02-02,5gCTgcvFfs0d9ShWLY2S1V,"FUR",9B,GBKPL1788230
+275,"Homage","Mild High Club",4,73,"psychedelic pop","Pop, Rock","Skiptracing",2016-08-26,02:57,55,47,15,0,42,0,30,-8,F,4,2021-02-02,7pegxVesMmE2qK0o58xoFG,"Stones Throw Records",7B,US2S71673002
+276,"Your Soul","Forrest.,Biskwiq",52,140,"","","Warm",2018-07-01,02:58,85,85,2,0,82,30,10,-4,A,4,2021-02-02,26qTfV9DiLTT5fBXgvXfFx,"Houseboat",11B,QZDA51860475
+277,"Fool","Cavetown",0,80,"bedroom pop","Pop","Lemon Boy",2018-01-01,03:53,67,46,6,7,13,10,0,-9,C♯/D♭,4,2021-02-02,6iGWH4PRPDwtN9NydaHK8b,"Cavetown",3B,uscgh1805103
+278,"Pumpkin","The Regrettes",49,120,"","","How Do You Love?",2019-08-09,03:27,57,62,1,0,23,0,10,-4,A#/B♭,4,2021-02-02,3erMpGAv6cGCEcYcaE19p1,"Warner Records",6B,USWB11900393
+279,"Chanel","Frank Ocean",80,110,"","","Chanel",2017-03-10,03:30,78,50,87,0,47,20,10,-6,C minor,4,2021-02-02,6Nle9hKrkL1wQpwNfEkxjh,"Blonded",5A,QZ5C81600019
+280,"Level of Concern","Twenty One Pilots",66,122,"","","Level of Concern",2020-04-09,03:40,75,58,32,0,77,0,10,-7,E minor,4,2021-02-02,6xZ4Q2k2ompmDppyeESIY8,"Fueled By Ramen",9A,USAT22002190
+281,"C U Girl","Steve Lacy",81,100,"","","C U Girl",2015-02-15,02:09,41,47,66,5,41,10,10,-9,B minor,4,2021-02-02,6FBzhcfgGacfXF3AmtfEaX,"L-M Records",10A,TCACH1579144
+282,"Dead To Me","Kali Uchis",77,119,"","","Isolation",2018-04-06,03:19,68,76,43,0,43,0,10,-4,E minor,4,2021-02-02,6LOZws7T3jqZz78unPgFF9,"EMI",9A,GBUM71801115
+283,"BOYFREN","LoveLeo",52,80,"","","BOYFREN",2020-01-10,02:16,85,36,25,1,68,0,0,-7,C♯/D♭,4,2021-02-02,3WmgMoWZ1E5yNyn2aUzWAr,"Republic Records",3B,QM38F1900019
+284,"Generation Why","Conan Gray",59,82,"","","Sunset Season",2018-11-16,03:39,56,68,35,0,53,0,10,-8,A,4,2021-02-02,79e2GU4RLPjAqnijfvsXYr,"Republic Records",11B,USUM71815015
+285,"24 / 7 / 365","Surfaces",1,141,"","","Surf",2017-12-03,02:57,75,65,26,0,90,0,30,-6,E,4,2021-02-02,0ClnfM4PI0wjlCVTJc9lP7,"Surfaces, LLC / TenThousand Projects, LLC",12B,TCADJ1711307
+286,"Boyfriend","COIN",49,150,"","","How Will You Know If You Never Try",2017-04-21,02:59,57,92,2,0,46,0,20,-5,C,4,2021-02-02,15jIpgBlSbxsPVsKPNYkNp,"StarTime International/Columbia",8B,USSM11701125
+287,"Through and Through","khai dreams",0,95,"","","Through and Through",2017-12-04,01:53,85,42,38,0,59,0,0,-9,F#/G♭,4,2021-02-02,4RHyIzFRht2z17XeHB9dsF,"Khai Dreams",2B,QZAPG1705562
+288,"Ms","alt-J",53,131,"indie, indie rock","Pop, Rock","An Awesome Wave",2012-09-18,03:58,61,41,88,2,7,0,0,-11,F,4,2021-02-02,0pCTr2E9CtulIwNprituKi,"Canvasback/ATL",7B,GBZUZ1200071
+289,"Again & Again","Oliver Tree",43,135,"","","Ugly is Beautiful",2020-07-17,02:54,57,74,0,0,57,0,50,-6,C♯/D♭ minor,4,2021-02-03,4KiTVvoDILkT9vi8JhtfZm,"Atlantic Records",12A,USAT22003720
+290,"Solo","Frank Ocean",76,134,"","","Blonde",2016-08-20,04:17,47,29,85,0,26,0,10,-11,F minor,4,2021-02-03,35xSkNIXi504fcEwz9USRB,"Boys Don't Cry",4A,QZ5C81600005
+291,"Cocoa Butter Kisses","Chance the Rapper,VIC MENSA,Twista",50,126,"","","Acid Rap",2013-04-30,05:07,68,65,5,0,20,20,10,-8,F#/G♭ minor,4,2021-02-03,0aMHIW1lqrulVCx0LLlr6a,"Chance the Rapper",11A,QMEZE1949603
+292,"Bear Claws","The Academic",51,97,"","","Tales From The Backseat",2018-01-12,03:34,55,88,1,0,63,0,10,-2,B minor,4,2021-02-03,2qu0mEZGymmE2LyJuz7Jrn,"Capitol",10A,USUM71707190
+293,"Nicknames","Dayglow",0,110,"indie rock","Rock","Fuzzybrain",2019-11-14,03:23,75,53,7,0,89,0,20,-13,C,4,2021-02-03,2KfFmPKssYjVxmzUmin1rI,"Very Nice Records",8B,GBKPL1965327
+294,"Freaking Out the Neighborhood","Mac DeMarco",13,143,"indie","Pop, Rock","2",2012-10-16,02:53,56,83,6,3,85,10,30,-6,G#/A♭ minor,4,2021-02-03,25SJaCCPiosugnlY53VhRG,"Captured Tracks",1A,QMMZN1200048
+295,"Revvin' My Cj7","Summer Salt",37,120,"","","Happy Camper",2018-09-28,02:49,76,42,82,0,36,0,10,-9,A#/B♭,4,2021-02-11,61bfqfc7ATEw5fU4KIiqwd,"Cherry Lime Records",6B,QM24S1836003
+296,"Techno Show","Peach Pit",59,89,"","","Being So Normal",2018-06-28,03:46,61,72,12,43,90,0,10,-8,C♯/D♭ minor,4,2021-02-11,0a0EYuSVqeVqV8kjN9bFYC,"Columbia",12A,USSM11805170
+297,"Lose It","SWMRS",51,112,"","","Drive North",2016-10-14,04:00,79,41,33,0,56,0,10,-10,F,4,2021-02-11,0Ceozg27V0Ws9jgQixD8fr,"uncool records/Fueled By Ramen",7B,USAT21602618
+298,"Wishful Thinking","BENEE",60,82,"","","FIRE ON MARZZ",2019-06-28,03:33,64,66,14,0,55,0,10,-6,C♯/D♭ minor,4,2021-02-11,06Xh1KvQofFghlSt33mFjc,"Republic Records",12A,USUM71911688
+299,"On Melancholy Hill","Gorillaz",84,120,"","","Plastic Beach",2010-03-03,03:53,69,74,0,51,58,0,0,-6,D,4,2021-02-25,0q6LuUqGLUiCPP1cbdwFs3,"Parlophone UK",10B,GBAYE1000010
+300,"Your Man","Down With Webster",57,109,"","","Time To Win Vol. I",2009-01-01,02:48,70,80,3,0,76,0,0,-5,G#/A♭,4,2021-02-25,4TPffFD4gwGRkTlRBHCfLN,"Down With Webster/Universal Motown Records",4B,USUM70981552
+301,"Maybe She","Still Woozy",49,88,"bedroom pop","Pop","Lately EP",2019-05-03,02:49,62,53,51,0,56,10,10,-11,B minor,4,2021-02-25,5U8hidWugxHXvh1AzZYwKF,"Still Woozy Productions Inc., under exclusive license to Interscope Records",10A,QZES81901108
+302,"Mr. Rager","Kid Cudi",77,102,"","","Man On The Moon II: The Legend Of Mr. Rager",2010-11-09,04:54,67,73,39,88,58,0,10,-9,G,4,2021-02-25,393MDhe62s8hbH8ETrlxe5,"Kid Cudi/Universal Records",9B,USUM71025042
+303,"Born Again","Saint Motel",43,97,"","","saintmotelevision",2016-10-21,03:27,63,79,25,0,61,0,0,-5,D,4,2021-02-25,7qdgz117gc5StS0u2ViinE,"Elektra (NEK)",10B,USAT21602337
+304,"make you feel pretty","lovelytheband",48,105,"","","finding it hard to smile",2018-08-03,03:50,67,75,19,0,76,0,10,-6,F#/G♭,4,2021-02-25,4hTApLB99sWDeb1RPsrSye,"RED MUSIC",2B,US4E41746603
+305,"July","HUNNY",47,125,"indie pop","Pop, Rock","Pain / Ache / Loving",2015-10-09,03:54,59,78,4,0,44,0,30,-4,G#/A♭ minor,4,2021-02-25,7utenMA93Ldpg9O5oC6AP4,"Epitaph",1A,TCACI1549711
+306,"Ode To Viceroy","Mac DeMarco",0,95,"indie","Pop, Rock","2",2013-08-09,03:53,52,64,24,2,32,0,10,-6,D,4,2021-02-25,7JIV9UYKpti5xWgq6lfNNJ,"Spunk",10B,QMMZN1200050
+307,"Rhythm Of Love","Plain White T's",62,172,"","","Wonders Of The Younger",2010-01-01,03:20,53,54,36,0,73,0,10,-8,G#/A♭,4,2021-02-25,6MDTpYxPFL0wtFd0pjfKws,"Hollywood Records",4B,USHR11031263
+308,"Hey There Delilah","Plain White T's",81,104,"","","All That We Needed",2005-01-25,03:52,66,29,87,0,30,0,10,-11,D,4,2021-02-25,4RCWB3V8V0dignt99LZ8vH,"Fearless Records",10B,US5260507213
+309,"Hey, Soul Sister","Train",87,97,"soft pop","Pop","Save Me, San Francisco (Golden Gate Edition)",2010-12-01,03:36,67,89,19,0,80,0,0,-4,C♯/D♭ minor,4,2021-02-25,4HlFJV71xXKIGcU3kRyttv,"Columbia",12A,USSM10904113
+310,"Move","Saint Motel",61,101,"","","saintmotelevision",2016-10-21,03:07,64,82,2,0,72,0,30,-5,A#/B♭ minor,4,2021-02-25,4vuJuTLFomqItDrn482nzV,"Elektra (NEK)",3A,USAT21601952
+311,"LEMONHEAD","Kid Bloom",0,177,"","","Lemonhead",2019-08-02,03:31,56,90,1,0,54,10,0,-5,A#/B♭ minor,3,2021-02-25,7cD2KcNdH0kD1d6UMsFq12,"Kid Bloom",3A,ushm81901936
+312,"Lobster","Boy Called Cute",0,150,"","","Should Have & Could've Beens",2018-10-16,04:08,48,57,28,0,44,0,0,-4,G#/A♭ minor,4,2021-02-25,1RicAcSoaMIq6dpyWrSE1m,"Boy Called Cute",1A,QM24S1838358
+313,"My Favorite Fish","Gus Dapperton",0,74,"bedroom pop","Pop","Where Polly People Go to Read",2019-04-19,03:35,65,65,32,0,68,0,30,-4,F minor,4,2021-02-25,0YBvPvnfflEzgc3GV9vzKA,"Gus Dapperton",4A,GBKPL1933800
+314,"Pink + White","Frank Ocean",90,160,"","","Blonde",2016-08-20,03:04,55,55,67,0,55,10,40,-7,A,3,2021-02-25,3xKsf9qdS1CyvXSMEid6g8,"Boys Don't Cry",11B,QZ5C81600003
+315,"Drop the Guillotine","Peach Pit",32,120,"","","Sweet FA",2018-06-27,03:48,69,44,19,0,15,0,10,-6,C,4,2021-02-25,0lcehfM2iaNGkrEvhnIymn,"Columbia",8B,USSM11805167
+316,"Happier Than Ever","Billie Eilish",86,81,"","","Happier Than Ever",2021-07-30,04:58,33,23,77,0,30,0,10,-9,C,3,2021-08-20,4RVwu0g32PAqgUiJoXsdF8,"Darkroom/Interscope Records",8B,USUM72105936
+317,"Woof","Still Woozy",48,97,"bedroom pop","Pop","If This Isn’t Nice, I Don’t Know What Is",2021-08-13,02:36,67,86,12,0,79,0,10,-7,A#/B♭ minor,4,2021-08-20,50kXxYwLylVddXQaiGMck1,"Still Woozy Productions Inc., under exclusive license to Interscope Records",3A,USUG12102728
+318,"OK - with Remi Wolf & Solomonophonic","Wallows,Remi Wolf,Solomonophonic",46,145,"indie, ","Pop, Rock","OK (with Remi Wolf & Solomonophonic)",2021-02-05,02:42,65,86,30,0,80,0,20,-4,A#/B♭,4,2021-08-20,2LqczHHyVkIN9WlaQyFG1R,"Atlantic Records",6B,USAT22100189
+319,"Broken","Gorillaz",62,159,"","","Plastic Beach",2010-03-03,03:17,49,92,0,9,70,0,40,-5,C,4,2021-08-20,3THFKx88trZuOFlssVLJ5G,"Parlophone UK",8B,GBAYE1000011
+320,"BeVerly Hills BoYfRiEnd (with ROLE MODEL)","Claire Rosinkranz,ROLE MODEL",45,173,"bedroom pop","Pop","BeVerly Hills BoYfRiEnd (Remixes)",2020-12-08,02:43,59,54,45,0,54,70,20,-11,C,4,2021-08-20,0xljDdXOyRfnlYAW6ZkzF8,"Republic Records",8B,USUG12004461
+321,"Photo ID (with Dominic Fike)","Remi Wolf,Dominic Fike",69,116,"","","We Love Dogs!",2021-05-05,03:29,75,83,21,0,87,0,20,-5,C♯/D♭,4,2021-08-20,1F35Dmog9pekyCVnH1eQpl,"Island Records",3B,USUG12100612
+322,"Where'd All the Time Go?","Dr. Dog",82,166,"","","Shame, Shame (Deluxe Edition)",2010-11-02,03:54,45,82,13,0,57,0,10,-4,D,4,2021-08-20,0UV5zxRMz6AO4ZwUOZNIKI,"Anti/Epitaph",10B,USEP40937005
+323,"Baby Blue Shades","Bad Suns",41,120,"","","Baby Blue Shades",2020-09-28,03:40,71,73,1,0,53,0,0,-7,G,4,2021-08-20,0o4iE4nFwqY1d2JKlrcMRb,"Epitaph",9B,USEP42028001
+324,"Social Cues","Cage The Elephant",69,132,"modern rock","Rock","Social Cues",2019-04-19,03:39,67,91,1,0,93,0,10,-3,A,4,2021-08-20,1KuVdyg8d6NlRhbpHxg5UF,"RCA Records Label",11B,USRC11803824
+325,"Just Relax","Florence Rose",0,137,"","","Just Relax",2020-01-17,03:35,63,67,8,1,60,0,10,-8,G,4,2021-08-20,6A1OhFZpLOdsMZpO86FM5E,"Tango Rodeo",9B,SEYOK1960048
+326,"Get You High","HARBOUR",0,170,"","","Heatwave",2017-08-04,03:54,46,74,4,0,43,0,30,-6,C,4,2021-08-20,1YAk839AZQjTDp7vT0f3Tm,"The Counter Rhythm Group",8B,TCADE1723392
+327,"The Other Side Of Paradise","Glass Animals",72,128,"","","How To Be A Human Being",2016-08-26,05:20,69,34,35,0,57,0,0,-8,B minor,4,2021-08-20,0rRjGruFonCGOt0S5zAJNQ,"Wolf Tone",10A,GB2DY1600028
+328,"Moon Child","The F16s",42,120,"indian indie, hindi indie","Pop, Rock","Triggerpunkte",2016-08-08,04:39,61,71,6,0,55,0,0,-6,A,4,2021-08-20,5Y4vRBs4QCUloQ5W9Wb58j,"House Arrest",11B,FR59R1645305
+329,"The Kiss Of Venus (Dominic Fike)","Paul McCartney,Dominic Fike",52,90,"","","The Kiss Of Venus (Dominic Fike)",2021-03-11,02:23,72,37,63,0,63,0,10,-7,G#/A♭,4,2021-08-20,3gCYle76USfbHa7VDTDg5V,"Capitol Records",4B,GBCCS2100002
+330,"Cigarette Daydreams","Cage The Elephant",84,114,"modern rock","Rock","Melophobia",2013-10-08,03:28,64,68,8,0,27,0,0,-3,D,4,2022-09-19,2tznHmp70DxMyr2XhWLOW0,"RCA Records Label",10B,USRC11301169
+331,"She's a Riot","The Jungle Giants",59,100,"","","Learn to Exist",2013-08-30,03:41,49,92,0,0,61,0,10,-4,G,4,2022-09-19,4xy9nsO8EX4OR0c6lf0WFu,"Amplifire Music",9B,AU3J01200001
+332,"Marceline","Vista Kicks",0,94,"","","Chasing Waves",2016-04-22,03:51,67,59,18,0,59,0,0,-5,C♯/D♭,4,2022-09-19,3OJ0qtEbfXrqSWizwfKkaZ,"Little Hook Records",3B,USCGJ1660759
+333,"Undercover Martyn","Two Door Cinema Club",3,160,"indie","Pop, Rock","Tourist History",2010-02-17,02:47,44,87,0,0,57,10,0,-5,D,4,2022-09-19,0Hrd6CSafHHqKptyFppmqH,"Glassnote Entertainment Group LLC",10B,FRU700900115
+334,"What You Know","Two Door Cinema Club",6,139,"indie","Pop, Rock","Tourist History",2010-02-17,03:11,56,74,0,0,78,0,0,-4,F#/G♭ minor,4,2022-09-19,3UjtIALeg72qmJiKPWBvM3,"Glassnote Entertainment Group LLC",11A,FRU700900116
+335,"Slow Dances","Winnetka Bowling League",54,134,"","","Slow Dances",2019-04-03,03:52,60,77,1,0,76,0,10,-5,B,4,2022-09-19,0J8x2FryJyw7OVnEGYNFQE,"RCA Records Label",1B,USRC11900257
+336,"Quarterback","Wallows",62,121,"indie","Pop, Rock","Quarterback",2021-02-15,03:00,69,72,1,0,56,0,10,-4,B,4,2022-09-19,2OwIGCjx7e7J1HHdAqIv21,"Atlantic Records",1B,USAT22100359
+337,"Balcony","Dayglow",0,150,"indie rock","Rock","Harmony House",2021-05-21,02:31,70,83,0,57,98,0,0,-6,B minor,4,2022-09-19,3W0fmsdPgPisEQEfefimGT,"Very Nice Records",10A,GBKPL2142114
+338,"Stargazing","The Neighbourhood",71,160,"","","Chip Chrome & The Mono-Tones (Deluxe)",2020-12-11,03:37,51,48,0,0,37,0,10,-8,C,4,2022-09-19,0VF7YLIxSQKyNiFL3X6MmN,"Columbia",8B,USSM12006844
+339,"Out of Tune","The Backseat Lovers",63,96,"","","Out of Tune",2018-05-11,05:07,44,53,1,0,54,0,10,-9,G#/A♭,4,2022-09-19,4r3Er3AOnUXFZY34F7tet8,"The Backseat Lovers",4B,USDY41866202
+340,"its alright :)","Kevin Walkman",0,158,"","","its alright :)",2021-08-20,03:22,62,79,10,0,82,20,20,-5,D#/E♭,4,2022-09-19,0ITjrJTxJWUVqthwUIOKPZ,"Evelon Collective",5B,QZK6K2126777
+341,"PINCH ME","young friend",58,113,"","","PINCH ME",2021-03-04,02:59,78,47,62,0,76,0,0,-11,F#/G♭ minor,4,2022-09-19,14QUJhbXCWO90NfZ0mXnGG,"Nettwerk Music Group",11A,QZ93L2106732
+342,"I'm So Bored","Sarah and the Sundays",0,165,"","","The Living End",2021-10-15,03:28,49,75,1,0,95,0,0,-5,A#/B♭,4,2022-09-19,3FOxcASfGM5j68Op5I31d8,"Sarah and the Sundays/Fourward Music",6B,GBKPL2146422
+343,"Vanilla","flipturn",60,96,"","","Heavy Colors",2017-03-31,04:08,63,76,5,0,80,0,60,-7,B,4,2022-09-19,21lfQ6cXJF15ubyPLB6qHz,"flipturn",1B,TCACZ1763640
+344,"São Paulo","Vincent Mango",38,155,"","","São Paulo",2016-07-11,02:49,45,88,0,0,59,0,20,-5,G,4,2022-09-19,0UveavG8EANhh5v68UHUNK,"612829 Records DK",9B,QM2PV1645900
+345,"I Don't Want to Talk","Wallows",56,162,"indie","Pop, Rock","Tell Me That It’s Over",2022-03-25,03:43,46,91,1,0,64,0,30,-3,G,4,2022-09-19,1JiaqVxC0ZKjazNSjjJsnk,"Atlantic Records",9B,USAT22104993
+346,"Especially You","Wallows",48,95,"indie","Pop, Rock","Tell Me That It’s Over",2022-03-25,03:01,55,95,4,0,76,10,0,-3,D,4,2022-09-19,4lTaOALACghmELb2QTPxn0,"Atlantic Records",10B,USAT22106284
+347,"At the End of the Day","Wallows",55,117,"indie","Pop, Rock","Tell Me That It’s Over",2022-03-25,03:53,56,88,4,0,57,0,10,-5,A,4,2022-09-19,7xdKRHvX5OXoRyfPQ8w2mU,"Atlantic Records",11B,USAT22106285
+348,"Marvelous","Wallows",55,124,"indie","Pop, Rock","Tell Me That It’s Over",2022-03-25,02:22,64,92,22,0,67,10,0,-3,A,4,2022-09-19,5wkEdciZkVGiasumRPReSV,"Atlantic Records",11B,USAT22106286
+349,"Bad Dream Baby","Hippo Campus",1,160,"","","Bad Dream Baby",2021-06-15,02:58,65,72,9,0,96,0,0,-7,E,4,2022-09-19,4S7misxIYuUVypO0NwDwuW,"Grand Jury Music",12B,QM5BK1900457
+350,"More Than Friends","Aidan Bissett",64,160,"","","More Than Friends",2020-09-26,03:03,56,66,58,0,67,0,10,-7,F#/G♭,4,2022-09-19,1Ph96WpdjNlwD6iKRE2Xa3,"Capitol Records",2B,QZK6J2093995
+351,"SUMMER GIRL","Ian Hugel",46,160,"","","SUMMER GIRL",2020-06-01,02:48,56,43,37,1,21,0,20,-13,E,4,2022-09-19,7Ivlg6WEcmRLCqO32ZhfGd,"EN HAHA",12B,QZHN32022019
+352,"Runaway Kids","HARBOUR",0,101,"","","Runaway Kids",2016-08-05,03:44,51,85,1,0,34,0,0,-7,G,4,2022-09-19,204N3xuSdqkTdGm21tUwuN,"Harbour",9B,TCACQ1636622
+353,"parking lot view","almost monday",53,113,"","","parking lot view",2020-01-24,02:59,74,88,11,0,95,0,90,-5,B minor,4,2022-09-19,3g4o4r0eC0aySaIRNCheL2,"Hollywood Records",10A,USHR11939574
+354,"Cherry Coke Soda","Sam Soto",0,129,"","","Cherry Coke Soda",2020-03-20,02:27,68,65,1,0,81,0,0,-10,E,4,2022-09-19,5A65fPcVyYdKNK8cq4eYRm,"Sam Soto",12B,QZFZ32055179
+355,"Marcel","Her's",66,107,"indie","Pop, Rock","Songs of Her's",2017-05-12,03:07,63,65,54,8,69,0,30,-6,A,4,2022-09-19,5u9cuDcYdOpSRB7fAYXXdp,"Heist Or Hit Records",11B,GBYEJ1100253
+356,"Grass Eater","The Mellowells",41,112,"","","Head Space",2016-09-30,03:48,62,79,13,0,75,0,10,-7,G,4,2022-09-19,08VmsF8pxSVk0cWPAGdSj2,"571573 Records DK",9B,UST8K1648854
+357,"Sunroof","courtship.",46,130,"","","Denial in Paradise",2018-05-11,03:12,60,95,0,17,67,0,10,-3,F,4,2022-09-19,1zLEXRNVucrDxxI1qmGO9Z,"T∆G Music",7B,TCADA1765009
+358,"Violet","Bad Suns",0,103,"","","Disappear Here",2016-09-16,03:18,69,87,1,0,77,0,0,-5,C♯/D♭,4,2022-09-19,7bhSQqbyUvFVfmXgkF028O,"Vagrant Records",3B,QMRSZ1600420
+359,"Fair Game","Dayglow",0,128,"indie rock","Rock","Fuzzybrain",2019-11-14,04:22,77,70,5,5,94,0,10,-8,A,4,2022-09-19,09u08pFFRhzoVuleMAgtFq,"Very Nice Records",11B,TCADU1861906
+360,"Dance With Me","Sir, Please",45,120,"","","Dance With Me",2018-03-29,04:25,59,66,1,0,70,0,10,-7,E,4,2022-09-19,6rdveaxn9mg8gSeYhxyLlF,"ThunderPooch Productions",12B,QM4DW1825397
+361,"tossing and turning","Arlie",41,72,"","","Wait",2018-09-19,04:14,43,90,27,0,66,0,10,-2,D#/E♭,4,2022-09-19,0BV558M7jtFWqSc04ODcmt,"Atlantic Records",5B,USAT21810763
+362,"So Alright, Cool, Whatever","The Happy Fits",0,130,"","","Concentrate",2018-06-15,03:11,69,64,10,0,76,0,0,-5,C,4,2022-09-19,5NxC33tgrysAEqc62yukdT,"The Happy Fits Records",8B,GBMJG1808926
+363,"Sun Punks","Ashes To Amber",50,158,"","","Sun Punks",2019-12-05,03:44,69,65,0,0,72,0,10,-8,F#/G♭,4,2022-09-19,5FpMteAjEPjfNeanX0aDpO,"Ashes To Amber under exclusive license to Amuseio AB",2B,SE6A91908444
+364,"Chit Chat","Beach Weather",59,142,"","","Chit Chat",2016-11-04,03:20,52,98,0,16,97,0,30,-3,B minor,4,2022-09-19,2JIfkiU96Z25ERPoYhWirP,"8123 / Arista Records",10A,TCACS1642124
+365,"Down the Line","Beach Fossils",62,162,"dream pop, surf rock, shoegaze","Pop, Rock","Somersault",2017-06-02,02:38,62,74,24,0,53,0,10,-7,G,4,2022-09-19,05ZUxHiGT7VR6ShJjhwJxn,"Bayonet Records",9B,QM6YT1701409
+366,"Off My Mind","Joe P",58,112,"","","Emily Can't Sing",2021-10-22,03:33,57,66,31,0,73,0,10,-8,C,4,2022-09-19,7n6QMW76A5qgfn0Mb4aL7i,"Neon Gold/Atlantic",8B,QM24S2102212
+367,"That's Life","Still Woozy",60,96,"bedroom pop","Pop","If This Isn’t Nice, I Don’t Know What Is",2021-08-13,02:27,75,50,51,3,54,0,10,-9,F#/G♭ minor,4,2022-09-19,0WHWD1OwKWBiESxUEqf8x0,"Still Woozy Productions Inc., under exclusive license to Interscope Records",11A,USUG12102579
+368,"Get Down","Still Woozy",55,87,"bedroom pop","Pop","If This Isn’t Nice, I Don’t Know What Is",2021-08-13,02:51,76,55,30,0,37,10,10,-8,C♯/D♭ minor,4,2022-09-19,30YwNPjL8G6O1GaTP5obhV,"Still Woozy Productions Inc., under exclusive license to Interscope Records",12A,USUG12102722
+369,"Get By","Still Woozy",58,135,"bedroom pop","Pop","If This Isn’t Nice, I Don’t Know What Is",2021-08-13,02:26,78,56,32,0,90,0,40,-7,G,4,2022-09-19,0HXiFFhg287d15ssjFaRZp,"Still Woozy Productions Inc., under exclusive license to Interscope Records",9B,USUG12102725
+370,"Rocky","Still Woozy",58,101,"bedroom pop","Pop","If This Isn’t Nice, I Don’t Know What Is",2021-08-13,02:46,74,52,51,1,53,0,10,-9,B minor,4,2022-09-19,3E73eFyGL6v10qlK3jiLyR,"Still Woozy Productions Inc., under exclusive license to Interscope Records",10A,USUG12100451
+371,"Telescope","Cage The Elephant",66,94,"modern rock","Rock","Melophobia",2013-10-08,03:48,59,48,27,0,18,0,10,-5,C,4,2022-09-19,0tkBOcK7oRVXQJY97zzSvr,"RCA Records Label",8B,USRC11301162
+372,"10 Steps","Christian Leave",40,123,"","","10 Steps",2021-09-03,03:29,25,84,10,0,66,0,30,-7,G,4,2022-09-19,4U2GQlVHIerwX78jHpkOYN,"GODMODE/Warner Records",9B,USWB12102678
+373,"Understand","Greer",4,158,"","","Understand",2020-07-15,03:18,44,55,9,0,48,0,0,-6,A,4,2022-09-19,2MC62kpPl5Q35iqThQpXpG,"Epitaph",11B,USEP42026004
+374,"The Adults Are Talking","The Strokes",83,165,"garage rock, indie rock, alternative rock","Rock","The New Abnormal",2020-04-10,05:09,59,75,1,11,65,0,30,-6,F,4,2022-09-19,5ruzrDWcT0vuJIOMW7gMnW,"Cult Records/RCA Records",7B,USRC11902726
+375,"Stay Clear","Greer",34,180,"","","Lullaby For You",2020-07-17,02:35,38,57,2,12,58,0,10,-5,D,4,2022-09-19,488JbnsRxT4Y5YTccOVbQl,"Epitaph",10B,USEP42026005
+376,"23","Wallice",0,134,"indie pop, bedroom pop","Pop, Rock","23",2021-02-23,02:44,58,60,22,0,61,0,0,-5,F,4,2022-09-19,23KrCGwx1EedHUaZsQe6H5,"Wallice",7B,GBKPL2140282
+377,"She Doesn't Get It","Rec Hall",0,156,"","","She Doesn't Get It",2021-05-05,03:31,59,95,1,0,74,0,0,-5,E,4,2022-09-19,7ldkjVDQMRWw6Zjx42mu4d,"PLZ Music Group",12B,CACWV1872408
+378,"OhNo!","Kevin Walkman,Mickey Darling",0,150,"bedroom pop","Pop","OhNo!",2020-08-19,03:07,56,81,1,0,73,0,0,-7,A minor,4,2022-09-19,37JoRcYtA30gqhRc8wCOQj,"Evelon Collective",8A,QZK6Q2080246
+379,"Violet","Wild Party",47,171,"","","Phantom Pop",2014-10-07,02:59,42,88,1,0,64,0,30,-4,F#/G♭,4,2022-09-19,1v3SmmWX9lHYGXii4SmAts,"Fearless Records",2B,US5261419806
+380,"Favorite Poison","Fuller",51,77,"","","Favorite Poison",2020-03-20,03:12,46,89,0,69,69,0,10,-4,F#/G♭,4,2022-09-19,6JsAootlXP63bzFJK9gNsv,"Fuller",2B,QZFZ32040953
+381,"Psychics in LA","Peach Pit",49,132,"","","You and Your Friends (Deluxe)",2020-10-02,03:26,33,85,1,0,62,0,20,-5,C♯/D♭ minor,3,2022-09-19,5tsB5ROYUKKisUaJQIEEfv,"Columbia",12A,USSM12005004
+382,"Denny's Garage","Peach Pit",46,156,"","","You and Your Friends (Deluxe)",2020-10-02,03:35,55,84,0,3,58,0,0,-7,G,4,2022-09-19,4oD8WLd2vnV8ioZ7TdZz9J,"Columbia",9B,USSM12005006
+383,"Puppy Grin","Peach Pit",45,145,"","","You and Your Friends",2020-04-03,02:51,55,82,0,9,52,0,0,-7,D minor,4,2022-09-19,5ck1miitoRTdHXS9dvQ6qh,"Columbia",7A,USSM11914406
+384,"Romeo & Juliet","Peter McPoland",56,161,"","","Romeo & Juliet",2020-07-03,02:46,32,48,45,0,8,0,50,-7,C,4,2022-09-19,1VyA8mbSyXOdJx2lguR8Uu,"Columbia",8B,USSM12102782
+385,"Useless","Omar Apollo",62,90,"bedroom pop","Pop","Apolonio",2020-10-16,03:03,61,56,59,0,55,0,0,-8,F,4,2022-09-19,7dJN4NWQuqCjWwIT3UwOps,"Warner Records",7B,USWB12003932
+386,"Chasin' Honey","Wild Party",48,176,"","","Phantom Pop",2014-10-07,03:09,53,64,2,0,77,0,10,-5,G,4,2022-09-19,0Z0iYAtKYswMYXL3kJtdO4,"Fearless Records",9B,US5261419807
+387,"Idk","Breakup Shoes",38,135,"","","So Money, Baby",2019-09-27,03:34,49,84,0,0,49,0,30,-4,E,4,2022-09-19,6gJSeUKJEt8gxlzg8OsGds,"Breakup Shoes",12B,CAGOO1980767
+388,"I Love You So","The Walters",89,76,"","","I Love You So",2014-11-28,02:40,57,65,58,0,47,0,10,-5,A#/B♭,4,2022-09-19,4SqWKzw0CbA05TGszDgMlc,"Warner Records",6B,TCACC1438995
+389,"Flaming Hot Cheetos","Clairo",77,110,"bedroom pop","Pop","Flaming Hot Cheetos",2017-06-14,02:03,82,55,87,0,14,10,10,-9,G minor,4,2022-09-19,1F6IbA7di42uPc3cff8PXV,"FADER Label",6A,TCADD1718258
+390,"Understand","Christian Leave",40,115,"","","Trilogy",2018-12-14,02:13,60,20,81,0,13,0,10,-14,F#/G♭,3,2022-09-19,5z519kMRppIxybuNBbIqDI,"Warner Records",2B,QM38F1800022
+391,"Sunkissed","khai dreams",1,154,"","","Now and Then",2019-10-11,02:06,77,35,60,0,79,0,30,-9,F#/G♭,4,2022-09-19,1tD8J13a74q8fBqXwAP50j,"Khai Dreams",2B,QZFZ21993822
+392,"Moving On","Sarah and the Sundays",0,125,"","","So You're Mad About the Cups",2019-05-19,02:39,73,70,16,0,79,0,30,-6,A,4,2022-09-19,7weJrDyT1LCqoSD5l60AVM,"Sarah and the Sundays",11B,TCAEF1960088
+393,"Silhouettes","Colony House",54,165,"","","When I Was Younger",2014-07-22,02:57,48,76,1,0,58,0,0,-7,G#/A♭,4,2022-09-19,5zYduVIUSgSWmv56IwBmRl,"Roon Records",4B,USA5W1400128
+394,"Get You High","HARBOUR",0,170,"","","Heatwave",2017-08-04,03:54,46,74,4,0,43,0,30,-6,C,4,2022-09-19,6o46wIUnoKS8UABL36UuLL,"Harbour",8B,TCADE1723392
+395,"Nothing Has Changed","The Polar Boys",55,145,"","","Nothing Has Changed",2019-10-25,03:34,47,77,2,1,62,0,30,-6,C♯/D♭,4,2022-09-19,0fDCPVKI1qbTakRBhIOOMW,"POBO",3B,GBKPL1972591
+396,"Troubled Mind","Cannibal Kids",46,165,"","","Bloom",2017-10-27,03:33,57,54,1,3,61,0,0,-11,C,4,2022-09-19,1RbdVGt8TF9ovqhTOUO6MG,"Shaemax Records",8B,TCADH1724829
+397,"Disco","Surf Curse",83,173,"indie","Pop, Rock","Disco",2019-06-12,02:32,47,62,3,0,78,0,10,-9,B minor,4,2022-09-19,2Lumsra3kuU61wXkEKzKaK,"Surf Curse",10A,USAT22103311
+398,"Fvck Somebody","The Wrecks",53,142,"","","Infinitely Ordinary",2020-05-01,03:01,57,62,2,0,56,0,50,-4,F#/G♭ minor,4,2022-09-19,1GU6oaDhWaypMzfP51BYKo,"Big Noise Music Group",11A,USA2P1959472
+399,"Kids","MGMT",86,123,"indie","Pop, Rock","Oracular Spectacular",2007-12-14,05:02,45,93,0,0,17,0,30,-4,A,4,2022-09-19,1jJci4qxiYcOHhQR247rEU,"Red Ink/Columbia",11B,USSM10702135
+400,"LEMONHEAD","Kid Bloom",0,177,"","","LEMONHEAD",2019-08-02,03:31,56,90,1,0,54,10,0,-5,A#/B♭ minor,3,2022-09-19,467Jesu8a1rxAgATvincFm,"Position Music",3A,USHM81901936
+401,"Daddy Issues","The Neighbourhood",87,85,"","","Wiped Out!",2015-10-30,04:20,59,52,7,15,34,0,10,-9,A#/B♭,4,2022-09-19,5E30LdtzQTGqRvNd7l6kG5,"Columbia",6B,USSM11506747
+402,"Kids","Current Joys",15,113,"","","Kids",2015-03-08,04:29,83,66,51,40,90,0,0,-10,F#/G♭,4,2022-09-19,3pyyGVqWvRMq43qtJBzxe0,"Current Joys",2B,TCACS1677524
+403,"Alien Blues","Vundabar",80,82,"","","Gawk",2015-07-24,02:35,47,76,8,91,43,0,0,-5,D#/E♭,4,2022-09-19,11iIikXxC6NP0Ma8vMD27x,"Gawk Records under exclusive license to Amuseio AB",5B,USDY41567486
+404,"New Person, Same Old Mistakes","Tame Impala",82,152,"indie, psychedelic pop","Pop, Rock","Currents",2015-07-17,06:03,47,81,27,1,49,0,0,-7,G#/A♭,4,2022-09-19,52ojopYMUzeNcudsoz7O9D,"Universal Music Australia Pty. Ltd.",4B,AUUM71500302
+405,"Take A Ride","Ivy Mono",0,99,"","","Take A Ride",2022-03-04,03:13,66,83,0,0,87,0,10,-7,F#/G♭ minor,4,2022-09-19,7acDkqhWByIeWgqPAW8pT0,"SUNDRUNK SONGS",11A,QZFZ62287548
+406,"landline","Arlie",42,110,"","","BREAK THE CURSE",2022-06-03,03:03,76,74,7,0,86,0,0,-4,C♯/D♭,4,2022-09-19,3OqP3uIygaUiuVzhVyk0X5,"Atlantic Records",3B,USAT22104870
+407,"Tombstone Grey","JAWNY",35,78,"bedroom pop","Pop","The Story Of Hugo",2021-07-14,02:48,57,47,32,0,25,0,10,-7,C,4,2022-09-19,6CVBXF8MOp8nLqnAnsPyNg,"Johnny Utah LLC, under exclusive license to Interscope Records",8B,USUG12102517
+408,"THREAT","Rex Orange County",50,118,"bedroom pop","Pop","THREAT",2022-08-09,02:50,67,40,53,0,62,20,10,-14,D,4,2022-09-19,3mWUqIz228lrdC5ZSkpjUG,"Rex Orange County",10B,USRC12202783
+409,"After The Storm (feat. Tyler, The Creator & Bootsy Collins)","Kali Uchis,Tyler, The Creator,Bootsy Collins",84,80,"","","Isolation",2018-04-06,03:27,70,66,30,0,84,10,20,-7,E minor,4,2022-09-19,1otG6j1WHNvl9WgXLWkHTo,"EMI",9A,GBUM71706492
+410,"Bad Habit","Steve Lacy",86,169,"","","Gemini Rights",2022-07-15,03:52,69,49,61,0,70,0,40,-7,C♯/D♭,4,2022-09-19,4k6Uh1HXdhtusDW5y8Gbvy,"L-M Records/RCA Records",3B,USRC12201440
+411,"i think i wanna be alone","mazie",48,76,"","","the rainbow cassette",2021-08-25,01:42,72,32,73,0,78,0,20,-7,G#/A♭,4,2022-09-19,0uORqw0i7S97SG4dwb4Ett,"Good Boy Records",4B,QZ93L2033257
+412,"Elephant","Tame Impala",74,123,"indie, psychedelic pop","Pop, Rock","Lonerism",2012-01-01,03:31,60,55,56,16,53,0,20,-7,A minor,4,2022-09-19,6qZjm61s6u8Ead9sWxCDro,"Modular",8A,AUUM71200495
+413,"Ain't No Rest for the Wicked","Cage The Elephant",77,156,"modern rock","Rock","Cage The Elephant (Expanded Edition)",2009-03-24,02:55,64,85,4,0,92,10,30,-7,C,4,2022-09-19,3Pzh926pXggbMe2ZpXyMV7,"Jive/Legacy",8B,USJI10900260
+414,"Freaks & Geeks","Oliver Tree",48,110,"","","Cowboy Tears",2022-02-18,02:20,76,64,6,0,71,0,30,-6,C,4,2022-09-19,6SXMyJ44dyZo4Vz34ikIzG,"Atlantic Records",8B,USAT22107444
+415,"Cowboy Tears","Oliver Tree",38,126,"","","Cowboy Tears",2022-02-18,02:57,66,66,3,0,49,0,10,-8,G,4,2022-09-19,70XhaWZd0PsZgpEgqJhUgG,"Atlantic Records",9B,USAT22108076
+416,"somebody to lose","mazie",7,149,"","","menace",2022-07-22,03:07,54,51,57,0,60,0,30,-8,C,4,2022-09-19,7s9q13gdGjTdXvuEdyjY8E,"Good Boy Records",8B,QZRYT2100039
+417,"I Ain't Worried","OneRepublic",85,140,"soft pop","Pop","I Ain’t Worried (Music From The Motion Picture  Top Gun: Maverick )",2022-05-13,02:28,70,80,8,0,83,0,0,-6,C,4,2022-09-19,4h9wh7iOZ0GGn8QVp4RAOB,"Interscope Records",8B,USUM72206227
+418,"Your Life Your Time","Christian Leave",49,159,"","","Your Life Your Time",2021-01-15,02:40,53,82,0,2,87,0,20,-6,B,4,2022-09-19,1HWkMkgqKMLqsAPRh0KNmE,"GODMODE/Warner Records",1B,USWB12004903
+419,"Too Late","The Happy Fits",0,160,"","","Awfully Apeelin'",2016-08-27,03:21,69,55,44,0,79,10,40,-10,G,4,2022-09-19,3LbO439QNr3IX7Ho39Fq8X,"The Happy Fits",9B,GBMJG1610594
+420,"Best Tears","The Happy Fits",0,130,"","","Concentrate",2018-06-15,02:38,42,70,11,0,68,0,10,-4,D,4,2022-09-19,7nF74JcG12aaD8lV9SJVTu,"The Happy Fits Records",10B,GBMJG1802890
+421,"Smile","M.A.G.S.",37,105,"surf rock","Rock","Say Things That Matter",2021-08-13,03:59,60,79,10,0,56,0,30,-8,D#/E♭,4,2022-09-19,6HgPV8z2FNoLVQtvJKY5Do,"Elliott Douglas",5B,QZNJV2046426
+422,"Festival Grrrl","Ivy Mono",36,102,"","","Festival Grrrl",2018-10-18,03:20,56,72,0,0,28,0,30,-8,D,4,2022-09-19,5QnivUhXof6Rpwt1AhYt6k,"888054 Records DK",10B,QZES51856414
+423,"27 Club","Strange Case",30,120,"","","Quarter Life Crisis",2021-05-21,03:02,75,47,0,0,73,0,30,-9,C♯/D♭ minor,4,2022-09-19,5AIZVunIgslTTPWi8FXc1r,"Regime Music Group",12A,QMBZ91905995
+424,"Backward in Love","shy kids",41,138,"","","Backward in Love",2019-08-10,03:22,71,47,11,2,33,0,10,-8,G#/A♭ minor,4,2022-09-19,68JW0PqQ1hyw3bEhouRzy8,"shy kids",1A,TCAEI1953781
+425,"Beta","Your Neighbors",50,113,"","","Beta",2020-03-27,03:36,61,80,1,0,81,0,30,-6,D minor,4,2022-09-19,5UyG628jm48eYIwfCGLwXj,"Your Neighbors",7A,QZFZ52071852
+426,"SCRAMBLED","Havelock",39,156,"","","TRY B4U BUY",2020-03-02,04:37,54,43,57,0,21,0,10,-9,A minor,3,2022-09-19,3Kx8jHwgt5plNRapiGQ2NS,"Havelock",8A,FRX201925199
+427,"It's Still Cool If You Don't","Briston Maroney",45,121,"","","Sunflower",2021-04-09,03:57,60,66,0,0,36,0,60,-6,A,4,2022-09-19,0g7FTOpwOg90HLXOPioFK3,"Canvasback/ATL",11B,USAT22007038
+428,"What Once Was","Her's",78,146,"indie","Pop, Rock","Songs of Her's",2017-05-12,04:15,53,88,17,1,44,0,20,-4,D#/E♭ minor,3,2022-09-19,1XrSjpNe49IiygZfzb74pk,"Heist Or Hit Records",2A,GBYEJ1100223
+429,"Angel","FINNEAS",0,130,"","","Angel",2019-06-11,05:11,54,25,74,0,24,0,30,-13,F,4,2022-09-19,7iSEz0IIVF5H4KLXIm99Vk,"OYOY",7B,GBKPL1952409
+430,"Line Without a Hook","Ricky Montgomery",83,190,"","","Montgomery Ricky",2016-04-08,04:09,43,65,26,0,51,0,20,-5,G#/A♭,3,2022-09-19,5NvOZCjZaGGGL597exlQWv,"Warner Records",4B,USA2P1624696
+431,"See You Again (feat. Kali Uchis)","Tyler, The Creator,Kali Uchis",93,79,"","","Flower Boy",2017-07-21,03:00,56,56,37,0,62,10,10,-9,F#/G♭,4,2022-09-19,7KA4W4McWYRpgf0fWsJZWB,"Columbia",2B,USQX91701275
+432,"Static","Steve Lacy",75,79,"","","Gemini Rights",2022-07-15,02:36,34,31,43,63,22,0,10,-13,C♯/D♭,5,2022-09-19,4OmfWzukSVD140NiAIEjem,"L-M Records/RCA Records",3B,USRC12202285
+433,"adios","JAWNY",50,164,"bedroom pop","Pop","adios",2022-09-14,03:23,53,86,17,0,45,0,50,-5,F#/G♭ minor,4,2022-09-19,3gfve6BgoTkZK3uBkqttz8,"Johnny Utah LLC, under exclusive license to Interscope Records",11A,USUG12206657
+434,"Dance Alone","The Happy Fits",0,172,"","","Under The Shade of Green",2022-08-26,03:16,52,67,5,0,85,0,30,-6,G,4,2022-09-19,0ioCRxrkLBBvEv3GEvjaAk,"The Happy Fits Records",9B,GBKPL2292862
+435,"The Wrong Party (with Fitz and The Tantrums)","Andy Grammer,Fitz and The Tantrums",38,125,"","","The Wrong Party (with Fitz and The Tantrums)",2022-08-26,02:39,72,80,14,0,88,0,40,-4,C,4,2022-09-19,0CZ4WDvSa2YyTei18Tapjd,"S-Curve Records (Andy Grammer)",8B,USHR12244068
+436,"sun keeps on shining","almost monday",56,88,"","","sun keeps on shining",2022-06-03,02:47,63,77,14,0,78,0,40,-6,E,4,2022-09-19,5OAEQKfQzIB3X4K7TtviZf,"Hollywood Records",12B,USHR12243235
+437,"I Wanna Be Your High","Chad Tepper,DREAMERS",42,160,"","","I Wanna Be Your High",2020-12-11,03:07,50,89,6,0,74,0,20,-6,B,4,2022-09-19,7CkeYEfGBL8SYAq63Z72oh,"Epitaph",1B,QZNWV2037959
+438,"Glimpse of Us","Joji",25,170,"","","Glimpse of Us",2022-06-10,03:53,44,32,89,0,27,0,10,-9,G#/A♭,3,2022-09-19,6xGruZOHLs39ZbVccQTuPZ,"88rising Music/Warner Records",4B,USWB12201789
+439,"Malibu","THE DRIVER ERA,Ross Lynch,Rocky",0,111,"","","Malibu",2022-07-28,02:47,86,66,28,1,75,0,10,-7,E minor,4,2022-09-19,7fioUXJZrCUn91UZJV2mQD,"The Driver Era, TOO Records",9A,QM24S2202958
+440,"dumb dumb","mazie",69,122,"","","the rainbow cassette",2021-08-25,02:05,78,47,22,0,59,0,0,-8,D,4,2022-09-19,4qbEaaJ29p32GI8EWQmm6R,"Good Boy Records",10B,QZRYT2100001
+441,"Daylight","Harry Styles",73,146,"","","Harry's House",2022-05-20,02:44,69,45,48,0,63,0,10,-7,C,3,2022-09-19,51Zw1cKDgkad0CXv23HCMU,"Columbia",8B,USSM12200613
+442,"Late Night Talking","Harry Styles",80,115,"","","Harry's House",2022-05-20,02:57,71,73,30,0,90,0,10,-5,A#/B♭,4,2022-09-19,1qEmFfgcLObUfQm0j1W2CK,"Columbia",6B,USSM12200610
+443,"Music For a Sushi Restaurant","Harry Styles",74,107,"","","Harry's House",2022-05-20,03:13,72,72,26,6,36,0,10,-5,B,4,2022-09-19,5LYMamLv12UPbemOaTPyeV,"Columbia",1B,USSM12200609
+444,"I Can't Help But Feel","Surfaces",0,115,"","","I Can't Help But Feel",2022-04-01,02:58,72,71,33,0,72,0,10,-5,C♯/D♭ minor,4,2022-09-19,40gooTta3y4FgzXaMOGDJL,"Surfaces Music / 10K Projects",12A,QZJ842001551
+445,"Adventure of a Lifetime","Coldplay",88,112,"","","A Head Full of Dreams",2015-12-04,04:23,64,92,0,0,53,0,10,-4,G,4,2022-09-19,69uxyAqqPIsUyTO8txoP2M,"Parlophone UK",9B,GBAYE1500981
+446,"Never Enough","Rex Orange County",1,159,"bedroom pop","Pop","Apricot Princess",2017-04-26,04:58,51,89,1,0,54,10,0,-4,E,4,2022-09-19,2d1VRB0OXkwtMu0OKsxXDW,"Rex Orange County",12B,US23A1500503
+447,"this is what falling in love feels like","JVKE",3,129,"","","this is what falling in love feels like",2021-09-03,02:00,42,44,62,0,33,0,0,-6,B,5,2022-09-19,4UG2Fm0E98LhE2dlNxiAXx,"JVKE",1B,GBKPL2163189
+448,"Tightrope","bennytheghost",0,141,"","","Tightrope",2022-04-20,02:20,68,68,0,0,69,0,30,-5,D,4,2022-09-19,5kzsfmg5XrlG2cxnHbBNC5,"BTG Recordings",10B,GBKPL2291551
+449,"Cowboys Don’t Cry","Oliver Tree",59,88,"","","Cowboy Tears",2022-02-18,03:09,61,64,22,0,46,0,30,-7,G#/A♭,4,2022-09-19,04WxFTgT3bEvX1WOYzT5Ky,"Atlantic Records",4B,USAT22107445
+450,"Let the Sun In","Wallows",51,190,"indie","Pop, Rock","Spring EP",2018-04-06,03:43,32,66,0,0,67,0,10,-6,C,4,2022-09-19,6qMiZK4mGuCRkVwRFds4Sm,"Atlantic Records",8B,USAT21800933
+451,"Jerk It Out","Caesars",75,134,"","","Love For The Streets",2002-00-00,03:15,58,98,2,0,86,0,30,-3,G#/A♭ minor,4,2022-09-19,5XMjXjwCkJVmk0AHm7z8IV,"Parlophone Sweden",1A,SEVBU0200002
+452,"West Coast","OneRepublic",62,134,"soft pop","Pop","West Coast",2022-02-25,03:12,69,70,32,0,88,0,0,-8,F#/G♭ minor,4,2022-09-19,0sBJA2OCEECMs0HsdIQhvR,"Mosley Music/Interscope Records",11A,USUM72202540
+453,"This Is the Life","Two Door Cinema Club",0,136,"indie","Pop, Rock","Tourist History",2010-02-17,03:30,46,81,0,1,39,10,0,-5,E,4,2022-09-19,1sihSJEXrJJgyaLd4DeZYq,"Glassnote Entertainment Group LLC",12B,FRU700900102
+454,"Clarity","Vance Joy",54,125,"folk pop","Folk, Pop","Clarity",2022-04-06,03:47,55,87,0,0,62,0,10,-6,C,4,2022-09-19,5c6lM2zjAF6MFoD8C1hiBr,"Atlantic Records",8B,USAT22201801
+455,"Notion","The Rare Occasions",84,159,"","","Notion",2021-12-02,03:15,31,88,7,0,31,0,0,-4,A,4,2022-09-19,0sTlGEld0h8kIPZaKDYUf4,"Elektra (NEK)",11B,USHM21617726
+456,"AMAZING","Rex Orange County",71,124,"bedroom pop","Pop","WHO CARES?",2022-03-11,03:29,72,46,28,0,55,0,0,-8,G#/A♭,4,2022-09-19,3OM6qQmdFV6uy61GIqpRtf,"Rex Orange County",4B,USRC12102923
+457,"Sunshine","OneRepublic",76,140,"soft pop","Pop","Sunshine",2021-11-10,02:43,70,88,14,0,77,0,20,-5,F,4,2022-09-19,5r43qanLhUCdBj8HN3fa6B,"Mosley Music/Interscope Records",7B,USUM72100506
+458,"AMAZING","Rex Orange County",60,124,"bedroom pop","Pop","AMAZING",2022-02-14,03:29,72,46,28,0,55,0,0,-8,G#/A♭,4,2022-09-19,6FtIK0IkmG33lKbc1pyAlZ,"Rex Orange County",4B,USRC12102923
+459,"Life Itself","Glass Animals",65,112,"","","How To Be A Human Being",2016-08-26,04:41,70,67,1,22,56,0,30,-6,C♯/D♭,4,2022-09-19,32zkKx35Et6A515oZKxDkD,"Wolf Tone",3B,GB2DY1600018
+460,"Take A Slice","Glass Animals",75,152,"","","How To Be A Human Being",2016-08-26,03:49,62,66,2,0,63,10,20,-7,A,4,2022-09-19,37adYGaYaAWTGhBaOzX4Fh,"Wolf Tone",11B,GB2DY1600027
+461,"Missing Piece","Vance Joy",68,102,"folk pop","Folk, Pop","Missing Piece",2021-05-19,03:37,63,88,2,0,72,0,10,-4,C,4,2022-09-19,5YqdiryRmdAzYFlxo43hAJ,"Atlantic Records",8B,USAT22102087
+462,"Cigarettes & Feelings","The Haunt",0,142,"","","Cigarettes & Feelings",2019-09-27,03:33,69,79,37,0,82,0,40,-4,G minor,4,2022-09-19,4TayVl5C9dYmXk1baWcfry,"The Haunt",6A,QZHZ31962451
+463,"Heaven Angel","THE DRIVER ERA,Ross Lynch,Rocky",0,114,"","","Girlfriend",2021-10-15,03:39,75,79,2,2,78,0,60,-5,F,4,2022-09-19,3vtSBUW15bXapWOaByIo06,"BMG Rights Management (US) LLC",7B,QMRSZ2101135
+464,"parachute","second thoughts",0,125,"","","parachute",2020-10-09,03:05,67,85,30,0,96,0,10,-7,A#/B♭,4,2022-09-19,0Nb43xq2DX0TUfZEa3PB65,"second thoughts",6B,TCAFC2098825
+465,"I Don't Wanna Talk (I Just Wanna Dance)","Glass Animals",64,132,"","","Dreamland (+ Bonus Levels)",2021-09-09,03:15,70,62,2,0,81,0,30,-6,G,4,2022-09-19,6IbCvfmmICEEAyDwQ9zcbt,"Polydor Records",9B,GBUM72105458
+466,"ONE IN A MILLION","Rex Orange County",61,80,"bedroom pop","Pop","WHO CARES?",2022-03-11,03:14,77,48,70,0,51,0,10,-7,B,4,2022-09-19,2XkDm5m2vPowecEAAR5gmb,"Rex Orange County",1B,USRC12102924
+467,"OPEN A WINDOW (feat. Tyler, The Creator)","Rex Orange County,Tyler, The Creator",57,80,"bedroom pop, ","Pop","WHO CARES?",2022-03-11,03:38,54,61,28,0,55,0,10,-7,D,4,2022-09-19,1TDeDFUYHjZKLsO6bzoVg1,"Rex Orange County",10B,USRC12102921
+468,"WHO CARES?","Rex Orange County",48,86,"bedroom pop","Pop","WHO CARES?",2022-03-11,02:29,82,28,59,0,59,0,10,-6,G#/A♭,4,2022-09-19,1SKN0qfmaLESOcr9rV9kvn,"Rex Orange County",4B,USRC12102930
+469,"WORTH IT","Rex Orange County",49,95,"bedroom pop","Pop","WHO CARES?",2022-03-11,02:44,57,37,70,1,39,0,10,-9,G,4,2022-09-19,2agJG5mKBoOL8uojjKQvCD,"Rex Orange County",9B,USRC12102922
+470,"IF YOU WANT IT","Rex Orange County",49,140,"bedroom pop","Pop","WHO CARES?",2022-03-11,03:07,81,58,3,0,33,0,10,-7,F#/G♭,4,2022-09-19,2ZZ0ITwRqitCvddi2CGfgq,"Rex Orange County",2B,USRC12102925
+471,"Say It Louder","Panic! At The Disco",43,163,"emo","Rock","Viva Las Vengeance",2022-08-19,03:30,38,84,0,3,63,10,10,-7,C♯/D♭ minor,4,2023-01-31,61aS3LDHi60ZZr3ZpHG2AP,"Fueled By Ramen",12A,USAT22200853
+472,"Silent Running (feat. Adeleye Omotayo)","Gorillaz,Adeleye Omotayo",1,107,"","","Silent Running (feat. Adeleye Omotayo)",2023-01-27,04:26,66,90,6,0,78,0,10,-4,G#/A♭,4,2023-01-31,5t6VBNWXxcwlrxCjU7ytGg,"Parlophone UK",4B,GBAYE1901302
+473,"Ghost in the Machine (feat. Phoebe Bridgers)","SZA,Phoebe Bridgers",74,125,"r&b, ","R&B","SOS",2022-12-09,03:38,62,43,84,3,59,0,10,-10,F#/G♭,4,2023-01-31,4h5x3XHLVYFJaItKuO2rhy,"Top Dawg Entertainment/RCA Records",2B,USRC12204595
+474,"Who Is She ?","I Monster",72,153,"","","Neveroddoreven",2005-01-27,03:33,39,80,8,1,10,0,0,-4,C♯/D♭ minor,4,2023-01-31,1QxcWlk8PivolUaWcpAoNq,"Instant Karma",12A,GBDKA0300194
+475,"Another Love","Tom Odell",89,123,"","","Long Way Down (Deluxe)",2013-06-24,04:04,45,54,70,0,13,0,0,-9,E minor,4,2023-01-31,3JvKfv6T31zO0ini8iNItO,"ITNO/Columbia",9A,GBARL1300107
+476,"Atlantis","Seafret",85,166,"","","Tell Me It's Real (Expanded Edition)",2016-01-29,03:49,40,48,5,0,21,0,10,-8,G#/A♭ minor,4,2023-01-31,1Fid2jjqsHViMX6xNH70hE,"Sweet Jane Recordings",1A,GBARL1500316
+477,"Shirt","SZA",68,120,"r&b","R&B","Shirt",2022-10-28,03:01,82,45,15,3,55,10,0,-10,D#/E♭ minor,4,2023-01-31,34ZAzO78a5DAVNrYIGWcPm,"Top Dawg Entertainment/RCA Records",2A,USRC12203632
+478,"Fall In Love Alone","Stacey Ryan",71,172,"","","Fall In Love Alone",2022-05-13,03:25,68,63,32,0,52,0,10,-5,G minor,4,2023-01-31,5xwBIieMMFUmLDgvG4DjFe,"Island Records",6A,USUG12202833
+479,"Melting","Kali Uchis",81,115,"","","Por Vida",2015-02-04,03:28,57,48,18,8,30,0,10,-8,G#/A♭,4,2023-01-31,2kSb3wYSOV996xA2NSmpck,"Kali Uchis LLC",4B,QM8DG1400266
+480,"Aces","dkj",62,140,"","","Aces",2022-11-25,02:02,60,54,0,95,43,0,20,-11,A#/B♭ minor,4,2023-01-31,4pV6Kx1T9L49PBFwH1g8ca,"Atlantic Records",3A,USAT22221554
+481,"Those Eyes","New West",3,120,"","","Those Eyes",2019-05-10,03:40,60,35,73,0,24,0,30,-8,E,3,2023-01-31,2GThBgzZoZfz0lx1JjBwfe,"199x",12B,TCAEE1990215
+482,"All Day I Dream About","Joe P",46,130,"","","French Blonde",2022-10-07,03:20,58,74,24,0,17,0,10,-8,B,4,2023-01-31,3RdDhtBteHxiehIooekE8Z,"Atlantic Records",1B,USAT22206786
+483,"cough drops","almost monday",61,77,"","","cough drops",2022-10-05,02:43,62,70,0,0,79,0,10,-5,A minor,4,2023-01-31,5Jpj3lCgX06bu6STIjUYKN,"Hollywood Records",8A,USHR12244066
+484,"i haunt ur dreams","hey, nothing",38,101,"midwest emo","Rock","i haunt ur dreams",2022-10-12,03:36,62,67,3,1,91,0,40,-8,E,4,2023-01-31,7jBAskQhyfjmbYC0o3pXdW,"Music Soup/Good Luck Have Fun Records",12B,QM24S2205331
+485,"Tripping Over Air","Aidan Bissett",63,117,"","","Tripping Over Air",2022-09-09,03:02,63,79,0,0,52,0,30,-5,B,4,2023-01-31,7mzPAftljnsFmU6131Pqcd,"Capitol Records",1B,USUM72214890
+486,"Boys","Hippo Campus",0,105,"","","Boys",2021-10-18,04:13,52,77,3,0,55,0,0,-5,D,4,2023-01-31,7yfLvK7r1w5bql3G0Uha5w,"Grand Jury Music",10B,QM5BK1900478
+487,"sunburn","almost monday",53,112,"","","sunburn",2022-04-08,02:53,69,74,0,0,79,0,50,-5,E,4,2023-01-31,4gBkCqlITvat2A3aYPtMqS,"Hollywood Records",12B,USHR12243145
+488,"Snail (feat. Chloe Moriondo)","Cavetown,chloe moriondo",45,125,"bedroom pop, indie pop","Pop, Rock","Sleepyhead",2020-03-27,03:50,66,31,49,0,25,0,0,-12,A#/B♭,4,2023-01-31,6wZRVdKVHHSEHiAyTcwtV2,"Sire",6B,USWB11903462
+489,"4 Minutes (feat. Justin Timberlake & Timbaland)","Madonna,Justin Timberlake,Timbaland",79,113,"","","Celebration (double disc version)",2009-09-18,03:09,75,93,1,1,77,0,20,-5,D,4,2023-01-31,1oHClQEgDmmbcEx12Kc5nZ,"Warner Records",10B,USWB10903601
+490,"Stuck Between","Dutch Criminal Record",45,105,"","","Stuck Between",2016-11-11,02:44,52,88,0,0,55,0,10,-6,E minor,4,2023-01-31,3AtB5xfEN7gf3ysUFZmRWM,"Dutch Criminal Record",9A,GBKPL1673627
+491,"true","JAWNY",40,121,"bedroom pop","Pop","true",2023-01-13,03:11,72,65,20,0,64,0,50,-5,G#/A♭,4,2023-01-31,2W4lAW4jB3QLBhS34Qn3WN,"Johnny Utah LLC, under exclusive license to Interscope Records",4B,USUG12207036
+492,"Stranger","Vistas",45,174,"","","Stranger",2020-08-25,03:23,51,91,0,0,79,0,0,-5,G#/A♭,4,2023-01-31,6rpmHPyW3hakVFHQyzQpjj,"Retrospect Records",4B,FRX202077411
+493,"Kiss Me","Sixpence None The Richer",87,100,"","","Sixpence None the Richer",1997-11-22,03:28,53,75,2,0,42,0,0,-7,D#/E♭,4,2023-01-31,754kgU5rWscRTfvlsuEwFp,"Word Entertainment",5B,USEE19900312
+494,"Where You Lead I Will Follow","Carole King",59,107,"singer-songwriter, folk rock","Folk, Rock","Love Makes the World",2001-09-25,03:27,73,74,36,0,70,0,0,-7,C,4,2023-01-31,5htNlXFlMI6RMBHhJuGJJm,"Legacy Recordings",8B,USRG20210201
+495,"Gilded Lily","Cults",81,62,"","","Offering",2022-10-26,03:32,40,57,47,0,15,0,50,-7,B minor,4,2023-01-31,3Z0qLOS0cqWKPHXkbTXmNF,"Sinderlyn/Columbia",10A,USQX92206420
+496,"SOS","SZA",64,119,"r&b","R&B","SOS",2022-12-09,01:57,51,66,67,0,51,20,0,-7,G minor,1,2023-01-31,5xMw6qCcpd2gBXPGTegC4W,"Top Dawg Entertainment/RCA Records",6A,USRC12204583
+497,"Too Close","Alex Clare",62,126,"","","The Lateness Of The Hour",2011-00-00,04:16,58,71,1,0,29,0,10,-4,B minor,4,2023-01-31,4sK96UnGx3NjBaqvfTG2dm,"Universal-Island Records Ltd.",10A,GBUM71101222
+498,"F2F","SZA",73,90,"r&b","R&B","SOS",2022-12-09,03:05,53,74,9,0,47,0,30,-6,D,4,2023-01-31,2e2AXpIiJpet5b4qg85Gh6,"Top Dawg Entertainment/RCA Records",10B,USRC12204596
+499,"The Exit","Conan Gray",72,82,"","","Superache",2022-06-24,03:41,58,42,61,0,45,0,0,-10,C,4,2023-01-31,6PDWMQJ55ZYrGrSx3EZzl4,"Republic Records",8B,USUM72204112
+500,"Family Line","Conan Gray",77,154,"","","Superache",2022-06-24,03:36,33,40,62,0,28,0,10,-8,F#/G♭,3,2023-01-31,0iNZGC211wst3VjtobNnC5,"Republic Records",2B,USUM72204108
+501,"People Watching","Conan Gray",74,126,"","","Superache",2022-06-24,02:38,53,59,38,0,54,0,20,-7,F,4,2023-01-31,3TFoEJe5zNuHZStRboWPxg,"Republic Records",7B,USUM72109491
+502,"Eyes Wide Open","Gotye",48,139,"","","Making Mirrors",2011-01-01,03:11,60,87,19,2,64,0,10,-6,F,4,2023-01-31,6h2q5GhVc9itEB6NqOEMd4,"Samples & Seconds / Republic",7B,AUZS21100041
+503,"Silver Lining","Mt. Joy",7,144,"","","Mt. Joy",2018-03-02,03:18,54,62,0,0,20,0,10,-7,C,4,2023-01-31,0i5QVxsK3IvEDbUjTA64Li,"Dualtone Music Group, Inc.",8B,USDMG1785501
+504,"You're So Vain","Carly Simon",81,106,"","","No Secrets",1972-00-00,04:18,66,68,15,0,67,0,0,-8,C,4,2023-01-31,2DnJjbjNTV9Nd5NOa1KGba,"Rhino/Elektra",8B,USEE19900883
+505,"Kill Bill","SZA",81,89,"r&b","R&B","SOS",2022-12-09,02:33,64,73,5,17,43,0,10,-6,G#/A♭,4,2023-01-31,3OHfY25tqY28d16oZczHc8,"Top Dawg Entertainment/RCA Records",4B,USRC12204584
+506,"Team","Lorde",82,100,"","","Pure Heroine",2013-09-27,03:13,69,58,17,0,41,10,30,-7,F#/G♭,4,2023-01-31,3G6hD9B2ZHOsgf4WfNu7X1,"Universal Music New Zealand Limited",2B,NZUM71300124
+507,"Damn It Feels Good To Be Me","Andy Grammer",49,120,"","","Damn It Feels Good To Be Me",2021-09-08,02:18,71,78,7,0,78,0,40,-5,C,4,2023-01-31,3LymIBUSWRoxxm7W5UQlXl,"S-Curve Records",8B,USHR12142066
+508,"Skinny Ape","Gorillaz",0,180,"","","Skinny Ape",2022-12-08,04:41,47,87,2,1,58,10,10,-3,G,4,2023-01-31,3G69pyQGyx49kjsy9waiXf,"Parlophone UK",9B,GBAYE2200466
+509,"Motion Sickness","Phoebe Bridgers",77,107,"","","Stranger in the Alps",2017-09-22,03:49,65,55,77,4,62,0,0,-9,C♯/D♭,4,2023-01-31,5xo8RrjJ9CVNrtRg2S3B1R,"Dead Oceans",3B,USJ5G1714202
+510,"Bloody Mary","Lady Gaga",72,100,"art pop, pop","Pop","Born This Way (Special Edition)",2011-01-01,04:04,59,63,1,0,44,0,10,-6,A minor,4,2023-01-31,11BKm0j4eYoCPPpCONAVwA,"Interscope",8A,USUM71106449
+511,"Carried Away","Passion Pit",59,120,"indie","Pop, Rock","Gossamer",2012-07-23,03:41,77,83,2,0,87,0,30,-5,C,4,2023-01-31,52a6VcF23v5HB7KfDEmBHq,"Columbia",8B,USSM11202619
+512,"ARE WE STILL FRIENDS?","Tyler, The Creator",86,187,"","","IGOR",2019-05-17,04:25,22,50,13,0,31,0,10,-8,A#/B♭,3,2023-01-31,5TxRUOsGeWeRl3xOML59Ai,"Columbia",6B,USQX91901168
+513,"Livin' for the Weekend","Fitz and The Tantrums",51,150,"","","All the Feels",2019-09-20,02:55,72,88,3,0,84,0,10,-4,B minor,4,2023-01-31,6TUSi9GZigMhBQ4k8zVK1Q,"Elektra (NEK)",10A,USAT21903754
+514,"I Wanna Get Better","Bleachers",65,190,"","","Strange Desire",2014-07-14,03:24,45,92,0,0,40,10,20,-6,A,4,2023-01-31,1BwhFXqoIsePt21WyWIttb,"RCA Records Label",11B,USRC11400200
+515,"The DJ is Crying for Help","AJR",47,145,"","","The DJ Is Crying For Help",2022-11-18,03:39,52,68,4,0,36,0,10,-6,B minor,4,2023-01-31,2fihoO76h66Hio6noF4tQD,"Mercury Records / Republic Records",10A,USUG12208458
+516,"Roses","Phoneboy",0,145,"","","Phoneboy",2021-04-23,03:06,60,64,5,0,89,0,0,-5,C♯/D♭ minor,4,2023-01-31,6hhySKOBYjOIbW1uNHt8yp,"Phoneboy Music",12A,QM4TW2167428
+517,"Lucy","Bryce Fox",46,77,"","","Heaven on Hold",2017-10-20,04:04,59,75,3,0,55,0,10,-4,F,4,2023-01-31,2btlgLWLfWKZ3JlgAECvpZ,"Bryce Fox",7B,QM24S1703734
+518,"Northern Attitude","Noah Kahan",60,121,"","","Northern Attitude",2022-09-16,04:27,52,63,12,0,32,0,10,-8,D#/E♭,4,2023-01-31,5hAFKx1IMhvx73JA6MSkIP,"Mercury Records/Republic Records",5B,USUM72217167
+519,"King And Lionheart","Of Monsters and Men",65,127,"folk pop","Folk, Pop","My Head Is An Animal",2012-01-01,04:33,52,66,11,0,29,0,10,-7,D#/E♭,4,2023-01-31,310d8Vawp5kYDYrGrrTAzl,"Universal Records",5B,USUM71202067
+520,"Call It What You Want","Foster The People",65,113,"","","Torches",2011-05-23,03:58,64,97,5,0,73,0,40,-4,F minor,4,2023-01-31,3u1Er1rkjn1oSz1xdZH3ZD,"Columbia",4A,USSM11101700
+521,"Flashed Junk Mind","Milky Chance",14,118,"","","Sadnecessary",2014-06-20,04:22,84,84,39,3,90,0,10,-9,B,4,2023-01-31,5mpLcXEsk3jjzLFGuNKk5I,"Neon",1B,DEL211300732
+522,"Lovesong (The Way) [feat. Bluets]","Charlie Burg,Bluets",0,113,"","","One, Violet",2017-09-18,03:59,56,47,40,0,41,0,10,-8,A,3,2023-01-31,4JkKXuKp2RdbE5M7L4z19Z,"Charlie Burg",11B,TCADG1794090
+523,"girls just wanna have sex","mazie",40,100,"","","girls just wanna have sex",2022-11-18,02:04,59,96,1,0,85,0,20,-4,E,4,2023-01-31,6u9pA8Izk34kgKXd0ukLv3,"Good Boy Records",12B,QZRYT2100051
+524,"Karma","Taylor Swift",64,90,"","","Midnights (3am Edition)",2022-10-22,03:24,64,62,6,0,12,0,40,-7,G#/A♭,4,2023-01-31,5oqDgw5VGBln5dSIOPWyBq,"Taylor Swift",4B,USUG12205717
+525,"Anti-Hero (feat. Bleachers)","Taylor Swift,Bleachers",54,97,"","","Anti-Hero (feat. Bleachers)",2022-11-08,03:48,62,82,1,1,52,0,10,-8,C♯/D♭ minor,4,2023-01-31,0j0gJqxitjhmmkrW56dtQH,"Taylor Swift",12A,USUG12207567
+526,"start of the end","mazie",19,97,"","","the rainbow cassette (bonus)",2022-09-28,00:53,69,33,38,0,48,0,60,-9,C♯/D♭,4,2023-01-31,6dNvMhQ9y5cYc4j1YTzrTk,"Good Boy Records",3B,QZRYT2100008
+527,"Something That I Want","Grace Potter",66,169,"","","Tangled",2010-01-01,02:43,55,82,1,0,96,0,40,-6,F,4,2023-01-31,3eR3lWuvQqOzhTn91nbRCa,"Walt Disney Records",7B,USWD11055017
+528,"Video Games","The Young Professionals",45,142,"","","9AM To 5PM - 5PM To Whenever",2012-01-01,03:46,56,89,4,0,33,0,0,-5,E minor,4,2023-01-31,2PkUVjGspZ5goc98NuGv3v,"Universal Music Division Label Panthéon",9A,FRUM71200106
+529,"Until I Found You","Stephen Sanchez",81,101,"","","Until I Found You",2021-09-01,02:57,54,51,73,0,23,0,10,-6,A#/B♭,3,2023-01-31,0T5iIrXA4p5GsubkhuBIKV,"Republic Records",6B,USUG12103651
+530,"Flowers in Your Hair","The Lumineers",4,127,"folk pop, indie folk","Folk, Pop, Rock","The Lumineers",2012-04-03,01:49,67,61,75,0,57,0,20,-10,G,4,2023-01-31,3Hvg5tRKsQlX25wYwgMF9p,"Dualtone Music Group",9B,USDMG1260801
+531,"Nights","Neon Trees",48,170,"","","I Can Feel You Forgetting Me",2020-07-24,03:35,50,86,1,0,60,0,20,-4,C minor,4,2023-01-31,2HtSqfsa6fCxCFBGKBWILM,"Thrill Forever, LLC",5A,ZZOPM2002424
+532,"Would've, Could've, Should've","Taylor Swift",69,158,"","","Midnights (3am Edition)",2022-10-22,04:20,49,85,39,0,55,10,10,-7,C,4,2023-01-31,0aV5uARAknQgYhBaK944FP,"Taylor Swift",8B,USUG12207556
+533,"Somewhere Only We Know","Keane",79,172,"","","Hopes And Fears",2004-01-01,03:56,45,66,8,0,37,0,0,-4,A,4,2023-01-31,0ll8uFnc0nANY35E0Lfxvg,"Universal-Island Records Ltd.",11B,GBAAN0300664
+534,"Baby Queen","Gorillaz",50,75,"","","Baby Queen",2022-11-04,03:40,53,86,0,38,46,0,0,-5,C,4,2023-01-31,0dFwiyWPwC2yML3ZH7B56V,"Parlophone UK",8B,GBAYE2200463
+535,"Midnight Rain","Taylor Swift",62,138,"","","Midnights (3am Edition)",2022-10-22,02:54,60,38,71,0,20,0,10,-12,C,4,2023-01-31,6Nl7KyvjkFncGsjB49SxLl,"Taylor Swift",8B,USUG12205712
+536,"Up Up & Away","Kid Cudi",64,120,"","","Man On The Moon: The End Of Day (Deluxe)",2009-01-01,03:47,66,88,7,0,59,0,30,-6,A#/B♭ minor,4,2023-01-31,1RUTIdTnFs8lHSc0Zr4UJB,"Kid Cudi/Universal Records",3A,USUM70981911
+537,"The Great War","Taylor Swift",70,96,"","","Midnights (3am Edition)",2022-10-22,04:00,57,75,20,0,57,0,0,-9,F,4,2023-01-31,3UMrglJeju5yWyYIW6o99b,"Taylor Swift",7B,USUG12207551
+538,"I Just Think That You're Cute","Scarlet Drive",37,112,"","","I Just Think That You're Cute",2019-06-07,03:45,70,73,1,0,96,0,0,-5,E,4,2023-01-31,05Fcc70bVBuFHlNLfdu7c3,"Scarlet Drive",12B,AUXXV1900002
+539,"Hayloft II","Mother Mother",77,178,"","","Inside (Deluxe)",2022-01-28,03:35,33,87,0,0,17,10,0,-5,A minor,4,2023-01-31,0kYMwaQWABTkFff8AZjmYI,"WM Canada",8A,CAW112100716
+540,"Where Are You Now? (feat. girlhouse)","The Wrecks,girlhouse",44,81,"indie pop","Pop, Rock","Sonder",2022-06-10,03:45,59,49,8,0,29,0,30,-7,D,4,2023-01-31,6yqCz1a30TyBBkLQrAcs7L,"Big Noise Music Group",10B,USA2P2214893
+541,"Raging Fire","Phillip Phillips",56,126,"folk pop","Folk, Pop","Behind The Light (Deluxe)",2014-01-01,03:54,56,83,1,0,45,0,0,-5,G,4,2023-01-31,3Q2tKt6gKdn9LUMcHFxNJy,"19 Recordings/Interscope",9B,QMTM61400111
+542,"You're On Your Own, Kid","Taylor Swift",64,120,"","","Midnights (3am Edition)",2022-10-22,03:14,70,39,45,0,40,0,10,-10,D,4,2023-01-31,7gVWKBcfIW93YxNBi3ApIE,"Taylor Swift",10B,USUG12205711
+543,"Bejeweled","Taylor Swift",63,164,"","","Midnights (3am Edition)",2022-10-22,03:14,69,55,6,0,44,0,0,-9,G,4,2023-01-31,0jvo9CjnbR0lYUDTSNTMiu,"Taylor Swift",9B,USUG12205715
+544,"Bigger Than The Whole Sky","Taylor Swift",67,166,"","","Midnights (3am Edition)",2022-10-22,03:38,42,22,84,0,7,0,10,-13,F#/G♭,4,2023-01-31,0BiqmkasE5FdrChwKfVp8X,"Taylor Swift",2B,USUG12207552
+545,"Snow On The Beach (feat. Lana Del Rey)","Taylor Swift,Lana Del Rey",60,110,"","","Midnights (3am Edition)",2022-10-22,04:16,66,32,70,0,15,0,10,-14,A,4,2023-01-31,6ADDIJxxqzM9LMpm78yzQG,"Taylor Swift",11B,USUG12205737
+546,"I Ain’t Quite Where I Think I Am","Arctic Monkeys",56,193,"indie, garage rock","Rock, Pop","The Car",2022-10-21,03:11,54,34,36,0,67,0,0,-10,A#/B♭,4,2023-01-31,1UwUhKmFxGKs59xiWO60Sx,"Domino Recording Co",6B,GBCEL2200513
+547,"Peace Of Mind","Imagine Dragons",50,74,"","","Mercury - Acts 1 & 2",2022-07-01,02:53,61,63,1,0,61,0,0,-5,C,4,2023-01-31,3bwvtkLyVe7YWrKRlViloR,"Kid Ina Korner / Interscope",8B,USUM72205473
+548,"Boys","Hippo Campus",52,105,"","","LP3",2022-02-04,04:13,52,77,3,0,55,0,0,-5,D,4,2023-01-31,4nAmlRetwMEZr2TsXuHcpD,"Grand Jury Music",10B,QM5BK1900478
+549,"SOS","ABBA",68,124,"","","ABBA Gold",2008-01-01,03:21,39,72,6,0,50,0,20,-5,F,4,2023-01-31,5pMmWfuL0FTGshYt7HVJ8P,"Polar Music International AB",7B,SEAYD7501040
+550,"Anti-Hero","Taylor Swift",84,97,"","","Midnights",2022-10-21,03:20,63,65,12,0,49,0,10,-7,E,4,2023-01-31,0V3wPSX9ygBnCm8psDIegu,"Taylor Swift",12B,USUG12205736
+551,"wide eyed","JAWNY",34,127,"bedroom pop","Pop","wide eyed",2022-10-14,03:34,68,73,6,0,93,0,0,-4,A,4,2023-01-31,4QzG0ODSGoXXvhErFRzUhF,"Johnny Utah LLC, under exclusive license to Interscope Records",11B,USUG12206885
+552,"Stuck Between","Dutch Criminal Record",0,105,"","","Stuck Between",2016-11-11,02:44,52,88,0,0,55,0,10,-6,E minor,4,2023-01-31,45qkFWPAEU4DcWT3697FrP,"Dutch Criminal Record",9A,GBKPL1673627
+553,"I Hear a Symphony","Cody Fry",0,172,"","","Flying",2017-10-06,03:05,21,24,93,3,39,0,10,-8,A#/B♭,4,2023-01-31,3iJya7m7trpGv570Ske30n,"Cody Fry",6B,TCADG1749527
+554,"Dream A Little Dream Of Me - Single Version","Ella Fitzgerald,Louis Armstrong",67,76,"vocal jazz, jazz, swing music, jazz blues, big band, christmas","Jazz, Pop, Blues","Love, Ella",2007-05-03,03:05,44,10,91,0,39,10,10,-17,C,4,2023-01-31,78MI7mu1LV1k4IA2HzKmHe,"Verve Reissues",8B,USMC15076750
+555,"Green Light","Lorde",80,129,"","","Melodrama",2017-06-16,03:54,59,72,2,0,25,10,0,-8,D,4,2023-01-31,6ie2Bw3xLj2JcGowOlcMhb,"Universal Music New Zealand Limited",10B,NZUM71700063
+556,"Apocalypse","Cigarettes After Sex",60,94,"dream pop","Pop, Rock","Cigarettes After Sex",2017-06-09,04:50,37,47,2,57,18,0,10,-9,F,4,2023-01-31,0yc6Gst2xkRu0eMLeRMGCX,"Partisan Records",7B,USBQU1700034
+557,"End of Beginning","Djo",0,160,"psychedelic pop","Pop, Rock","DECIDE",2022-09-16,02:39,69,45,3,0,92,0,0,-8,D,4,2023-01-31,6ZWIIawlXC4O3z9yEuJvDo,"Djo",10B,GBKPL2205058
+558,"Mary On A Cross","Ghost",15,130,"metal, hard rock","Rock, Metal","Seven Inches Of Satanic Panic",2019-09-13,04:04,47,90,0,0,56,0,10,-4,B,4,2023-01-31,2HZLXBOnaSRhXStMLrq9fD,"Loma Vista Recordings",1B,USC4R1902750
+559,"Come Over (Again)","Crawlers",60,93,"","","Crawlers - EP",2021-10-29,04:14,50,71,0,0,24,0,0,-8,D,4,2023-01-31,4PDJDIdWxNN1AlnbrKkoPf,"Lab Records",10B,GB8MX2100935
+560,"No. 1 Party Anthem","Arctic Monkeys",90,115,"indie, garage rock","Rock, Pop","AM",2013-09-09,04:03,51,70,33,9,60,0,10,-6,C,4,2023-01-31,5TTGoX70AFrTvuEtqHK37S,"Domino Recording Co",8B,GBCEL1300367
+561,"Them Changes","Thundercat",73,82,"","","Drunk",2017-02-24,03:08,66,56,54,0,70,0,10,-9,G#/A♭,4,2023-01-31,7CH99b2i1TXS5P8UUyWtnM,"Brainfeeder",4B,US25X1090547
+562,"Evergreen (You Didn’t Deserve Me At All)","Omar Apollo",77,82,"bedroom pop","Pop","Ivory",2022-04-08,03:36,70,34,60,1,31,0,10,-10,A,3,2023-01-31,2TktkzfozZifbQhXjT6I33,"Warner Records",11B,USWB12200423
+563,"Sick of U (with Oliver Tree)","BoyWithUke,Oliver Tree",68,93,"","","Sick of U",2022-09-30,02:48,62,81,31,0,65,0,10,-3,C,4,2023-01-31,5IXdkgrT4lb9sKIb8tbOQ3,"Mercury Records/Republic Records",8B,USUG12206829
+564,"menace","mazie",25,169,"","","menace",2022-07-22,02:05,54,88,22,0,53,10,20,-6,F,4,2023-01-31,1MiieWsKWwMrnwPK0NelAW,"Good Boy Records",7B,QZRYT2100041
+565,"people don't change","mazie",34,77,"","","people don't change",2021-12-02,02:47,53,27,93,1,44,0,20,-11,A,4,2023-01-31,4rjxIt48qyNnfrx9jc2q6r,"Good Boy Records",11B,QZRYT2100021
+566,"somebody to lose","mazie",18,149,"","","somebody to lose",2022-06-24,03:07,54,51,57,0,60,0,30,-8,C,4,2023-01-31,4JAEU9F3KQyvGkgdIK6Vjs,"Good Boy Records",8B,QZRYT2100039
+567,"spinnin","mazie",31,85,"","","spinnin",2021-10-15,02:11,61,48,75,0,79,10,20,-8,G#/A♭,4,2023-01-31,0yB9bFHPntWhj0iJoVFkDm,"Good Boy Records",4B,QZRYT2100014
+568,"sippy cup","mazie",37,91,"","","the rainbow cassette",2021-08-25,01:34,83,27,59,0,68,0,10,-9,F#/G♭,4,2023-01-31,4k8ZnYph4fD8bd01ySJjP4,"Good Boy Records",2B,QZ93L2049298
+569,"make believe","mazie",30,130,"","","the rainbow cassette",2021-08-25,02:34,68,40,65,0,44,0,10,-8,G#/A♭,4,2023-01-31,1HCO7caRcYVPzuZQQMR68T,"Good Boy Records",4B,QZRYT2100002
+570,"Do Your Worst","The Happy Fits",0,160,"","","Under The Shade of Green",2022-08-26,03:29,46,86,1,0,63,0,0,-5,G minor,4,2023-01-31,3tiijvWUntFeLrof7qe5nq,"The Happy Fits Records",6A,GBKPL2201998
+571,"Dog Days Are Over","Florence + The Machine",45,150,"baroque pop","Classical, Pop","Lungs",2009-01-01,04:12,50,81,4,1,23,10,10,-5,G,4,2023-01-31,6eN9yBWv9zFVZFXGsPrMxj,"Universal-Island Records Ltd.",9B,GBUM70900209
+572,"cold weather","glass beach",55,155,"","","the first glass beach album",2019-05-18,02:18,34,66,0,0,68,0,10,-4,A#/B♭,4,2023-01-31,50u2y4zgROMZq2db8Qx94B,"Run For Cover Records",6B,QZES91985633
+573,"I Just Wanna Shine","Fitz and The Tantrums",63,93,"","","All the Feels",2019-09-20,03:27,71,92,4,0,55,0,0,-3,F#/G♭ minor,4,2023-01-31,4GZ3YCkuH0VvTluVLwUp4g,"Elektra (NEK)",11A,USAT21902545
+574,"Geronimo","Sheppard",60,142,"","","Bombs Away",2015-03-10,03:38,71,78,45,0,45,0,10,-6,G,4,2023-01-31,19cL3SOKpwnwoKkII7U3Wh,"Decca (UMO)",9B,AUIYA1400002
+575,"Dirty Paws","Of Monsters and Men",73,112,"folk pop","Folk, Pop","My Head Is An Animal",2012-01-01,04:38,36,65,11,1,13,0,0,-7,D#/E♭,4,2023-01-31,5g7rJvWYVrloJZwKiShqlS,"Universal Records",5B,USUM71202066
+576,"Mountain Sound","Of Monsters and Men",68,102,"folk pop","Folk, Pop","My Head Is An Animal",2012-01-01,03:31,38,88,4,0,37,0,10,-4,C♯/D♭ minor,4,2023-01-31,60ZGteAEtPCnGE6zevgUcd,"Universal Records",12A,USUM71202068
+577,"Come On Get Higher","Matt Nathanson",67,92,"","","Some Mad Hope",2007-01-01,03:35,67,62,24,0,62,0,0,-6,A,4,2023-01-31,38YgZVHPWOWsKrsCXz6JyP,"Vanguard Records",11B,USVG20701509
+578,"Love Of Mine - Night Visions Demo","Imagine Dragons",47,75,"","","Love Of Mine (Night Visions Demo)",2022-09-02,04:09,45,83,0,3,21,0,0,-7,C,4,2023-01-31,4C20SN2nzLbsZbS6A4idoA,"Kid Ina Korner / Interscope",8B,USUM72210629
+579,"Blunders","The Polar Boys",49,80,"","","Blunders",2022-06-01,03:24,47,63,26,0,20,0,40,-6,C♯/D♭,4,2023-01-31,5RkSdYc8PRqXd91Rf6uFLk,"POBO",3B,CA5KR2242185
+580,"Love Me (When You're Gone)","WHALES•TALK",52,90,"","","Love Me (When You're Gone)",2022-06-24,02:37,61,71,2,0,67,0,20,-3,F minor,4,2023-01-31,461uGnpHqAbSRC0SuNruAf,"WHALES TALK",4A,QZHZ62283789
+581,"Tightrope","bennytheghost",0,141,"","","29 Palms (Deluxe)",2022-08-18,02:20,68,68,0,0,69,0,30,-5,D,4,2023-01-31,7wH3teRf9E8ZuvV63xe4Uy,"BTG Recordings",10B,GBKPL2291551
+582,"Viva Las Vengeance","Panic! At The Disco",54,154,"emo","Rock","Viva Las Vengeance",2022-08-19,03:27,21,83,0,3,39,0,10,-5,A minor,4,2023-01-31,5TshTIGten6gMBMf8lgbf0,"Fueled By Ramen",8A,USAT22200847
+583,"For the First Time","Mac DeMarco",85,76,"indie","Pop, Rock","This Old Dog",2017-05-05,03:02,55,53,30,1,52,0,10,-10,F minor,4,2023-01-31,2R4AlwtrrkMaRKojcTIzmL,"Captured Tracks",4A,QMMZN1701301
+584,"Yellow","Coldplay",93,173,"","","Parachutes",2000-07-10,04:26,43,66,0,0,28,0,20,-7,B,4,2023-01-31,3AJwUDP919kvQ9QcozQPxg,"Parlophone UK",1B,GBAYE0000267
+585,"Sparks","Coldplay",89,103,"","","Parachutes",2000-07-10,03:47,37,27,75,5,17,0,10,-11,C♯/D♭,3,2023-01-31,7D0RhFcb3CrfPuTJ0obrod,"Parlophone UK",3B,GBAYE0000569
+586,"Harmony Hall","Vampire Weekend",63,98,"indie, baroque pop","Classical, Pop, Rock","Father of the Bride",2019-05-03,05:08,65,76,48,0,60,0,0,-6,B,4,2023-01-31,39exKIvycQDgs4T6uXdyu0,"Columbia",1B,USSM11900111
+587,"strawberry chainsaw","JAWNY",47,100,"bedroom pop","Pop","strawberry chainsaw",2022-08-01,02:36,62,88,23,0,63,0,40,-4,F,4,2023-01-31,1hf0PdHw0lnVxq5lfzwjSl,"Johnny Utah LLC, under exclusive license to Interscope Records",7B,USUG12205511
+588,"Drips on a Wire","Peach Pit",41,118,"","","From 2 to 3",2022-03-04,03:09,43,69,11,0,25,0,20,-6,A#/B♭,4,2023-01-31,2yqfvgPuKuPbCm2y1rJr0X,"Columbia",6B,USSM12102954
+589,"2015","Peach Pit",46,76,"","","From 2 to 3",2022-03-04,03:01,48,54,12,0,33,0,20,-7,D,4,2023-01-31,42oBtzPU4fA5Vtfw2Xilgf,"Columbia",10B,USSM12102956
+590,"Give Up Baby Go","Peach Pit",63,97,"","","From 2 to 3",2022-03-04,04:17,68,70,17,0,59,0,0,-7,A,4,2023-01-31,6DIMM15oo3kxnCuVypaYGy,"Columbia",11B,USSM12102953
+591,"I'm Yours","Jason Mraz",80,151,"soft pop, acoustic pop","Folk, Pop","We Sing. We Dance. We Steal Things.",2008-05-12,04:02,70,44,56,0,71,0,10,-9,B,4,2023-01-31,1EzrEOXmMH3G43AXT1y7pA,"Atlantic Records/ATG",1B,USEE10800667
+592,"Suicide Saturday","Hippo Campus",41,156,"","","Bashful Creatures",2015-02-24,03:32,44,72,2,0,56,0,20,-6,F,4,2023-01-31,0scQIzgcOhnmfqfOTpRUFH,"Grand Jury Music",7B,TCACB1435807
+593,"Cold Cold Cold","Cage The Elephant",70,136,"modern rock","Rock","Tell Me I'm Pretty",2015-12-18,03:34,55,79,2,0,72,0,0,-6,F,4,2023-01-31,1Q3t9fWvHUXKsMmpD2XpUu,"RCA Records Label",7B,USRC11502825
+594,"golden hour","JVKE",78,94,"","","this is what falling in love feels like (554Hz)",2022-10-03,03:29,52,59,65,16,15,0,20,-5,E,3,2023-01-31,4yNk9iz9WVJikRFle3XEvn,"JVKE",12B,GBKPL2204171
+595,"Video Games","Lana Del Rey",68,73,"","","Born To Die - The Paradise Edition",2012-11-12,04:41,24,25,81,0,18,0,0,-10,F#/G♭ minor,5,2023-01-31,24jvD83UgLmrdGjhWTFslY,"Polydor Records",11A,GBUM71111621
+596,"Hall & Oates","Wild Party",0,90,"","","Hall & Oates",2022-05-27,03:19,54,90,1,0,62,0,30,-5,G,4,2023-01-31,4mIItXErGDhOKtPcP0VXK8,"Foothill Arcade Records",9B,TCAGE2289516
+597,"What You Know","Two Door Cinema Club",18,139,"indie","Pop, Rock","Tourist History",2010-02-17,03:11,56,74,0,0,78,0,0,-4,F#/G♭ minor,4,2023-01-31,3GBApU0NuzH4hKZq4NOSdA,"Glassnote Entertainment Group LLC",11A,FRU700900116
+598,"I Wonder","Kanye West",85,191,"rap","Hip Hop","Graduation",2007-09-11,04:03,54,47,14,0,13,0,10,-9,C,4,2023-01-31,7rbECVPkY5UODxoOUVKZnA,"Roc-A-Fella",8B,USUM70749085
+599,"Here With Me","d4vd",11,132,"","","Here With Me",2022-09-22,04:02,57,47,53,0,29,0,10,-8,E,4,2023-01-31,78Sw5GDo6AlGwTwanjXbGh,"Darkroom/Interscope Records",12B,QZMEM2209263
+600,"Grade A (feat. JAWNY)","spill tab,JAWNY",49,152,"bedroom pop","Pop","Grade A (feat. JAWNY)",2021-09-29,01:46,72,67,9,1,74,10,10,-9,A,4,2023-01-31,6ek40cFUiRjxA2KrOHNfi3,"Arista Records",11B,USAR12100095
+601,"Georgia","Thomas Headon",10,134,"","","Georgia (but you're sad and it's acoustic)",2023-02-10,02:56,69,81,2,0,91,0,0,-4,G,4,2023-02-15,0Zi99M2ctruzr9XrkGK3rp,"Warner Records",9B,GBAHT2202760
+602,"26 and 24","Paige Fish,Landon Boyce",0,99,"","","26 and 24",2023-02-14,04:04,39,10,90,0,23,0,30,-19,A,4,2023-02-15,3H4XpNN0NRi12euYWsJf44,"Paige Fish & Landon Boyce",11B,TCAGT2397798
+603,"Call Me What You Like","Lovejoy",57,152,"","","Call Me What You Like",2023-02-10,03:46,53,89,1,1,35,10,0,-6,C minor,4,2023-02-15,21rYCEejlfM0LYRlfzxGeM,"Anvil Cat Records",5A,QM4TW2344028
+604,"Spitting Off the Edge of the World","Yeah Yeah Yeahs,Perfume Genius",71,110,"indie rock, art pop, chamber pop","Pop, Rock","Cool It Down",2022-09-30,04:17,41,72,0,0,8,0,0,-6,D,4,2023-02-15,0JX23XA8E7aN1Chj32kgVn,"Secretly Canadian",10B,US38W2247001
+605,"fall in love","JAWNY",31,135,"bedroom pop","Pop","fall in love",2023-02-10,03:49,48,47,33,0,15,0,10,-8,C,4,2023-02-15,3AKkLwxzhWbWjIJ9PblETv,"Johnny Utah LLC, under exclusive license to Interscope Records",8B,USUG12207038
+606,"New Religion","The Heydaze",51,97,"","","New Religion",2017-04-14,03:23,54,86,0,0,48,0,20,-4,G,4,2023-02-15,4DZghpw50ZnO3ckfDuNkft,"Island Records",9B,USUM71703397
+607,"Wonderful Life - Edit","Two Door Cinema Club",14,160,"indie","Pop, Rock","Wonderful Life (Live & Smiling From Finsbury Park)",2023-06-29,03:05,57,87,1,0,75,0,10,-2,F,4,2023-07-11,3slLawSEdDNOR3WuvF9oyE,"Glassnote Entertainment Group LLC",7B,GBPVV2204504
+608,"Don't Fade Away","Beach Fossils",40,128,"dream pop, surf rock, shoegaze","Pop, Rock","Don't Fade Away",2023-03-07,03:22,64,87,0,34,96,0,10,-8,D minor,4,2023-07-11,21lFRFkdf5sgITNZCDMeDq,"Bayonet Records",7A,QM6YT2305503
+609,"The Key to Life on Earth","Declan McKenna",43,128,"","","Zeros",2020-09-04,04:06,52,94,0,0,59,0,10,-2,D#/E♭,4,2023-07-11,44MdVsu3tkWzj0uKyroH23,"Tomplicated Records",5B,GBARL1901432
+610,"Fire and the Flood","Vance Joy",6,115,"folk pop","Folk, Pop","Dream Your Life Away (Special Edition)",2014-09-08,04:09,60,83,2,0,33,0,10,-4,F,4,2023-07-11,6liNJDyWJjyHAgDnAX95bw,"Atlantic Records",7B,USAT21502316
+611,"Snap Out Of It","Arctic Monkeys",81,130,"indie, garage rock","Rock, Pop","AM",2013-09-09,03:13,73,64,25,0,87,0,10,-6,F minor,4,2023-07-11,0NdTUS4UiNYCNn5FgVqKQY,"Domino Recording Co",4A,GBCEL1300371
+612,"Hell N Back","Bakar",76,210,"","","Hell N Back (Sped Up)",2019-08-14,03:33,63,68,31,0,73,50,10,-4,A#/B♭ minor,4,2023-07-11,0rVJ6v23RQozOIvr1YotJP,"Black Butter",3A,GBARL1900848
+613,"What's Been On Your Mind?","Surfaces",0,117,"","","What's Been On Your Mind?",2022-06-10,02:52,74,67,2,0,77,0,10,-5,C♯/D♭,4,2023-07-11,3lpshfvmjrxGm9xr3x47F2,"Surfaces Music / 10K Projects",3B,QZJ842001744
+614,"Little One","The Happy Fits",47,134,"","","Under The Shade of Green",2022-08-26,03:29,47,62,4,0,60,0,10,-4,A,4,2023-07-11,5ctXRM2qn2f8abTzVAWA9U,"The Happy Fits Records",11B,GBKPL2202001
+615,"Pineapple Sunrise","Beach Weather",48,120,"","","Pineapple Sunrise",2023-03-03,02:56,69,79,6,0,92,0,20,-6,E minor,4,2023-07-11,5L5n7lyXiTR2soMhCQel6n,"8123 / Arista Records",9A,USAR12200524
+616,"Walcott","Vampire Weekend",48,161,"indie, baroque pop","Classical, Pop, Rock","Vampire Weekend",2008-01-29,03:41,40,56,51,2,59,0,20,-5,F,4,2023-07-11,0BZY839qKXibapu4S0GYE2,"XL Recordings",7B,GBBKS0700534
+617,"Next Exit","Vacations",54,80,"","","Next Exit",2023-04-14,03:21,46,78,0,82,79,0,60,-7,D,4,2023-07-11,0xkSfBYxRMTLgrinRJlzfz,"Nettwerk Music Group",10B,CAN112300449
+618,"Bruises","Chairlift",1,185,"","","Does You Inspire You",2008-00-00,04:01,58,55,2,2,84,0,10,-7,C,4,2023-07-11,4mdyVTV7Tr5YDFnD2kvSM4,"Kanine",8B,US28E0834204
+619,"Congratulations (feat. Bilal)","Mac Miller,Bilal",79,58,"neo soul","R&B","The Divine Feminine",2016-09-16,04:16,47,23,95,0,21,0,10,-13,E minor,4,2023-07-11,1OubIZ0ARYCUq5kceYUQiO,"Warner Records",9A,USWB11601434
+620,"Homecoming","Kanye West,Chris Martin",83,87,"rap, ","Hip Hop","Graduation",2007-09-11,03:23,67,75,34,0,92,10,10,-7,C♯/D♭,4,2023-07-11,4iz9lGMjU1lXS51oPmUmTe,"Roc-A-Fella",3B,USUM70749093
+621,"Blue Spirits","DWLLRS",49,130,"","","Blue Spirits",2022-05-24,03:08,65,64,66,0,36,0,20,-6,A,4,2023-07-11,4Z3Mmn6cIeuKprHQyyAbXQ,"DWLLRS Prior Recordings",11B,QM24S2201959
+622,"Sinking Ship","The Backseat Lovers",58,100,"","","When We Were Friends",2019-01-27,05:07,39,41,3,0,10,0,10,-12,B,4,2023-07-11,4ydzIb3mPmiSm30PIMIrq8,"The Backseat Lovers",1B,USL4Q1825577
+623,"The Moment","Tame Impala",70,119,"indie, psychedelic pop","Pop, Rock","Currents",2015-07-17,04:15,55,83,0,10,45,0,0,-6,G,4,2023-07-11,1UYj8qTWjneZJDVjUMwMub,"Universal Music Australia Pty. Ltd.",9B,AUUM71500304
+624,"Sleep Alone","Two Door Cinema Club",1,148,"indie","Pop, Rock","Beacon",2012-08-31,03:56,53,75,0,0,53,0,0,-5,C,4,2023-07-11,5nZTvs242o6FWluCfmZZAM,"Glassnote Entertainment Group LLC",8B,FRU701200089
+625,"Something Good Can Work","Two Door Cinema Club",4,120,"indie","Pop, Rock","Tourist History",2010-02-17,02:44,65,83,1,0,64,0,10,-5,C,4,2023-07-11,59kNaCxnyX7Ezt1m6KxGLY,"Glassnote Entertainment Group LLC",8B,FRU700900101
+626,"Blue Hair","TV Girl",85,136,"","","Death of a Party Girl",2018-05-08,03:37,75,72,55,5,88,0,20,-6,E,4,2023-07-11,39sDitIeCMrVX2QyXHY46t,"TV Girl",12B,USDY41861506
+627,"Christmas Kids","Roar",6,152,"","","I Can't Handle Change",2010-03-14,02:15,43,75,1,11,56,0,40,-6,D,4,2023-07-11,40gk32E7YaTFoQwDIWv2SY,"Felt Forest Records",10B,USHM81020599
+628,"Blue","The Happy Return",17,103,"surf rock","Rock","Blue",2020-04-20,02:50,66,71,76,0,74,0,10,-7,F minor,4,2023-07-11,0q1JcSU7jhqleiaa18fKw4,"The Happy Return",4A,TCAET2061692
+629,"Spiderhead","Cage The Elephant",60,118,"modern rock","Rock","Melophobia",2013-10-08,03:42,54,95,1,0,55,0,10,-1,D,4,2023-07-11,5r5Lj2MkgwQJz6TaBdL865,"RCA Records Label",10B,USRC11301161
+630,"Lamb's Wool","Foster The People",60,179,"","","Lamb's Wool",2020-05-22,04:36,43,61,11,0,23,0,10,-8,G#/A♭ minor,4,2023-07-11,7egu63DOhNpivWOpGtzqGS,"Foster The People",1A,QZES52088012
+631,"Mess Is Mine","Vance Joy",7,108,"folk pop","Folk, Pop","Dream Your Life Away (Special Edition)",2014-09-08,03:43,60,72,5,3,27,0,10,-8,G,1,2023-07-11,29jtZGdgpE2lWm2mkIt6HS,"Atlantic Records",9B,USAT21402865
+632,"everything","JAWNY",29,123,"bedroom pop","Pop","It’s Never Fair, Always True",2023-03-03,03:08,53,70,45,0,52,10,10,-6,E,4,2023-07-11,0EK8RZQ4ZjKo9UbxpRVvKO,"Johnny Utah LLC, under exclusive license to Interscope Records",12B,USUG12207037
+633,"Heart It Races - Cover Version","Dr. Dog",60,99,"","","Heart It Races (Cover Version)",2007-06-05,03:51,65,69,46,13,78,0,40,-7,A#/B♭,4,2023-07-11,0SyOHG2V9CgMSlebbnyoLJ,"We Buy Gold Records",6B,QMFME1528618
+634,"fall in love","JAWNY",33,135,"bedroom pop","Pop","It’s Never Fair, Always True",2023-03-03,03:49,48,47,33,0,15,0,10,-8,C,4,2023-07-11,1NeUyvm1DQDVK5lbGtYE9x,"Johnny Utah LLC, under exclusive license to Interscope Records",8B,USUG12207038
+635,"Nellie","Dr. Dog",63,130,"","","B-Room (Deluxe Edition)",2013-10-01,03:37,51,53,33,0,59,0,0,-10,E,4,2023-07-11,1aRvUHgMe9ichgcHAAs12f,"Anti/Epitaph",12B,USEP41318012
+636,"Lemonade","The Happy Return",18,140,"surf rock","Rock","Moving On",2018-09-13,03:28,51,75,3,0,29,0,20,-6,B,4,2023-07-11,4NntR4wm7QBB8jtjNZPstP,"The Happy Return",1B,TCADW1817655
+637,"DOGTOOTH","Tyler, The Creator",12,78,"","","DOGTOOTH",2023-03-27,02:41,71,65,51,0,80,30,20,-6,G#/A♭,4,2023-07-11,0judK8TqYfvwUohBngUxrE,"Columbia",4B,USQX92301932
+638,"End of Beginning","Djo",91,160,"psychedelic pop","Pop, Rock","DECIDE",2022-09-16,02:39,69,45,4,0,91,0,0,-8,D,4,2023-07-11,3qhlB30KknSejmIvZZLjOD,"Djo",10B,GBKPL2205058
+639,"Then It All Goes Away","Dayglow",54,140,"indie rock","Rock","People In Motion",2022-10-07,03:03,68,82,2,0,96,0,0,-3,D,4,2023-07-11,7MzjD4Ayl07w0TRsYSqfCh,"Very Nice Records",10B,GBKPL2201994
+640,"Lots of Nothing (feat. BENEE)","Spacey Jane,BENEE",50,140,"surf rock, ","Rock","Lots of Nothing (feat. BENEE)",2023-01-10,03:13,55,87,0,0,70,0,10,-5,A,4,2023-07-11,7uTqmYA0sSjmDVpQNGDz7j,"Spacey Jane",11B,QMFME2294775
+641,"giving up on you","JAWNY",37,147,"bedroom pop","Pop","It’s Never Fair, Always True",2023-03-03,03:03,57,81,0,0,78,10,10,-6,F#/G♭,4,2023-07-11,4qhWRBKsBMyjms4UmBy4U6,"Johnny Utah LLC, under exclusive license to Interscope Records",2B,USUG12207035
+642,"Stolen Dance","Milky Chance",6,114,"","","Sadnecessary",2014-06-20,05:13,89,58,43,0,73,0,0,-9,B,4,2023-07-11,6vECYJHxYmm3Ydt3fF01pE,"Neon",1B,DEL211300741
+643,"Sleepyhead","HARBOUR",39,108,"","","To Chase My Dreams, or to Just Lie Down?",2023-02-24,04:05,40,84,0,0,83,0,20,-5,F#/G♭,4,2023-07-11,0VacdTKLMNLqCbhAHe2SRT,"HARBOUR",2B,QZTPX2206203
+644,"STAR-CROSSED","Ethan Gander",42,116,"","","STAR-CROSSED",2022-09-09,01:29,50,51,59,0,23,0,10,-10,D#/E♭,3,2023-07-11,3FQx9bh5i1dxdJQBLWxvxX,"Ethan Gander Music",5B,QZNWV2292819
+645,"give up!","mazie",0,152,"","","blotter baby",2023-02-24,03:34,61,61,34,0,52,0,0,-8,E,4,2023-07-11,5j3fPWCzY7hrAEzoGHjKsZ,"Good Boy Records",12B,QZRYT2100063
+646,"Abandoned Mansion","Dr. Dog",48,124,"","","Abandoned Mansion",2017-01-31,05:22,48,52,46,1,28,0,0,-8,A,4,2023-07-11,5jx534PdMJacYZ2PZ5unAP,"We Buy Gold Records",11B,TCACW1738376
+647,"On Your Mind","Noah Floersch",0,125,"","","On Your Mind",2019-04-19,02:39,75,65,58,0,68,10,0,-8,G#/A♭,3,2023-07-11,4RPSs5aQymn0A5syaHE7VI,"Noah Floersch",4B,TCAEE1931521
+648,"Annabeth","The Happy Return",21,151,"surf rock","Rock","Lunch Break",2020-12-10,03:39,47,54,21,0,46,0,10,-7,F,4,2023-07-11,5dHNqHMFpywXAj1aROa3hQ,"The Happy Return",7B,TCAFF2069551
+649,"Too Close","Sir Chloe",66,166,"","","Party Favors",2020-10-23,02:50,42,56,17,0,54,0,10,-6,A,4,2023-07-11,7M6KOBCfPzWqbkiaXnm7bd,"Terrible Records",11B,QZFZ21909163
+650,"Kill the Sun","Motherfolk",1,97,"","","Family Ghost",2019-11-01,03:28,50,79,9,0,42,0,20,-6,G,4,2023-07-11,34uXlhi3eN9jpO95CgeV0o,"Antifragile Music",9B,USHM81914548
+651,"Boyfriend","Best Coast",49,115,"surf rock","Rock","Crazy for You",2010-07-27,02:29,26,88,9,15,61,0,10,-4,C,4,2023-07-11,37CA2be4dmNBDdf8tbZhv3,"Best Coast Recordings",8B,USMEX1000101
+652,"All Of The Lights","Kanye West",81,142,"rap","Hip Hop","My Beautiful Dark Twisted Fantasy",2010-11-22,04:59,53,80,8,0,22,0,10,-3,C♯/D♭,4,2023-07-11,22L7bfCiAkJo5xGSQgmiIO,"Roc-A-Fella",3B,USUM71027273
+653,"Money Trees","Kendrick Lamar,Jay Rock",84,72,"hip hop, west coast hip hop, ","Hip Hop","good kid, m.A.A.d city",2012-00-00,06:26,72,53,7,0,34,10,20,-7,G,4,2023-07-11,2HbKqm4o0w5wEeEFXm2sD4,"Aftermath",9B,USUM71210785
+654,"Enchanted (Taylor's Version)","Taylor Swift",80,82,"","","Speak Now (Taylor's Version)",2023-07-07,05:53,52,55,2,0,23,0,10,-4,G#/A♭,4,2023-07-11,3sW3oSbzsfecv9XoUdGs7h,"Taylor Swift",4B,USUG12302081
+655,"Saturday Sun","Vance Joy",72,100,"folk pop","Folk, Pop","Nation of Two",2018-02-23,03:34,64,86,48,0,71,0,20,-4,G#/A♭,4,2023-07-11,2RiBogNRfulkNf7fVbPOrJ,"Atlantic Records",4B,USAT21705384
+656,"Sun","Two Door Cinema Club",3,97,"indie","Pop, Rock","Beacon",2012-08-31,03:07,65,53,1,0,60,0,10,-6,E minor,4,2023-07-11,0fdaCKYxdhL0SAlNM2yZq2,"Glassnote Entertainment Group LLC",9A,FRU701200087
+657,"Judy You Hung the Moon","HARBOUR",1,140,"","","Heatwave",2017-08-04,03:30,65,65,51,0,63,0,0,-8,F#/G♭ minor,4,2023-07-11,10oDDj46J0IMYBPSloeJ4Z,"Harbour",11A,TCADE1723407
+658,"honey","Coastal Club",55,165,"","","honey",2020-04-03,04:10,49,87,1,0,54,10,10,-4,A,4,2023-07-11,4YCVwSOabpy5DeaxRjUok1,"Coastal Club",11B,GBWUL2044714
+659,"Calm Down","Jack Johnson",43,122,"surf rock","Rock","Meet The Moonlight",2022-06-24,03:15,81,61,78,0,94,0,20,-9,G minor,4,2023-07-11,7HaYYyX5y87gj6JvXyOmzM,"Brushfire / Republic Records",6A,USUG12201856
+660,"death is a dj","JAWNY",33,151,"bedroom pop","Pop","It’s Never Fair, Always True",2023-03-03,02:48,40,84,0,0,67,0,10,-5,B minor,4,2023-07-11,0Cu9We0B5hgudMv7lpdf1j,"Johnny Utah LLC, under exclusive license to Interscope Records",10A,USUG12207034
+661,"Horizons","Gus Dapperton",40,135,"bedroom pop","Pop","Horizons",2023-03-03,03:03,57,81,0,0,66,0,10,-5,F minor,4,2023-07-11,3lHh76erVVIK364LN7KBRr,"Warner Records",4A,USWB12300268
+662,"Softcore","The Neighbourhood",88,94,"","","Hard To Imagine The Neighbourhood Ever Changing",2018-11-02,03:26,57,57,5,0,37,0,20,-6,A minor,4,2023-07-11,2K7xn816oNHJZ0aVqdQsha,"Columbia",8A,USSM11800523
+663,"Bahamas","HARBOUR",44,125,"","","To Chase My Dreams, or to Just Lie Down?",2023-02-24,03:47,65,82,0,0,76,0,10,-4,E,4,2023-07-11,3ARbNwBFLk166Ndgytrenm,"HARBOUR",12B,QZHZ52269690
+664,"Sundress","Zoo Culture",0,130,"","","Sundress",2019-09-12,03:36,70,86,23,0,86,0,10,-9,E,4,2023-07-11,3ErP14qBLcrhch0bn6T8BJ,"Zoo Culture",12B,USHM81990855
+665,"Hello","GROUPLOVE",45,95,"indie","Pop, Rock","Hello, All!",2023-03-23,03:23,49,94,0,0,77,0,20,-4,C♯/D♭,4,2023-07-11,3DcJhILpOqM0tNWTKGf6uq,"Glassnote Music LLC",3B,QM4TX2321226
+666,"29","Run River North",51,157,"","","Drinking From a Salt Pond",2016-02-26,03:27,44,90,0,0,28,0,20,-5,G minor,4,2023-07-11,0y30gL6j3y3xDxK3sCOctP,"Nettwerk Music Group",6A,CAN111500409
+667,"Goodbye Yellow Brick Road - Remastered 2014","Elton John",78,121,"","","Goodbye Yellow Brick Road (Remastered)",1973-10-05,03:12,56,47,45,0,40,0,10,-8,F,4,2023-07-11,4IRHwIZHzlHT1FQpRa5RdE,"UMC (Universal Music Catalogue)",7B,GBUM71304956
+668,"Space Song","Beach House",80,147,"dream pop","Pop, Rock","Depression Cherry",2015-08-28,05:20,51,79,23,12,60,0,10,-7,C minor,4,2023-07-11,7H0ya83CMmgFcOhw0UB6ow,"Sub Pop Records",5A,USSUB1512203
+669,"Can I Call You Tonight?","Dayglow",79,130,"indie rock","Rock","Fuzzybrain",2019-11-14,04:38,64,84,13,91,50,0,40,-7,A,4,2023-07-11,61OJxhoY3Ix50rYVKo8zRK,"Very Nice Records",11B,TCADL1825079
+670,"Is It Magic?","PawPaw Rod",53,110,"indie r&b","R&B, Rock","Is It Magic?",2023-04-21,03:08,84,65,2,0,77,0,10,-7,F,4,2023-07-11,4mRX0FjuzicwZWbkRAE0Ht,"GODMODE",7B,QM38F2300010
+671,"Oysters In My Pocket","Royel Otis",78,168,"indie","Pop, Rock","Oysters In My Pocket",2022-03-10,02:42,60,92,2,80,61,0,10,-5,F#/G♭ minor,4,2023-07-11,2B664ulJSVBd6B8SAY3Wux,"House Anxiety / Ourness",11A,GBKPL2284406
+672,"Pool","Still Woozy,Remi Wolf",57,100,"bedroom pop, ","Pop","Pool",2022-03-17,03:43,66,48,39,0,27,0,10,-11,C,4,2023-08-23,1ZP4Qxb7USL3EezbxfpOVF,"Still Woozy Productions Inc., under exclusive license to Interscope Records",8B,USUG12201528
+673,"Show Me How","Men I Trust",7,166,"bedroom pop, indie pop","Pop, Rock","Show Me How",2018-02-28,03:35,79,27,67,53,54,0,10,-12,F,4,2023-09-08,01TyFEZu6mHbffsVfxgrFn,"Indie",7B,TCADM1873570
+674,"bad idea right?","Olivia Rodrigo",5,130,"","","bad idea right?",2023-08-11,03:04,63,88,0,0,81,10,0,-4,A,4,2023-09-08,2i8f4VnnBjy0yDqH2C452a,"Olivia Rodrigo PS",11B,USUG12304094
+675,"Young Folks","Peter Bjorn and John",81,138,"indie","Pop, Rock","Writer's Block",2006-01-01,04:36,70,81,2,0,66,0,10,-6,C,4,2023-09-08,4dyx5SzxPPaD8xQIid5Wjj,"Universal Music AB",8B,SEBPA0600024
+676,"Naive","The Kooks",67,103,"indie, indie rock","Pop, Rock","Inside In / Inside Out",2006-01-01,03:23,55,82,7,0,72,0,10,-6,G#/A♭ minor,4,2023-09-08,2RUhtNBh43RtSg0WBPPq3m,"Virgin Records",1A,GBAAA0500836
+677,"Two Weeks","Grizzly Bear",71,160,"indie, indie rock, baroque pop","Classical, Pop, Rock","Veckatimest",2009-05-24,04:06,53,72,30,1,74,0,0,-6,F,4,2023-09-08,04uR2cdkgiaLIzebPcs25m,"Warp Records",7B,GBBPW0900065
+678,"Shut up My Moms Calling","Hotel Ugly",88,138,"","","Shut up My Moms Calling",2020-02-10,02:44,49,41,33,0,38,10,10,-11,A minor,4,2023-09-08,3hxIUxnT27p5WcmjGUXNwx,"Hotel Ugly, under exclusive license to Amuseio AB",8A,TCAEQ2083509
+679,"Don’t Wanna Love U","Joe P",44,109,"","","Don’t Wanna Love U",2023-08-25,03:29,42,88,8,30,47,0,20,-6,E,4,2023-09-08,09ofD7zRn8MmokbYlhjMWA,"Atlantic Records",12B,USAT22307194
+680,"Favorite Liar","The Wrecks",58,120,"","","We Are The Wrecks",2017-02-10,04:02,64,72,2,0,32,0,10,-3,A,4,2023-09-08,1scwknKtBQpreYy6MSoJqJ,"Another Century",11B,TCACM1698474
+681,"Roll My Stone","Arcy Drive",57,98,"","","Roll My Stone",2022-07-15,02:59,49,86,8,0,37,0,10,-4,C,3,2023-09-08,0DcfDOaYG8VSZW9ztShlms,"Grand Jury Music",8B,QZK6K2245196
+682,"Still a Friend","The Backseat Lovers",62,93,"","","Elevator Days",2018-06-03,03:11,61,26,19,10,13,0,10,-11,D,4,2023-09-08,10goTnuQ31YxbdBBwSx7zt,"The Backseat Lovers",10B,USHM21801366
+683,"Misery","Michigander",49,180,"","","Misery",2019-08-09,03:00,34,73,1,0,39,0,0,-5,C,4,2023-09-08,6Zz846CtUmQGP5z4F7sccA,"C3 Records",8B,TCAEI1934930
+684,"Swim Naked","Betcha",45,172,"","","Falling",2019-09-13,03:31,38,87,0,0,31,0,20,-4,A#/B♭,4,2023-09-08,4SM0NAUmbllfuu7YeajE4h,"Atlantic Records",6B,USAT21904109
+685,"wait a minute","Arlie",30,140,"","","BREAK THE CURSE",2022-06-03,03:23,36,87,1,0,58,0,70,-4,E,4,2023-09-08,3bdQi8LTCadIizVV6nMQjY,"Atlantic Records",12B,USAT22104869
+686,"Let Down","Michigander",42,129,"","","Let Down",2020-09-10,02:56,47,91,6,0,18,0,0,-3,A#/B♭,4,2023-09-08,6zvpLxTrTKDzdeQ9OLshpQ,"C3 Records",6B,TCAFA2087910
+687,"Chaparral","The Moss",48,152,"","","Insomnia EP",2023-01-20,02:46,43,66,4,0,55,0,30,-6,E minor,4,2023-09-08,4dOgsyS7EqbkK69S08Ns8Q,"S-Curve Records",9A,USHR12245126
+688,"Waiting on the Weekend","HARBOUR",0,160,"","","Waiting on the Weekend",2018-07-18,03:14,42,72,1,0,50,0,0,-6,D,4,2023-09-08,4fCsURTivu9zQsd9FeJvqJ,"Harbour",10B,TCADS1887304
+689,"Leaves","Joe P",44,133,"","","Emily Can't Sing",2021-10-22,04:03,44,88,0,0,39,0,10,-7,F#/G♭,4,2023-09-08,4wwSEDQrxce8s9zK8rMTSy,"Neon Gold/Atlantic",2B,QMGR32103683
+690,"The Other Way","Michigander",34,102,"","","It Will Never Be The Same",2023-03-31,03:10,55,79,0,0,53,0,20,-4,A,4,2023-09-08,4uYBMuSp7kUN8TLrOW0KoJ,"C3 Records",11B,TCAGJ2282810
+691,"get him back!","Olivia Rodrigo",79,162,"","","GUTS",2023-09-08,03:31,55,85,1,0,73,10,50,-6,F,4,2023-09-08,2gyxAWHebV7xPYVxqoi86f,"Olivia Rodrigo PS",7B,USUG12304099
+692,"Cleopatra","The Lumineers",6,151,"folk pop, indie folk","Folk, Pop, Rock","Cleopatra",2016-04-08,03:21,54,78,23,0,49,0,0,-7,G#/A♭,4,2023-09-08,2ToW7zhGCrVrLU4fiKj9U1,"Dualtone Music Group",4B,USDMG1673803
+693,"love is embarrassing","Olivia Rodrigo",77,160,"","","GUTS",2023-09-08,02:34,52,82,0,0,62,10,10,-4,A,4,2023-09-08,26QLJMK8G0M06sk7h7Fkse,"Olivia Rodrigo PS",11B,USUG12305000
+694,"Lady May","Tyler Childers",78,81,"country, red dirt, alt country, texas country, bluegrass","Country, Rock, Folk","Purgatory",2017-08-04,03:03,54,16,88,0,32,0,10,-13,D#/E♭,4,2023-09-08,3t5OV1asJHmOlf23T08CLv,"Hickman Holler Records",5B,QZ84K1700010
+695,"Yes I'm Changing","Tame Impala",74,180,"indie, psychedelic pop","Pop, Rock","Currents",2015-07-17,04:30,37,61,11,0,35,0,0,-7,C,4,2023-09-08,0xtIp0lgccN85GfGOekS5L,"Universal Music Australia Pty. Ltd.",8B,AUUM71500295
+696,"Birmingham","Zach Bryan",65,75,"country, red dirt","Country","Quiet, Heavy Dreams",2020-11-27,03:26,59,48,62,0,47,0,10,-5,G,4,2023-09-08,7DyMTd5uNSi6ioB6z5BGtG,"Warner Records",9B,USWB12004712
+697,"Solid Ground","Vance Joy",44,112,"folk pop","Folk, Pop","In Our Own Sweet Time",2022-06-10,03:33,58,70,23,6,41,0,10,-6,F minor,4,2023-09-08,0AY3iY8Nn20yDljtcAke4y,"Atlantic Records",4A,USAT22201797
+698,"Poplar St","Glass Animals",62,69,"","","How To Be A Human Being",2016-08-26,04:22,57,45,25,1,26,0,10,-8,E minor,4,2023-09-08,3ApAsbQP7d5GlFwwdExaTY,"Wolf Tone",9A,GB2DY1600024
+699,"Youth","Glass Animals",73,96,"","","How To Be A Human Being",2016-08-26,03:50,65,72,13,0,79,0,10,-8,A minor,4,2023-09-08,1LPGwuFgIzbJoShfDdw7MY,"Wolf Tone",8A,GB2DY1600029
+700,"Diet Mountain Dew","Lana Del Rey",52,176,"","","Born To Die",2012-01-30,03:42,46,68,28,0,59,0,40,-6,A#/B♭ minor,4,2023-09-08,20Dr6PsU4KweNgqDw7Vo0I,"Polydor Records",3A,GBUM71111528
+701,"All Your'n","Tyler Childers",82,78,"country, red dirt, alt country, texas country, bluegrass","Country, Rock, Folk","Country Squire",2019-08-02,03:38,59,55,41,0,84,0,10,-7,B,4,2023-09-08,0fCwTrRNfoNk962ati8n2K,"Hickman Holler Records/RCA Records",1B,USRC11901124
+702,"Northern Attitude","Noah Kahan",81,121,"","","Stick Season",2022-10-14,04:27,52,63,12,0,32,0,10,-8,D#/E♭,4,2023-09-08,4O2rRsoSPb5aN7N3tG6Y3v,"Mercury Records/Republic Records",5B,USUM72217167
+703,"vampire","Olivia Rodrigo",9,137,"","","vampire",2023-06-30,03:39,48,53,15,0,32,0,20,-6,F,4,2023-09-08,3k79jB4aGmMDUQzEwa46Rz,"Olivia Rodrigo PS",7B,USUG12304091
+704,"Revival","Zach Bryan",79,79,"country, red dirt","Country","Elisabeth",2020-05-08,03:41,46,37,77,0,33,0,0,-9,G,4,2023-09-08,2QfX9Pdz3q66fN3kCXl0Js,"Warner Records",9B,TCAEW2013163
+705,"I Want to Know","KONGOS",42,158,"","","Lunatic",2014-01-27,03:55,58,74,15,0,81,0,10,-7,B,4,2023-09-08,3PLN4aXK0A8B76p0OYUDFd,"Epic",1B,USY741200005
+706,"Pumpin Blood","NONONO",60,119,"","","We Are Only What We Feel",2014-00-00,03:29,62,85,0,52,41,0,10,-4,G,4,2023-09-08,7ti4qMC7xYQeh1uRzj5XuM,"WM Sweden",9B,SEPQA1300173
+707,"Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault)","Taylor Swift,Fall Out Boy",69,131,"emo, pop punk, emo pop","Rock, Pop","Speak Now (Taylor's Version)",2023-07-07,04:26,55,85,2,0,26,0,10,-5,G,4,2023-09-08,4e3ZNTAV6PCrdYMUrUlMpQ,"Taylor Swift",9B,USUG12302089
+708,"Radio","Lana Del Rey",69,75,"","","Born To Die – Paradise Edition (Special Version)",2012-01-01,03:34,42,84,22,0,20,0,0,-5,D,4,2023-09-08,3QhfFRPkhPCR1RMJWV1gde,"Urban",10B,GBUM71111570
+709,"Snow On The Beach (feat. More Lana Del Rey)","Taylor Swift,Lana Del Rey",74,110,"","","Midnights (The Til Dawn Edition)",2023-05-26,03:49,66,40,80,0,27,0,10,-11,F#/G♭ minor,4,2023-09-08,4zmKGsrXjLmljb5fTaBTot,"Taylor Swift",11A,USUG12302773
+710,"Shake It Out","Florence + The Machine",68,107,"baroque pop","Classical, Pop","Ceremonials (Deluxe Edition)",2011-01-01,04:37,53,80,1,0,22,0,10,-4,A#/B♭,4,2023-09-14,4lY95OMGb9WxP6IYut64ir,"Universal-Island Records Ltd.",6B,GBUM71107355
+711,"Right Here, for Now","Bakar",49,130,"","","Right Here, For Now",2023-08-16,03:00,80,58,4,0,78,0,30,-5,C,4,2023-09-14,2mMU463xwCEiBKJJTlA3tc,"Black Butter",8B,GBARL2300711
+712,"Think Fast (feat. Weezer)","Dominic Fike,Weezer",66,168,"alternative rock","Rock","Sunburn",2023-07-07,03:42,54,45,37,0,21,0,0,-8,D,4,2023-09-14,4Z59a9hIn8EMsni3OiqGso,"Columbia",10B,USQX92301811
+713,"Acting My Age","The Academic",48,120,"","","Acting My Age",2020-07-06,03:42,66,77,0,0,77,0,30,-4,A,4,2023-09-14,3kcX1eNaWhs3uqgwpRWgID,"Capitol Records UK / EMI",11B,GBUM72001383
+714,"Fighting in the Car","Joe P",57,83,"","","Emily Can't Sing",2021-10-22,04:03,48,66,4,0,38,0,10,-7,E,4,2023-09-14,0UbaQxJaWOxM537N5H6UI7,"Neon Gold/Atlantic",12B,QZQAY2182975
+715,"These Days","Dr. Dog",38,166,"","","Be The Void (Deluxe Edition)",2012-02-07,02:47,42,92,24,0,65,0,20,-3,G,4,2023-09-14,3BoBUG1fyUQvuDuGQnqPtp,"Anti/Epitaph",9B,USEP41130005
+716,"Shadow People","Dr. Dog",49,177,"","","Shame, Shame (Deluxe Edition)",2010-11-02,04:13,43,71,12,0,48,0,10,-5,G,4,2023-09-14,209g8XrYu3ov4Wt4bRk2Yw,"Anti/Epitaph",9B,USEP40937002
+717,"Animal","Sir Chloe",0,83,"","","Party Favors",2020-10-23,02:40,50,46,41,0,34,0,10,-6,G,4,2023-09-23,1iBljl6IFBU6OkUMJVKMbn,"Terrible Records",9B,QZDA71914491
+718,"Washing Machine Heart","Mitski",86,106,"","","Be the Cowboy",2018-08-17,02:08,61,82,1,51,57,0,40,-4,A,4,2023-09-23,3jjsRKEsF42ccXf8kWR3nu,"Dead Oceans",11B,USJ5G1815012
+719,"I Think I Like When It Rains","WILLIS",6,124,"","","Locals 2",2017-06-12,04:38,62,47,4,0,28,0,10,-7,A,4,2023-09-23,5S5u0EWtlblH00iTNExZ6X,"WILLIS",11B,QMAAK1724976
+720,"Miss Mary","Sarah and the Sundays",40,80,"","","The Living End",2021-10-15,02:10,44,88,4,0,91,0,10,-8,D,4,2023-09-23,7qGMnhznZqLYApUezeicfx,"Sarah and the Sundays/Fourward Music",10B,GBKPL2150577
+721,"Chelsea Dagger","The Fratellis",65,155,"","","Costello Music",2007-01-01,03:35,51,82,5,0,55,10,0,-3,G,4,2023-10-09,3ItzRpwvKtkDSNdRSjXu7Z,"Interscope",9B,GBUM70601571
+722,"Me and My Husband","Mitski",0,172,"","","Be the Cowboy",2018-08-17,02:17,50,64,5,0,77,0,30,-5,C♯/D♭,4,2023-10-09,5ErtQGRKEibK2WHaA729O8,"Dead Oceans",3B,USJ5G1815007
+723,"Dial Drunk","Noah Kahan",71,112,"","","Stick Season (We'll All Be Here Forever)",2023-06-09,03:33,70,59,9,0,63,0,10,-8,G#/A♭,4,2023-10-10,0caJ2wkqp4UmXBwdR2JvB5,"Mercury Records/Republic Records",4B,USUM72307683
+724,"Off My Mind","Joe P",0,112,"","","Off My Mind",2021-05-12,03:33,57,69,31,0,75,0,10,-7,C,4,2023-10-11,3X91uoqAVtHmqv1bvZbNog,"Neon Gold Records",8B,QM24S2102212
+725,"My Love Mine All Mine","Mitski",89,114,"","","The Land Is Inhospitable and So Are We",2023-09-15,02:17,50,31,87,14,12,0,10,-15,A,4,2023-10-12,3vkCueOmm7xQDoJ17W1Pm3,"Dead Oceans",11B,USJ5G2335007
+726,"Blondie","Current Joys",16,122,"","","Wild Heart",2013-01-02,03:14,78,63,62,90,87,0,0,-13,F#/G♭,4,2023-10-16,7sIx70dGj3VBiHWr0KZXfD,"Current Joys",2B,TCACS1661024
+727,"New Flesh","Current Joys",14,166,"","","Wild Heart",2013-01-02,02:47,62,59,89,50,70,0,0,-16,A,4,2023-10-16,6HJxxqHWMdidwTVZmZWeHU,"Current Joys",11B,TCACS1660968
+728,"Memories","Conan Gray",81,113,"","","Superache",2022-06-24,04:08,34,68,1,0,56,0,30,-6,B,4,2023-12-05,5UXJzLFdBn6u9FJTCnoHrH,"Republic Records",1B,USUM72204111
+729,"West Coast","Lana Del Rey",86,123,"","","Ultraviolence (Deluxe)",2014-01-01,04:16,53,59,19,2,46,0,0,-8,F#/G♭ minor,4,2023-12-21,5Y6nVaayzitvsD5F7nr3DV,"Polydor Records",11A,GBUM71402081
+730,"Back On 74","Jungle",84,146,"","","Volcano",2023-08-11,03:29,62,76,21,0,19,10,20,-7,A#/B♭ minor,4,2025-01-27,19kHhX6f6EfLU7rcO3RqjO,"Caiola Records",3A,QM4TX2336316
+731,"Never Enough","Rex Orange County",60,159,"bedroom pop","Pop","Apricot Princess",2017-04-26,04:58,51,89,1,0,53,0,0,-4,E,4,2025-01-27,2UO6VQNKdwygetKaVCe39h,"Rex Orange County",12B,US23A1500503
+732,"I Don't Love You Anymore","The Honeysticks,Ricky Montgomery",4,120,"","","I Don't Love You Anymore",2018-02-09,03:45,69,55,16,48,65,0,10,-9,D,4,2025-01-27,2029ByPmrVQrMjVsIcy5fz,"The Honeysticks",10B,USA2P1805822
+733,"Dancing In The Courthouse","Dominic Fike",58,77,"","","Sunburn",2023-07-07,02:37,57,76,9,0,72,0,30,-5,D,4,2025-01-27,5fX8WljoAFrmFrFqahjz4Y,"Columbia",10B,USQX92301814
+734,"Feather","Sabrina Carpenter",87,124,"","","emails i can’t send fwd:",2023-03-17,03:05,79,69,7,0,83,0,10,-4,F#/G♭ minor,4,2025-01-27,2Zo1PcszsT9WQ0ANntJbID,"Island Records",11A,USUM72301876
+735,"Your Apartment","Wallows",53,142,"indie","Pop, Rock","Your Apartment",2024-02-16,03:18,55,86,0,0,72,0,10,-4,E,4,2025-01-27,2F8GiqfSE1JSjLGHlHMmQa,"Atlantic Records",12B,USAT22314241
+736,"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)","Cautious Clay,Remi Wolf,sophie meiers,Still Woozy,Claud,Melanie Faye,HXNS",57,120,"bedroom pop, indie pop, neo soul, ","Pop, Rock, R&B","Cheesin'",2020-04-22,02:18,82,62,20,0,97,0,10,-6,A minor,4,2025-01-27,6lIRYe72fn1pf7TNqfI0ul,"Republic Records",8A,USUG12001416
+737,"Too Much","girl in red",55,162,"bedroom pop","Pop","Too Much",2024-02-09,03:03,53,61,23,0,38,0,10,-6,F minor,4,2025-01-27,36FZL9SzRh5BhtG1cUyGWr,"Columbia",4A,USSM12400213
+738,"Ghost","Steven James",37,120,"","","Ghost",2023-11-03,03:04,67,75,14,0,43,0,10,-6,G minor,4,2025-01-27,0uwtm9ukSarYFqalRStZtb,"Anarchist Music LLC",6A,QMFME2370551
+739,"The Suburbs","Arcade Fire",68,118,"indie rock, baroque pop","Classical, Pop, Rock","The Suburbs (Deluxe)",2010-07-01,05:15,62,69,6,2,54,0,10,-6,F#/G♭ minor,4,2025-01-27,5iItYl3Q6wCnKVfpK1uNVf,"Sony Music CG",11A,GBUM71018417
+740,"A-Punk","Vampire Weekend",69,175,"indie, baroque pop","Classical, Pop, Rock","Vampire Weekend",2008-01-29,02:17,55,82,1,4,85,0,10,-4,D,4,2025-01-27,3AydAydLzyyZutA0375XIz,"XL Recordings",10B,GBBKS0700527
+741,"Campus","Vampire Weekend",62,163,"indie, baroque pop","Classical, Pop, Rock","Vampire Weekend",2008-01-29,02:56,64,70,22,9,65,0,0,-6,G,4,2025-01-27,1eNrlXlW7Cj1QB1YUcZmpb,"XL Recordings",9B,GBBKS0700530
+742,"Float On","Modest Mouse",77,101,"indie rock, indie, alternative rock","Rock, Pop","Good News For People Who Love Bad News",2004-04-05,03:28,65,89,1,0,55,0,0,-5,F#/G♭,4,2025-01-27,2lwwrWVKdf3LR9lbbhnr6R,"Epic",2B,USSM10315494
+743,"Real Love Baby","Father John Misty",81,204,"chamber pop","Pop","Real Love Baby",2016-07-26,03:09,42,69,10,3,63,0,10,-6,G,4,2025-01-27,0Z57YWES04xGh3AImDz6Qr,"Sub Pop Records",9B,USSUB1618101
+744,"Saturn","SZA",83,178,"r&b","R&B","Saturn",2024-02-22,03:06,41,62,62,0,34,0,10,-7,C♯/D♭,4,2025-01-27,1bjeWoagtHmUKputLVyDxQ,"Top Dawg Entertainment/RCA Records",3B,USRC12400216
+745,"Shotput","Still Woozy",51,101,"bedroom pop","Pop","Shotput",2024-03-22,02:50,71,66,32,0,90,0,10,-5,F#/G♭ minor,4,2025-01-27,6RmWk7p9QY8VMGHdgq4Ulh,"Still Woozy Productions Inc., under exclusive license to Interscope Records",11A,USUG12401817
+746,"I'm in Love","Jelani Aryeh",46,142,"","","I'm in Love",2024-01-19,03:16,66,79,1,8,93,0,10,-5,A,4,2025-01-27,1dIFbYpiDnHMz5JPGuNAV1,"Ballona Record Company",11B,USA2P2358907
+747,"Little Lies - 2017 Remaster","Fleetwood Mac",79,125,"classic rock, soft rock","Rock","Tango In the Night (Deluxe Edition)",1987-04-13,03:41,64,65,22,0,87,0,0,-10,D,4,2025-01-27,4CoSCPlKNrWli7E5kFtbcl,"Rhino/Warner Records",10B,USRH11602193
+748,"Doses & Mimosas","Cherub",74,115,"","","Year of the Caprese",2014-00-00,05:23,78,66,11,0,35,10,0,-7,F,4,2025-01-27,44CZRkOxv7UItaAUmh8PgN,"Columbia",7B,USSM11306037
+749,"Again","Still Woozy",51,90,"bedroom pop","Pop","Again",2024-04-19,02:53,67,67,24,0,82,0,20,-8,F#/G♭ minor,4,2025-01-27,7e0LOBvgnz3Rnu20gUKOeh,"Still Woozy Productions Inc., under exclusive license to Interscope Records",11A,USUG12402300
+750,"Put Your Records On","Corinne Bailey Rae",82,96,"","","Corinne Bailey Rae",2006-01-01,03:35,74,51,17,0,54,0,10,-8,A,4,2025-01-27,2nGFzvICaeEWjIrBrL2RAx,"EMI Records",11B,GBAYE0501671
+751,"Upside Down","Jack Johnson",69,102,"surf rock","Rock","Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",2006-00-00,03:28,79,66,24,0,65,0,10,-8,F#/G♭ minor,4,2025-01-27,6shRGWCtBUOPFLFTTqXZIC,"Brushfire Records/Universal",11A,USUG10500591
+752,"Listen to the Music","The Doobie Brothers",84,106,"classic rock, soft rock, southern rock","Rock","Toulouse Street",1972-00-00,03:47,65,60,22,0,91,0,0,-13,C♯/D♭ minor,4,2025-01-27,7Ar4G7Ci11gpt6sfH9Cgz5,"Warner Records",12A,USWB10000626
+753,"Midnight City","M83",75,105,"","","Hurry Up, We're Dreaming",2011-00-00,04:01,53,71,2,0,32,0,10,-7,B minor,4,2025-01-27,1eyzqe2QqGZUmfcPZtrIyt,"Mute",10A,GB55H1100002
+754,"Better Together","Jack Johnson",77,110,"surf rock","Rock","In Between Dreams",2005-01-01,03:27,87,35,30,0,66,0,10,-9,F,4,2025-01-27,2iXdwVdzA0KrI2Q0iZNJbX,"Jack Johnson",7B,USMC60400027
+755,"It Never Rains in Southern California","Albert Hammond",70,117,"","","It Never Rains In Southern California",1972-08-16,03:53,63,56,12,0,92,0,0,-10,A,4,2025-01-27,6tunhVGD8C05MZNjSVIsjw,"Legacy Recordings",11B,USSM17200519
+756,"Sex on Fire","Kings of Leon",86,153,"modern rock","Rock","Only By The Night",2008-09-23,03:23,54,91,0,1,37,0,10,-6,A,4,2025-01-27,0ntQJM78wzOLVeCUAW7Y45,"RCA/Legacy",11B,USRC10800300
+757,"Sitting, Waiting, Wishing","Jack Johnson",71,105,"surf rock","Rock","In Between Dreams",2005-01-01,03:03,77,55,23,0,56,0,10,-7,C,4,2025-01-27,1dnXuEuApvuVqQCn0v9McL,"Jack Johnson",8B,USMC60400026
+758,"Alive","Empire Of The Sun",72,120,"","","Ice On The Dune",2013-01-01,03:24,52,89,10,0,40,0,0,-3,F,4,2025-01-27,5WBnKCEsPwsvWHUZmLjS3s,"EMI Recorded Music Australia Pty Ltd",7B,AUEI11300006
+759,"Amber","311",71,166,"reggae rock, funk rock, rap rock","R&B, Rock, Hip Hop, Reggae","Greatest Hits '93 - '03",2004-06-08,03:31,66,73,12,0,75,0,10,-9,E minor,4,2025-01-27,51UtgWS4z1eMPuLQOzPtNH,"Volcano",9A,USVR10100044
+760,"In My Mind","Lyn Lapid",70,136,"","","In My Mind",2021-08-20,02:42,67,39,79,0,32,0,30,-12,D minor,3,2025-01-27,2W779g2UrRZtVdf3FcEOO1,"Republic Records",7A,USUM72115062
+761,"Gold on the Ceiling","The Black Keys",67,130,"blues rock, garage rock, modern blues, rock","Blues, Rock","El Camino",2011-12-06,03:44,51,83,1,0,56,0,0,-5,C,4,2025-01-27,5lN1EH25gdiqT1SFALMAq1,"Nonesuch",8B,USNO11100275
+762,"All Your Life","Still Woozy",47,116,"bedroom pop","Pop","All Your Life",2024-05-17,03:16,71,78,3,2,79,0,0,-7,G#/A♭,4,2025-01-27,5tL2wDaEAsdTGLa8hN5NWq,"Still Woozy Productions Inc., under exclusive license to Interscope Records",4B,USUG12402310
+763,"I've Been In Love","Jungle,Channel Tres",74,115,"hip house","Electronic, Hip Hop","Volcano",2023-08-11,02:49,68,51,42,0,59,0,40,-9,A minor,4,2025-01-27,7j3zZ2jAjzFD60UjhldhHo,"Caiola Records",8A,QM4TX2336314
+764,"Home (with Stick Figure)","Jack Johnson,Stick Figure",61,120,"surf rock, reggae, reggae rock, roots reggae","Reggae, Rock","Home (with Stick Figure)",2024-04-26,03:30,93,54,32,3,54,0,0,-6,F minor,4,2025-01-27,1GwcqCWWQwzt6r09rQjqQQ,"Ruffwood Records",4A,GBWUL2447547
+765,"Red Wine Supernova","Chappell Roan",85,124,"","","The Rise and Fall of a Midwest Princess",2023-09-22,03:12,66,82,2,0,71,0,0,-4,A,4,2025-01-27,7FOgcfdz9Nx5V9lCNXdBYv,"Chappell Roan PS/ Island",11B,USUG12301845
+766,"Right Down the Line","Gerry Rafferty",81,128,"","","City to City",1978-00-00,04:27,78,32,21,0,77,0,10,-15,C,4,2025-01-27,2Xb6wJYGi0QXwURw5WWvI5,"Parlophone UK",8B,GBAYE7800544
+767,"drive ME crazy!","Lil Yachty",79,107,"","","Let’s Start Here.",2023-01-27,03:49,50,83,17,0,44,0,30,-4,A#/B♭ minor,4,2025-01-27,6luBKkFUt5wTwz7hpLhp12,"Quality Control Music/Motown Records",3A,USUG12207176
+768,"Brain Damage","Pink Floyd",70,134,"progressive rock, psychedelic rock, classic rock, symphonic rock, art rock, rock","Rock","The Dark Side of the Moon",1973-03-01,03:46,32,27,7,34,21,0,30,-13,D,4,2025-01-27,05uGBKRCuePsf43Hfm0JwX,"Pink Floyd Records",10B,GBN9Y1100140
+769,"Good Luck, Babe!","Chappell Roan",94,117,"","","Good Luck, Babe!",2024-04-05,03:38,70,58,5,0,79,0,0,-6,B minor,4,2025-01-27,0WbMK4wrZ1wFSty9F7FCgu,"Chappell Roan PS/ Island",10A,USUG12401967
+770,"Wish I Knew You","The Revivalists",74,101,"","","Men Amongst Mountains",2015-07-15,04:34,65,72,14,7,72,0,10,-7,C minor,4,2025-01-27,2EWpa5XnAuSn0sIkSSIhYk,"Concord Records",5A,USWU31500062
+771,"Talk is Cheap","Dr. Dog",43,171,"","","Dr. Dog",2024-07-19,04:30,55,75,10,1,88,0,20,-9,D,4,2025-01-27,45DFMibGGTU5cqIi1cU1EZ,"We Buy Gold Records",10B,QMB622401508
+772,"Fat Dog","Dr. Dog",33,134,"","","Dr. Dog",2024-07-19,04:30,46,64,5,3,81,0,10,-10,F#/G♭,4,2025-01-27,0PWvJ7wF2FycWVvLMQRqoV,"We Buy Gold Records",2B,QMB622401503
+773,"misses","Dominic Fike",79,120,"","","14 minutes",2024-05-03,01:14,58,51,13,73,59,0,30,-6,D,4,2025-01-27,6WTFHKrnZpwEBLRS10Ylqs,"Columbia",10B,USQX92401826
+774,"Lost Ones","Dr. Dog",36,109,"","","Dr. Dog",2024-07-19,04:30,50,72,4,0,54,0,10,-8,G,4,2025-01-27,1eTqpWYQf5w5osZizi2I5b,"We Buy Gold Records",9B,QMB622401506
+775,"Pink Pony Club","Chappell Roan",89,107,"","","The Rise and Fall of a Midwest Princess",2023-09-22,04:18,61,65,40,0,51,0,10,-6,F#/G♭,4,2025-01-27,1k2pQc5i348DCHwbn5KTdc,"Chappell Roan PS/ Island",2B,USAT22001300
+776,"Edge of Seventeen","Stevie Nicks",69,111,"","","Crystal Visions...The Very Best of Stevie Nicks",2007-03-27,05:29,59,83,28,0,64,0,0,-6,C,4,2025-01-27,2id8E4WvczfKHB4LHI7Np3,"Reprise",8B,USAT28300037
+777,"Radio","Lana Del Rey",52,75,"","","Born To Die (Deluxe Version)",2011-01-01,03:34,45,84,22,0,21,0,0,-5,D,4,2025-01-27,0PZ04XgQ14FmKZBg3Gxlhr,"Polydor Records",10B,GBUM71111570
+778,"My Kink Is Karma","Chappell Roan",74,87,"","","The Rise and Fall of a Midwest Princess",2023-09-22,03:42,56,60,1,0,42,0,10,-6,D,4,2025-01-27,32fSZSbxeVoiZShMQKLc6Z,"Chappell Roan PS/ Island",10B,USUG12302737
+779,"Love Me Not (feat. Rex Orange County)","Ravyn Lenae,Rex Orange County",82,114,"alternative r&b, bedroom pop","Pop, R&B","Love Me Not (feat. Rex Orange County)",2024-10-08,03:08,80,70,15,0,79,0,10,-7,C,4,2025-01-27,3ld1FzyNgpZwGn4h9cOXrq,"Atlantic Records",8B,USAT22408814
+780,"Mama's Boy","Dominic Fike",75,79,"","","Sunburn",2023-07-07,02:35,81,35,15,71,60,0,10,-8,A,4,2025-01-27,0b6xZk9f96N77BfmYWnQNC,"Columbia",11B,USQX92301820
+781,"Baby I'm Yours","Arctic Monkeys",72,114,"indie, garage rock","Rock, Pop","Leave Before The Lights Come On",2006-08-14,02:32,46,60,22,0,64,0,10,-9,D,4,2025-01-27,0SzvmWfOhoxZVGrmvb56YL,"Domino Recording Co",10B,GBCEL0600319
+782,"Knee Socks","Arctic Monkeys",78,98,"indie, garage rock","Rock, Pop","AM",2013-09-09,04:17,67,54,12,0,59,0,30,-8,B minor,4,2025-01-27,2LGdO5MtFdyphi2EihANZG,"Domino Recording Co",10A,GBCEL1300372
+783,"Running Away","Thee Sacred Souls",67,139,"retro soul","R&B","Running Away",2023-03-21,03:15,55,65,31,0,79,0,20,-7,D,4,2025-01-27,34VDj911PQh8B1BXYoOMLq,"Penrose / Daptone Records",10B,USA2B2307736
+784,"Be With You - 2022 Version","Sons of Zion",41,131,"nz reggae, reggae","Reggae","Sons of Zion",2022-12-23,03:40,82,62,1,0,83,0,0,-8,F#/G♭ minor,4,2025-01-27,0DpRKdn06BWfJlFd7eAyZt,"Sons of Zion Productions / Precise",11A,NZPB12203911
+785,"Francis Forever","Mitski",77,102,"","","Bury Me At Makeout Creek",2014-11-11,02:29,54,45,0,0,32,0,10,-9,D,4,2025-01-27,5411TEB6tlzvuF5A4oyldr,"Dead Oceans",10B,USA2B1511605
+786,"Should've Been Me","Mitski",64,90,"","","Laurel Hell",2022-02-04,03:11,51,63,1,0,57,0,10,-7,D minor,4,2025-01-27,5FQ9NDyx3KZXhovWWq4Gxo,"Dead Oceans",7A,USJ5G2125009
+787,"Anytime, Always","Wallows",55,134,"indie","Pop, Rock","Model",2024-05-24,02:04,53,91,1,0,80,0,20,-3,C♯/D♭ minor,4,2025-01-27,4JgqzrVkXyLH5IyYYXy0sh,"Atlantic Records",12A,USAT22401012
+788,"the perfect pair","beabadoobee",85,146,"bedroom pop","Pop","Beatopia",2022-07-15,02:57,63,66,43,12,60,0,10,-7,B,4,2025-01-27,41P6Tnd8KIHqON0QIydx6a,"Dirty Hit",1B,GBK3W2202093
+789,"Like Him (feat. Lola Young)","Tyler, The Creator,Lola Young",91,96,"","","CHROMAKOPIA",2024-10-28,04:38,39,56,29,0,19,0,10,-7,E minor,3,2025-01-27,6jbYpRPTEFl1HFKHk1IC0m,"Columbia",9A,USQX92405794
+790,"Glue Song (feat. Clairo)","beabadoobee,Clairo",77,114,"bedroom pop","Pop","Glue Song (feat. Clairo)",2023-04-17,02:15,62,39,78,1,53,0,10,-10,C♯/D♭,3,2025-01-27,0tMMPZEt6Gyrl9FI8zSicm,"Dirty Hit",3B,GBK3W2302605
+791,"Every Little Thing","Peach Pit",55,130,"","","Magpie",2024-10-25,03:49,63,70,0,0,70,0,0,-5,F#/G♭,4,2025-01-27,07PKvNFfqWrhTHBIX2Z2so,"Columbia",2B,USSM12403835
+792,"Sailor Song","Gigi Perez",94,95,"","","Sailor Song",2024-07-26,03:31,49,41,68,0,27,0,10,-10,B,4,2025-01-27,2262bWmqomIaJXwCRHr13j,"Gigi Perez PS/ Island",1B,USHM92438095
+793,"Homesick","Noah Kahan",73,170,"","","Stick Season",2022-10-14,03:14,51,62,3,0,41,0,30,-7,F#/G♭,4,2025-01-27,0jkzxxDG8z3Y5OmfNl1VM0,"Mercury Records/Republic Records",2B,USUM72217180
+794,"Sweet Life","Frank Ocean",75,83,"","","channel ORANGE",2012-07-10,04:22,48,56,23,0,80,10,0,-6,B,4,2025-01-27,6MEDfjHxnVNcYmHe3mM6L2,"Red Zone Entertainment / IDJ",1B,USUM71207177
+795,"Lost In Yesterday","Tame Impala",71,183,"indie, psychedelic pop","Pop, Rock","The Slow Rush",2020-02-14,04:09,57,84,3,0,75,10,10,-4,C♯/D♭,3,2025-01-27,5JWPUEov2wlX7c0jhYZpeB,"Universal Music Australia Pty. Ltd.",3B,AUUM71900932
+796,"The King","Sarah Kinsley",61,109,"","","The King",2021-06-04,03:26,63,67,8,11,72,0,0,-6,F#/G♭,4,2025-01-27,3qs1ozCx271UQqmzC7oNuj,"Everybody's Records",2B,GBKPL2151554
+797,"Under The Weather","Mac Miller",0,120,"","","Blue Slide Park",2011-11-08,04:20,72,79,13,0,61,10,30,-5,A#/B♭,4,2025-01-27,15NEIBMCFHg6UElFbxQuph,"Rostrum Records",6B,USQY51145581
+798,"Brooklyn Baby","Lana Del Rey",85,108,"","","Ultraviolence (Deluxe)",2014-01-01,05:51,40,66,54,0,9,0,10,-7,C♯/D♭,4,2025-01-27,1NZs6n6hl8UuMaX0UC0YTz,"Polydor Records",3B,GBUM71402169
+799,"Messy","Lola Young",90,111,"","","This Wasn't Meant For You Anyway",2024-06-21,04:44,80,56,11,1,65,0,10,-6,A,4,2025-01-27,35ISBknsCeZQtq66xABI9g,"Universal-Island Records Ltd.",11B,GBUM72401610
+800,"Silver Springs - 2004 Remaster","Fleetwood Mac",70,179,"classic rock, soft rock","Rock","Rumours (Deluxe Edition)",1977-02-04,04:48,35,58,1,5,43,0,20,-8,C,4,2025-01-27,2Y8BloifAHEn6GproQgPs7,"Rhino/Warner Records",8B,USWB11301121
+801,"Candle Flame","Jungle,Erick the Architect",73,123,"","","Volcano",2023-08-11,02:54,67,72,14,0,59,0,90,-7,A minor,4,2025-01-27,1Ad2HcIX9zBqoWRvxtpYGf,"Caiola Records",8A,QM4TX2306635
+802,"Linger","The Cranberries",86,95,"","","Everybody Else Is Doing It, So Why Can't We?",1993-03-01,04:34,44,43,8,0,20,0,10,-15,G,4,2025-01-27,0gEyKnHvgkrkBM6fbeHdwK,"Island Records",9B,USIR29300085
+803,"Just Like a Movie","Wallows",60,136,"indie","Pop, Rock","Nothing Happens (5th Anniversary Edition)",2019-03-22,04:07,45,83,0,0,22,0,20,-5,B,4,2025-05-05,3FUFJ8554hnrbA7zKoU2au,"Atlantic Records",1B,USAT21900584
+804,"One Love / People Get Ready","Bob Marley & The Wailers",3,154,"reggae, roots reggae","Reggae","Exodus",1977-06-03,02:52,67,51,7,0,94,30,0,-10,F minor,4,2025-05-05,6SR0dDuXH2vtgBfMLrivKV,"Tuff Gong",4A,GBAAN7790002
+805,"Heart Of Glass","Blondie",67,115,"","","Parallel Lines",1978-09-23,03:49,77,65,5,0,69,0,0,-6,E,4,2025-05-05,4v2rkl1mC3zVAz0nXMx9r4,"Chrysalis\EMI Records (USA)",12B,USCH37800029
+806,"Sundress","A$AP Rocky",87,125,"rap","Hip Hop","Sundress",2018-11-20,02:38,72,71,18,0,74,0,10,-6,F#/G♭,4,2025-05-05,2aPTvyE09vUCRwVvj0I8WK,"A$AP Worldwide/Polo Grounds Music/RCA Records",2B,USRC11803252
+807,"So Much Trouble In The World","Bob Marley & The Wailers",71,156,"reggae, roots reggae","Reggae","Survival",1979-10-02,04:00,84,55,24,0,90,0,0,-9,A minor,4,2025-05-05,209SbubR5uKaVzj5SeN42w,"Island Records",8A,USIR27900001
+808,"Guilty as Sin?","Taylor Swift",78,95,"","","THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",2024-04-19,04:14,63,43,61,0,49,0,0,-8,D,3,2025-05-05,799KrpEbhZp0MHeiA8YK9P,"Taylor Swift",10B,USUG12401036
+809,"Where Is My Mind?","Pixies",3,81,"alternative rock","Rock","Surfer Rosa (Remastered)",1988-00-00,03:56,52,44,2,0,27,0,0,-14,E,4,2025-05-05,6mcxQ1Y3uQRU0IHsvdNLH1,"4AD",12B,GBAFL0700145
+810,"Rhinestone Eyes","Gorillaz",79,93,"","","Plastic Beach",2010-03-03,03:20,68,70,9,0,85,0,0,-6,G#/A♭ minor,4,2025-05-05,1foMv2HQwfQ2vntFf9HFeG,"Parlophone UK",1A,GBAYE1000017
+811,"Pimper's Paradise","Bob Marley & The Wailers",70,135,"reggae, roots reggae","Reggae","Uprising",1980-06-10,03:27,94,65,1,0,97,0,0,-8,A minor,4,2025-05-05,5JqCmd41S3PZ2AS6GuHqcR,"Island Records",8A,USIR28000015
+812,"Lonely Boy","The Black Keys",71,166,"blues rock, garage rock, modern blues, rock","Blues, Rock","El Camino",2011-12-06,03:13,36,87,0,1,61,0,10,-8,D,4,2025-05-05,5G1sTBGbZT5o4PNRc75RKI,"Nonesuch",10B,USNO11100273
+813,"Back To Black","Amy Winehouse",75,123,"","","Back To Black",2006-10-27,04:00,49,73,12,0,34,0,10,-3,A#/B♭,4,2025-05-05,30FURVTCpbKyykjSEQzGkH,"Universal-Island Records Ltd.",6B,GBUM70604698
+814,"Gold on the Ceiling - 2021 Remaster","The Black Keys",71,130,"blues rock, garage rock, modern blues, rock","Blues, Rock","El Camino (2021 Remaster)",2011-00-00,03:44,50,80,1,0,55,0,10,-5,C,4,2025-05-05,54bO2CHOgGN44oWmAqib0I,"Nonesuch",8B,USNO12100178
+815,"From The Start","Laufey",84,81,"","","Bewitched",2023-09-08,02:49,55,34,89,0,83,0,10,-10,C♯/D♭,4,2025-05-05,43iIQbw5hx986dUEZbr3eN,"Laufey",3B,QMDA62312093
+816,"Let's Go Back","Jungle",75,72,"","","Let's Go Back",2024-09-04,02:49,53,75,15,0,79,0,20,-5,A minor,4,2025-05-05,3fvZo45Y28ly1QBo05pujJ,"Caiola Records",8A,QM7282461058
+817,"All Mixed Up","311",41,92,"reggae rock, funk rock, rap rock","R&B, Rock, Hip Hop, Reggae","Greatest Hits '93 - '03",2004-06-08,03:02,77,75,0,0,68,0,30,-8,A#/B♭ minor,4,2025-05-05,2eXybTEWeIc8y4WMJQwL6l,"Volcano",3A,USVR10300144
+818,"Hard to Believe","Wallows",49,108,"indie","Pop, Rock","Tell Me That It’s Over",2022-03-25,03:41,57,67,7,0,49,0,60,-6,D,4,2025-05-05,0KOUhmRuztZUFOl6QCogLE,"Atlantic Records",10B,USAT22106283
+819,"Need a Little Love","The Fratellis",32,98,"","","Half Drunk Under a Full Moon",2021-04-02,03:49,55,69,0,0,46,0,10,-6,C,4,2025-05-05,0ZLVVLGWen1f6sT2ry0zDc,"Cooking Vinyl Limited",8B,GBCEJ2000002
+820,"Keep Moving","Jungle",70,111,"","","Loving In Stereo",2021-08-13,04:00,72,60,18,0,56,0,0,-6,A#/B♭ minor,4,2025-05-05,4rf0IVQDFjr27T4sgah5Pf,"Caiola Records",3A,GBKPL2144811
+821,"Solar Power - Spotify Singles","Glass Animals",49,110,"","","Spotify Singles",2022-03-31,02:53,70,63,8,14,61,0,60,-9,E,4,2025-05-05,2JrkrX1MMmqpwfve5El6Re,"Polydor Records",12B,GBUM72200008
+822,"Uncomfortable","Wallows",60,142,"indie","Pop, Rock","Uncomfortable",2017-09-13,04:54,40,77,12,2,25,0,20,-3,D,4,2025-05-05,4BreyjJu4w5EUhTKPIQymq,"Atlantic Records",10B,USAT21801168
+823,"Close Your Eyes","The Backseat Lovers",57,109,"","","Waiting to Spill",2022-10-28,05:05,57,35,5,3,8,0,10,-10,D,4,2025-05-05,2VZFlunJX12zxbSrzMiDp2,"Capitol Records",10B,USUG12205615
+824,"Run It Back","Still Woozy",45,136,"bedroom pop","Pop","Loveseat",2024-06-28,02:27,66,64,76,0,43,0,10,-10,G#/A♭,4,2025-05-05,2HYfuXcKxTRvrjJKKPIhR1,"Still Woozy Productions Inc., under exclusive license to Interscope Records",4B,USUG12402329
+825,"Coffin Change","Wallows",58,152,"indie","Pop, Rock","Coffin Change",2025-02-20,03:05,41,88,0,0,45,0,20,-5,D,4,2025-05-05,4EW3Ebr82k827MUZK01syk,"Atlantic Records",10B,USAT22410660
+826,"Television / So Far So Good","Rex Orange County",76,165,"bedroom pop","Pop","Apricot Princess",2017-04-26,04:22,40,51,59,0,32,0,10,-8,F,4,2025-05-05,27rZYxE4l21wTaovX4WTnI,"Rex Orange County",7B,US23A1500497
+827,"Charlie's Garden","Djo",71,92,"psychedelic pop","Pop, Rock","The Crux",2025-04-04,03:25,78,47,29,0,69,0,0,-7,D,4,2025-05-05,4kPfzkWY23WgM902kNAQLn,"Twenty20 LLC",10B,QM4TW2525821
+828,"As It Was","Harry Styles",90,174,"","","Harry's House",2022-05-20,02:47,52,73,34,0,66,0,30,-5,F#/G♭ minor,4,2025-05-05,4Dvkj6JhhA12EX05fT7y2e,"Columbia",11A,USSM12200612
+829,"Sold out of Love","The Nude Party",0,145,"","","Sold out of Love",2023-02-23,04:19,44,79,7,15,59,0,30,-4,F#/G♭ minor,4,2025-05-05,6BKpJ2pDPixM3Nwqhr9999,"New West Records",11A,US27Q2253512
+830,"Shaky in the Knees","Grizfolk",51,117,"","","Rarest of Birds",2019-07-19,03:29,59,60,19,0,52,0,10,-7,G,3,2025-05-05,3cXQrWACMWmJTQaQUoqLMj,"Nettwerk Music Group",9B,TCADQ1842555
+831,"Peaches","In The Valley Below",59,104,"","","The Belt",2014-01-01,04:45,51,52,0,2,5,0,10,-8,G#/A♭ minor,4,2025-05-05,0JsRZWdSquAQtgyJO8mhLA,"Capitol Records (CAP)",1A,QMF5G1300001
+832,"Mystical Magical","Benson Boone",90,120,"","","Mystical Magical",2025-04-24,02:45,67,70,19,0,85,10,30,-4,B,4,2025-05-05,221eHga9f9Ne4f8D7WVgPT,"Night Street Records, Inc./Warner Records Inc.",1B,USWB12500844
+833,"Say You Love Me","Fleetwood Mac",73,128,"classic rock, soft rock","Rock","Fleetwood Mac",1975-07-11,04:09,72,60,2,1,96,0,10,-13,A,4,2025-05-05,6lrQo6KAYvb92MGk6ZuZlt,"Warner Records",11B,USWB19900205
+834,"Personal Lies","Djo",59,110,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:59,62,55,1,0,57,0,20,-8,C,4,2025-05-05,3HAYmp6l5lYGG8zz4qMbIX,"Djo",8B,GBKPL1963384
+835,"Hide It Away","Wallows",62,122,"indie","Pop, Rock","More",2025-03-28,02:49,49,82,1,0,59,0,10,-6,D minor,4,2025-05-05,2XLG8FRWlCChHrbfs9YvQN,"Atlantic Records",7A,USAT22410661
+836,"Alrighty Aphrodite","Peach Pit",69,82,"","","Being So Normal",2018-06-28,03:27,53,72,1,9,50,0,10,-5,F#/G♭ minor,4,2025-05-05,6OiRh4kttAs1YWglvTcYkB,"Columbia",11A,USSM11805171
+837,"Roddy","Djo",69,180,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:12,56,52,11,3,67,0,0,-9,C,4,2025-05-05,5hS8s1Vf4CeSRBT1bTWa39,"Djo",8B,GBKPL1959394
+838,"Chateau (Feel Alright)","Djo",71,135,"psychedelic pop","Pop, Rock","Twenty Twenty",2019-09-13,04:32,64,37,43,0,34,0,30,-12,G,4,2025-05-05,3vjs2MDHoF9xhylNg6Y9un,"Djo",9B,GBKPL1959342
+839,"Ice Cold Pool","Wallows",51,103,"indie","Pop, Rock","Nothing Happens",2019-03-22,03:57,57,66,1,0,36,0,10,-6,G,4,2025-05-05,2XzAcJx3qBDnS1hD2vNwbh,"Atlantic Records",9B,USAT21812260
+840,"Underneath the Streetlights in the Winter Outside Your House","Wallows",32,130,"indie","Pop, Rock","Nothing Happens (5th Anniversary Edition)",2019-03-22,01:10,37,66,0,88,66,0,60,-5,G#/A♭,4,2025-05-05,1XeboJPjb3Kt3HZbnSk9m6,"Atlantic Records",4B,USAT21810336
+841,"Slow Angel","Rebounder",42,172,"","","Subway Songs",2020-10-04,02:32,41,76,0,0,56,0,20,-7,C,4,2025-05-05,1IUBPR8G8IGguPUfffYeNV,"rebounder from New York",8B,QZ93L1960242
+842,"Treacherous Doctor","Wallows",56,160,"indie","Pop, Rock","Nothing Happens",2019-03-22,02:43,46,86,0,0,77,0,40,-6,F#/G♭ minor,4,2025-05-05,40WWDaK7arn7ilmufbHmdo,"Atlantic Records",11A,USAT21812256
+843,"Nobody Gets Me (Like You)","Wallows",47,116,"indie","Pop, Rock","Remote",2020-10-23,02:37,57,89,4,0,82,0,70,-1,D,4,2025-05-05,3st8GdrmGNJFupn8bffZ19,"Atlantic Records",10B,USAT22005094
+844,"water damage","Arlie",31,96,"","","Wait",2018-09-19,03:25,54,76,40,0,65,0,30,-5,F#/G♭,4,2025-05-05,4vRss7QBeHcSYK0ixXH2qu,"Atlantic Records",2B,USAT21807864
+845,"Dig What You Dug","Wallows",45,121,"indie","Pop, Rock","Remote",2020-10-23,02:57,62,75,1,0,63,0,10,-4,G#/A♭,4,2025-05-05,60B1Mzy3yNsbJSOHfp8H2U,"Atlantic Records",4B,USAT22005320
+846,"Your Apartment","Wallows",62,142,"indie","Pop, Rock","Model",2024-05-24,03:18,55,86,0,0,72,0,10,-4,E,4,2025-05-05,2go1eoJbYJafnVjhIumuP8,"Atlantic Records",12B,USAT22314241
+847,"Bad Dream","Wallows",64,176,"indie","Pop, Rock","Model",2024-05-24,03:30,49,88,10,0,90,0,10,-5,G,4,2025-05-05,7GXcuBE3Aiu8gUJjX8PSlV,"Atlantic Records",9B,USAT22401014
+848,"Calling After Me","Wallows",76,140,"indie","Pop, Rock","Model",2024-05-24,03:07,64,80,1,0,97,0,10,-5,G#/A♭,4,2025-05-05,6YVajR33kCWLhWpMVD8AGD,"Atlantic Records",4B,USAT22400290
+849,"FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis)","Tyler, The Creator,Charlie Wilson,Chaz Bundick,Syd,Kali Uchis",68,74,"sexy drill, psychedelic rock, alternative r&b, ","Pop, R&B, Rock, Hip Hop","Cherry Bomb",2015-04-13,06:41,23,71,3,0,35,10,10,-7,F,4,2025-05-05,46CA1H0T1r7u5lDUtVveAh,"Odd Future",7B,USQX91500712
+850,"When the World is Ending","Divine Sweater",53,123,"","","Down Deep (A Nautical Apocalypse)",2023-05-26,03:50,64,54,1,24,75,0,20,-8,B minor,4,2025-05-05,4JI4ngRRewsdqMn8SiKKQI,"Better Company Records LLC",10A,QM4TW2333006
+851,"Authority","Dr. Dog",37,117,"","","Dr. Dog",2024-07-19,03:30,55,91,4,0,86,0,0,-8,G,4,2025-05-05,3RGaIDdjcHuIs39vAMGzlx,"We Buy Gold Records",9B,QMB622401502
+852,"Your House","Steel Pulse",63,154,"reggae, roots reggae, ragga, rocksteady, dub","Electronic, Reggae, Hip Hop","True Democracy",1982-00-00,03:42,71,72,6,0,97,0,30,-9,A#/B♭ minor,4,2025-05-05,6PbtTwGUPPbnT7nRTA1gS3,"Rhino/Elektra",3A,USEE19901171
+853,"Milk & Honey","Hollie Cook",63,78,"reggae, dub, roots reggae, rocksteady","Electronic, Reggae","Hollie Cook",2011-00-00,03:39,75,68,24,0,78,10,0,-7,D,4,2025-05-05,5kHSFEtrXMjXnqSrgdg4bx,"Mr Bongo",10B,GBCLQ1100018
+854,"Not Alone","Wallows",56,130,"indie","Pop, Rock","More",2025-03-28,03:32,57,87,1,0,69,0,30,-5,C,4,2025-05-05,2DmaPKC5LcrV3LxtZNYAS3,"Atlantic Records",8B,USAT22401056
